@@ -2,14 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ramiroau.github.io/etc/wikis/cocina/pad_thai_sauce/</loc>
-    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+    <loc>http://ramiroau.github.io/intermediarios/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/intermediarios/content/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/tags/r/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ramiroau.github.io/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/tags/sna/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/tags/</loc>
+    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/pad_thai_sauce/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -192,20 +226,6 @@
   
   <url>
     <loc>http://ramiroau.github.io/tags/plain-text/</loc>
-    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/tags/r/</loc>
-    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/tags/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -863,11 +883,6 @@
     <loc>http://ramiroau.github.io/etc/wikis/foe/hilo_resp_intermediarios/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/mypost/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://ramiroau.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>La jurisprudencia como una red que crece</title>
+      <link>http://ramiroau.github.io/intermediarios/content/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/intermediarios/content/</guid>
+      <description>En esta sección el CELE presenta una visualización de la &amp;ldquo;jurisprudencia de intermediarios&amp;rdquo; en la Argentina, como solemos llamar a la serie de casos judiciales que&amp;mdash;en la última década y media&amp;mdash;han procurado resolver la cuestión de la responsabilidad civil de las plataformas de Internet por contenidos producidos por terceros. La investigación se encuentra en proceso de &amp;ldquo;revisión por pares&amp;rdquo;, pero esta entrada busca mostrar gráficamente algunos de los principales hallazgos. Especialmente busca mostrar la dimensión temporal de la jurisprudencia bajo análisis a través de herramientas no usualmente disponibles en las publicaciones académicas.</description>
+    </item>
     
     <item>
       <title>Pad Thai Sauce</title>
@@ -135,7 +144,7 @@ a. Laboral / sistema de castas de facto b. Tributaria / ley de coparticipación 
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://ramiroau.github.io/clases/programa_uba_v16/</guid>
-      <description>Elementos de derecho constitucional Cátedra Gargarella-Bouzat
+      <description>publicidad  Elementos de derecho constitucional Cátedra Gargarella-Bouzat
 Comisión 6651
 Introducción El derecho constitucional es una de las principales ramas del derecho: él se enfoca en las grandes estructuras jurídicas que rigen la vida de una comunidad. El derecho constitucional se vincula a la organización y distribución del poder, en estructuras formales que funcionan de acuerdo a reglas (y prácticas) específicas. La distribución del poder en una comunidad democrática es una cuestión compleja: en esta materia se aborda la dimensión formal de esta cuestión, con foco en lo que la Constitución Nacional establece.</description>
     </item>
@@ -973,8 +982,8 @@ En la Argentina, este derecho recibió tradicionalmente una protección generosa
       
       <guid>http://ramiroau.github.io/etc/wikis/foe/hilo_resp_intermediarios/</guid>
       <description>La demanda judicial de CFK merece una discusión, que es volver sobre la discusión de la responsabilidad de los intermediarios pero que requiere una actualización
-Pero es una historia larga y vale la pena contarla y empieza en el dorm de Larry Page y Sergei Brin en Stanford y la creación del algorítmo de PageRank® que es el motivo por el cual la casa de Page es grande
-PageRank® está basado en un principio de social network analytics (estoy mucho con eso) que es lo de in-degree: medimos el valor de un nodo por la cantidad de nodos que se dirigen a él.</description>
+ Pero es una historia larga y vale la pena contarla y empieza en el dorm de Larry Page y Sergei Brin en Stanford y la creación del algorítmo de PageRank® que es el motivo por el cual la casa de Page es grande
+ PageRank® está basado en un principio de social network analytics (estoy mucho con eso) que es lo de in-degree: medimos el valor de un nodo por la cantidad de nodos que se dirigen a él.</description>
     </item>
     
     <item>
@@ -983,7 +992,7 @@ PageRank® está basado en un principio de social network analytics (estoy mucho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://ramiroau.github.io/about/</guid>
-      <description>Soy abogado por la Universidad Católica Argentina (2003). Luego de un breve paso por el periodismo (2005-2006) me integré a la Asociación por los Derechos Civiles (ADC) como abogado del área de Libertad de Expresión (2007-2008). Trabajé en la Comisión Interamericana de Derechos Humanos (2009-2011) y regresé a la ADC como director del área de Acceso a la Información (2011-2014). Allí colaboré en la creación del área de Privacidad y Derechos Digitales.</description>
+      <description>De cuando me encontré a Amartya Sen en el Taj Mahal  Soy abogado por la Universidad Católica Argentina (2003). Luego de un breve paso por el periodismo (2005-2006) me integré a la Asociación por los Derechos Civiles (ADC) como abogado del área de Libertad de Expresión (2007-2008). Trabajé en la Comisión Interamericana de Derechos Humanos (2009-2011) y regresé a la ADC como director del área de Acceso a la Información (2011-2014).</description>
     </item>
     
     <item>

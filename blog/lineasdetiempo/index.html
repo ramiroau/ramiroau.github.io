@@ -53,7 +53,7 @@
 <meta itemprop="description" content="Sin pizarrón no podemos hacer las &ldquo;líneas de tiempo&rdquo; que siempre hacemos (¡la dimensión temporal explica muchas cosas!). En Derecho Constitucional y Cambio Social, la clase que damos con I.J. desde hace muchos años, siempre hablamos sobre el movimiento de DDHH y siempre hacemos una línea de tiempo en el pizarrón, contando la historia en sí y los distintos hitos legales que fueron ocurriendo con el correr de los años.">
 <meta itemprop="datePublished" content="2020-05-19T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2020-05-19T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="602">
+<meta itemprop="wordCount" content="607">
 
 
 
@@ -201,7 +201,12 @@
       <p>Sin pizarrón no podemos hacer las &ldquo;líneas de tiempo&rdquo; que siempre hacemos (¡la dimensión temporal explica muchas cosas!). En <em>Derecho Constitucional y Cambio Social</em>, la clase que damos con I.J. desde hace muchos años, <em>siempre</em> hablamos sobre el movimiento de DDHH y <em>siempre</em> hacemos una línea de tiempo en el pizarrón, contando la historia en sí y los distintos hitos legales que fueron ocurriendo con el correr de los años.</p>
 <p>Me puse a buscar la forma de armar una línea de tiempo sencilla. Primero intenté con una versión de <a href="https://mermaid-js.github.io/mermaid/#/gantt">Mermaid</a> que no está mal pero funciona mejor para otras cosas (p.ej., para los hechos de casos de DDHH, que en general son complejos y están muy desordenados). Terminé haciéndolo en <code>ggplot2</code>, siguiendo <a href="https://benalexkeen.com/creating-a-timeline-graphic-using-r-and-ggplot2/">este modelo</a>. El código, más abajo.</p>
 <h1 id="historia-del-mdh">Historia del MDH</h1>
-<p><img src="/pics/timeline_mdh.png#superwider" alt="" title="Principales hitos legales del MDH"></p>
+<p>
+  <figure>
+    <img src="/pics/timeline_mdh.png#superwider" alt="">
+    <figcaption style = "font-style: italic; padding: 2px; text-align: center">Principales hitos legales del MDH</figcaption>
+  </figure>
+</p>
 <p><code>timeline_mdh.csv</code></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
