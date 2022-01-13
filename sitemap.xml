@@ -866,6 +866,11 @@
   </url>
   
   <url>
+    <loc>http://ramiroau.github.io/mypost/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ramiroau.github.io/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
