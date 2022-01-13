@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://ramiroau.github.io/publicaciones/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Freedom of expression and populist politics in Latin America</title>
+      <link>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</guid>
+      <description>This chapter seeks to describe the normative underpinnings of the freedom of expression debate which engulfed Latin America in the last few years, specially around the push, led by some countries, to reform the Inter-American Human Rights System. Based on this analysis, the chapter argues for a conflicting relationship between populist politics and freedom of expression. With the dust settled over the Inter-American reform process, the analysis seems timely and relevant given the decline of left-wing populism in the region and the rise of right-wing populism worldwide.</description>
+    </item>
+    
+    <item>
+      <title>Freedom of information in Latin America</title>
+      <link>http://ramiroau.github.io/publicaciones/foi/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/foi/</guid>
+      <description>In the impossible quest for a kind of representation transparent enough to suppress the anxieties created by democracy, the moments between elections become crucial for sustaining the legitimacy of a political regime. This is where the issue of transparency in government and the right to information it ensues should be anchored: on the permanent, non-electoral mechanisms through which governments and public officials relate, and are accountable, to citizens. From this conceptual point of view, the right to information and government transparency policies are part of the social accountability mechanisms through which citizens keep their government in check.</description>
+    </item>
     
     <item>
       <title>The I·CONnect-Clough Center 2020 Global Review of Constitutional Law: Argentina Report</title>
@@ -40,15 +58,6 @@
     </item>
     
     <item>
-      <title>Freedom of expression and populist politics in Latin America</title>
-      <link>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</guid>
-      <description>This chapter seeks to describe the normative underpinnings of the freedom of expression debate which engulfed Latin America in the last few years, specially around the push, led by some countries, to reform the Inter-American Human Rights System. Based on this analysis, the chapter argues for a conflicting relationship between populist politics and freedom of expression. With the dust settled over the Inter-American reform process, the analysis seems timely and relevant given the decline of left-wing populism in the region and the rise of right-wing populism worldwide.</description>
-    </item>
-    
-    <item>
       <title>Layers of crises: when pandemics meet institutional and economic havoc</title>
       <link>http://ramiroau.github.io/publicaciones/layers/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
@@ -64,15 +73,6 @@
       
       <guid>http://ramiroau.github.io/publicaciones/experiencias_deliberativas/</guid>
       <description>Este trabajo presenta un breve análisis de lo que Roberto Gargarella llama &amp;ldquo;iniciativas políticas favorables a la democracia deliberativa&amp;rdquo; (IPDD). El trabajo se pregunta por el tipo de problemas que ellas vienen a resolver, y propone una respuesta doble: problemas representativos y problemas deliberativos. Ambos son teóricamente distintos, pero se confunden en la práctica. Argumento que la distinción es relevante, ya que permite tomar de las IPDD distintas características dependiendo del problema que estemos abordando.</description>
-    </item>
-    
-    <item>
-      <title>Freedom of information in Latin America</title>
-      <link>http://ramiroau.github.io/publicaciones/foi/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://ramiroau.github.io/publicaciones/foi/</guid>
-      <description>In the impossible quest for a kind of representation transparent enough to suppress the anxieties created by democracy, the moments between elections become crucial for sustaining the legitimacy of a political regime. This is where the issue of transparency in government and the right to information it ensues should be anchored: on the permanent, non-electoral mechanisms through which governments and public officials relate, and are accountable, to citizens. From this conceptual point of view, the right to information and government transparency policies are part of the social accountability mechanisms through which citizens keep their government in check.</description>
     </item>
     
     <item>
