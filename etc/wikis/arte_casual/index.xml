@@ -6,10 +6,6 @@
     <description>Recent content in Wikis on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>R. Álvarez Ugarte</copyright>
-    
-	<atom:link href="http://ramiroau.github.io/etc/wikis/arte_casual/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>R. Álvarez Ugarte</copyright><atom:link href="http://ramiroau.github.io/etc/wikis/arte_casual/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://ramiroau.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ramiroau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freedom of expression and populist politics in Latin America</title>
       <link>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</link>
@@ -239,10 +235,10 @@ Europa  &amp;ldquo;In a decision that could further embolden European government
     
     <item>
       <title>Desinformación</title>
-      <link>http://ramiroau.github.io/etc/wikis/foe/desinformacio%CC%81n/</link>
+      <link>http://ramiroau.github.io/etc/wikis/foe/desinformaci%C3%B3n/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ramiroau.github.io/etc/wikis/foe/desinformacio%CC%81n/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/foe/desinformaci%C3%B3n/</guid>
       <description>Leer https://www.nber.org/papers/w27417 https://fivethirtyeight.com/features/how-to-convince-people-to-stop-a-pandemic/ https://www.cnbc.com/2020/05/31/why-zuckerberg-dorsey-secretly-like-fueling-debate-over-fake-news.html
 Safety council de Twitter &amp;mdash; cómo las organizaciones, el gringo dice que vamos a hacer reuniones menos seguida, porque estamos colapsados con desinformación en pandemia en Tuiter &amp;mdash; hemos aumentado el nivel de moderación automática de contenidos. Desinformación en pandemia&amp;hellip; ¿qué es exactamente?
   Infodemia.
@@ -692,10 +688,10 @@ Ingredientes generales  Carne 500g 3 cebollas Ajo 2 tbs Jengibre 2 tbs Chile pic
     
     <item>
       <title>Buñuelos</title>
-      <link>http://ramiroau.github.io/etc/wikis/cocina/bun%CC%83uelos/</link>
+      <link>http://ramiroau.github.io/etc/wikis/cocina/bu%C3%B1uelos/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ramiroau.github.io/etc/wikis/cocina/bun%CC%83uelos/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/cocina/bu%C3%B1uelos/</guid>
       <description>De Pietro Sorba
 # Ingredientes
 Para una cantidad normal
@@ -780,6 +776,15 @@ Dos opciones
       
       <guid>http://ramiroau.github.io/etc/wikis/cocina/risotto/</guid>
       <description>Ingredientes  Una cebolla grande Dos dientes de ajo Una cebolla de verdeo Una taza de hongos secos Una taza de hongos frescos Media taza de vino blanco Manteca (una TSP) Caldo de whatever Una taza de arroz (Carnaroli o Arborio) Queso parmesano / reggianato (una taza)  Proceso  Cortar cebolla (dos variedades) y ajo (CCA). Regla: que las piezas queden más pequeñas que el grano de arroz Limpiar hongos secos bien (quitarles la tierrita) y remojarlos en agua hirviendo Rehogar CCA en aceite de oliva.</description>
+    </item>
+    
+    <item>
+      <title>Risotto (dos porciones)</title>
+      <link>http://ramiroau.github.io/etc/wikis/cocina/risotto_camarones/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/etc/wikis/cocina/risotto_camarones/</guid>
+      <description>Ingredientes  Una cebolla grande Dos dientes de ajo Una cebolla de verdeo 250g de camarones frescos Media taza de vino blanco Manteca (una TSP) Caldo de whatever Una taza de arroz (Carnaroli o Arborio) Queso parmesano / reggianato (una taza)  Proceso  Cortar cebolla (dos variedades) y ajo (CCA). Regla: que las piezas queden más pequeñas que el grano de arroz Sofreir ajo + camarones: saltear hasta que se sellen Agregar a camarones una taza de vino blanco Sacar camarones y reservar líquido de cocción Rehogar CCA en aceite de oliva.</description>
     </item>
     
     <item>

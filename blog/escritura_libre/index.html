@@ -26,7 +26,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.68.3 with theme even" />
+<meta name="generator" content="Hugo 0.92.1 with theme even" />
 
 
 <link rel="canonical" href="http://ramiroau.github.io/blog/escritura_libre/" />
@@ -46,17 +46,14 @@
 <meta property="og:title" content="Escritura en plain text, citas y automatización" />
 <meta property="og:description" content="Esto estaba en borrador desde hace mucho tiempo, porque usualmente recibo consultas sobre cómo escribir en plain text y cuestiones vinculadas al manejo de la bibliografía (especialmente con referencia a la automatización de citas). Una consulta de Claudio Ruiz&mdash;quien me presentó el mundo Markdown y pandoc hace muchos años&mdash;me terminó de empujar a publicar y a actualizar, porque la metodología (mí metodología) fue cambiando mucho con el paso del tiempo. Lo que sigue es, entonces, una forma de producir que me resulta útil a mí." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://ramiroau.github.io/blog/escritura_libre/" />
+<meta property="og:url" content="http://ramiroau.github.io/blog/escritura_libre/" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2020-10-12T00:00:00+00:00" />
 <meta property="article:modified_time" content="2020-10-12T00:00:00+00:00" />
+
 <meta itemprop="name" content="Escritura en plain text, citas y automatización">
-<meta itemprop="description" content="Esto estaba en borrador desde hace mucho tiempo, porque usualmente recibo consultas sobre cómo escribir en plain text y cuestiones vinculadas al manejo de la bibliografía (especialmente con referencia a la automatización de citas). Una consulta de Claudio Ruiz&mdash;quien me presentó el mundo Markdown y pandoc hace muchos años&mdash;me terminó de empujar a publicar y a actualizar, porque la metodología (mí metodología) fue cambiando mucho con el paso del tiempo. Lo que sigue es, entonces, una forma de producir que me resulta útil a mí.">
-<meta itemprop="datePublished" content="2020-10-12T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2020-10-12T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="2698">
-
-
-
+<meta itemprop="description" content="Esto estaba en borrador desde hace mucho tiempo, porque usualmente recibo consultas sobre cómo escribir en plain text y cuestiones vinculadas al manejo de la bibliografía (especialmente con referencia a la automatización de citas). Una consulta de Claudio Ruiz&mdash;quien me presentó el mundo Markdown y pandoc hace muchos años&mdash;me terminó de empujar a publicar y a actualizar, porque la metodología (mí metodología) fue cambiando mucho con el paso del tiempo. Lo que sigue es, entonces, una forma de producir que me resulta útil a mí."><meta itemprop="datePublished" content="2020-10-12T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2020-10-12T00:00:00+00:00" />
+<meta itemprop="wordCount" content="2697">
 <meta itemprop="keywords" content="R,plain-text," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Escritura en plain text, citas y automatización"/>
 <meta name="twitter:description" content="Esto estaba en borrador desde hace mucho tiempo, porque usualmente recibo consultas sobre cómo escribir en plain text y cuestiones vinculadas al manejo de la bibliografía (especialmente con referencia a la automatización de citas). Una consulta de Claudio Ruiz&mdash;quien me presentó el mundo Markdown y pandoc hace muchos años&mdash;me terminó de empujar a publicar y a actualizar, porque la metodología (mí metodología) fue cambiando mucho con el paso del tiempo. Lo que sigue es, entonces, una forma de producir que me resulta útil a mí."/>
@@ -216,7 +213,7 @@
 <p>Una vez que aprendimos a hacer eso podemos crear nuestro primer archivo en Markdown.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -229,7 +226,7 @@
 </span><span class="lnt">11
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">
 Este es un archivo en *Markdown*. Muestra distintas formas de señalar cuando queremos que una palabra sea *cursiva* o **negrita**.
 
 También podemos poner notas al pie ^[Así de manera rápida]. O con referencias al pie [^fn1]. 
@@ -263,10 +260,10 @@ También podemos citar trabajos de autores conocidos, como bien hiciera Robert P
 <p>Una vez que tenemos instalados todos los programas podemos empezar por la conversión más sencilla: de Markdown a PDF. Ello requiere ir al comando de línea y dar la siguiente orden, desde la carpeta en la que se encuentre el archivo que queremos convertir.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">pandoc borrador.md -o borrador.pdf 
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">pandoc borrador.md -o borrador.pdf 
 </code></pre></td></tr></table>
 </div>
 </div><p>La orden es que <code>pandoc</code> convierta el archivo Markdown en un <em>ouput</em> (-o): formato PDF. Para realizar esta conversión, Pandoc utiliza un motor de LaTeX. Veremos más adelante que, en ocasiones, podemos precisarlo (y tiene sus ventajas). El proceso se ve más o menos así:</p>
@@ -276,7 +273,7 @@ También podemos citar trabajos de autores conocidos, como bien hiciera Robert P
 <p>Ese archivo de bibliografía va a ser así:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -291,7 +288,7 @@ También podemos citar trabajos de autores conocidos, como bien hiciera Robert P
 </span><span class="lnt">13
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">@article{post2010,
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">@article{post2010,
   title = {Theorizing Disagreement: {{Reconceiving}} the Relationship between Law and Politics},
   shorttitle = {Theorizing Disagreement},
   author = {Post, Robert},
@@ -309,7 +306,7 @@ También podemos citar trabajos de autores conocidos, como bien hiciera Robert P
 </div><p>O así optamos por <code>bibliografia.json</code>:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -347,7 +344,7 @@ También podemos citar trabajos de autores conocidos, como bien hiciera Robert P
 </span><span class="lnt">36
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">[
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">[
 	{
 		&#34;id&#34;: &#34;post2010&#34;,
 		&#34;type&#34;: &#34;article-journal&#34;,
@@ -401,10 +398,10 @@ También podemos citar trabajos de autores conocidos, como bien hiciera Robert P
 <p>Ahora podemos hacer que nuestra cita al texto de Post tenga una forma determinada de acuerdo a un estilo de cita determinado. Para buscar esos estilos, debemos ir al <em>Zotero Style Repository</em>[https://www.zotero.org/styles] y elegir. Probemos p.ej. con APA, sexta edición. Vamos a obtener un archivo <code>apa-6th.edition.csl</code> y lo vamos a colocar an la carpeta en la que está nuestro <code>borrador.md</code> y nuestra <code>bibliografia.bib</code>. Tenemos ahora todo para producir nuestro documento, con la cita que deseamos, y en el formato que deseamos. Empecemos por una conversión a formato PDF.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">pandoc --citeproc --bibliography=bibliografia.json --csl=apa-6th-edition.csl --pdf-engine=xelatex borrador.md -o borrador.pdf 
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">pandoc --citeproc --bibliography=bibliografia.json --csl=apa-6th-edition.csl --pdf-engine=xelatex borrador.md -o borrador.pdf 
 </code></pre></td></tr></table>
 </div>
 </div><p>Lo que agregamos es lo siguiente:</p>
@@ -417,12 +414,12 @@ También podemos citar trabajos de autores conocidos, como bien hiciera Robert P
 <p>Para convertir a otros formatos la cosa es aún más sencilla:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">pandoc borrador.md -o borrador.html 
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">pandoc borrador.md -o borrador.html 
 pandoc borrador.md -o borrador.docx 
 
 </code></pre></td></tr></table>
@@ -433,18 +430,18 @@ pandoc borrador.md -o borrador.docx
 <p>Quizás tiene más sentido modificar el formato del template de Word: el que usa Pandoc por default me parece muy malo. Eso es sencillo: hay que crear un documento con las características que queramos que tenga (interlineado, tipo de letra, títulos bien codificados, etcétera) y guardarlo (vacío o con texto, no importa) como <code>reference.docx</code> en la carpeta que tenemos de borrador. Luego podemos convertir de Markdown a DOCX (que muchos piden a la hora de p.ej., enviar un archivo) con el siguiente comando:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">pandoc --reference-doc=reference.docx borrador.md -o borrador.docx
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">pandoc --reference-doc=reference.docx borrador.md -o borrador.docx
 
 </code></pre></td></tr></table>
 </div>
 </div><p>Algo que sí parece importante es familiarizarse con los campos de YAML que permite Pandoc. Así es posible ponerle a nuestros borradores título, afiliación, institución, abstract, etcétera. Comparto abajo, p.ej., dos opciones, una sencilla y otra más compleja. La sencilla es nuestro archivo <code>borrador.md</code> con un preámbulo YAML sencillo, al que le podemos poner <code>borrador_con_titulo.md</code>.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -452,7 +449,7 @@ pandoc borrador.md -o borrador.docx
 </span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">---
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">---
 title: Borrador
 author: Juan Pérez
 date: 2020-10-13
@@ -463,7 +460,7 @@ date: 2020-10-13
 </div><p>La opción compleja es el YAML del último paper que escribí.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -501,7 +498,7 @@ date: 2020-10-13
 </span><span class="lnt">36
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">---
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">---
 title: &#39;The Pro-Life Movement and the Fight for the Constitution in Argentina: Between Law and Transcendence&#39;
 author: 
 - name: Ramiro Álvarez Ugarte
@@ -545,7 +542,7 @@ abstract: |
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
-<p>Yo este año me pasé del .bib al .json porque la traducción de los distintos campos de Zotero es más granular y permitía mayor precisión a la hora de diseñar un estilo propio, algo que hice con la <a href="/blog/gacl/">GACL</a>. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Yo este año me pasé del .bib al .json porque la traducción de los distintos campos de Zotero es más granular y permitía mayor precisión a la hora de diseñar un estilo propio, algo que hice con la <a href="/blog/gacl/">GACL</a>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>
@@ -623,7 +620,7 @@ abstract: |
 
 
 
-<script type="text/javascript" src="/js/main.min.d7b7ada643c9c1a983026e177f141f7363b4640d619caf01d8831a6718cd44ea.js"></script>
+<script type="text/javascript" src="/js/main.min.2517c0eb67172a0bae917de4af59b10ca2531411a009d4c0b82f5685259e5771.js"></script>
 
 
 
