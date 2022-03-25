@@ -7,7 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ramiroau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ramiroau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vacío al horno</title>
+      <link>http://ramiroau.github.io/etc/wikis/cocina/vacio_al_horno/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/etc/wikis/cocina/vacio_al_horno/</guid>
+      <description>Ingredientes  Una cebolla grande Ají verde y rojo Papas 600g de vacío Ajo  Proceso   Cortar cebolla + ají en juliana + papas en cubo
+  Poner a las papas: orégano, sal, pimienta, pimentón (bastante), ajo + aceite de oliva
+  Al vacío: pimienta, sal y pintarlo con chumichurri
+  Ahí, a la bandeja:
+ Un piso de cebollas + morrón Al medio el vacío Arriba de nuevo cebolla + morrón    45 minutos fuego medio</description>
+    </item>
+    
+    <item>
+      <title>Cosas que habría que leer</title>
+      <link>http://ramiroau.github.io/etc/wikis/to_do_lecturas/lecturas/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/etc/wikis/to_do_lecturas/lecturas/</guid>
+      <description>Las más no leídas https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/
+https://letraslibres.com/politica/como-en-1945-argentina-se-equivoca-de-bando-al-apoyar-a-rusia/
+https://direct.mit.edu/isec/article-abstract/44/1/42/12237/Weaponized-Interdependence-How-Global-Economic?redirectedFrom=fulltext
+https://www-degruyter-com.ezproxy.cul.columbia.edu/document/doi/10.1515/9781400823956/html?lang=en
+https://www.piie.com/publications/chapters_preview/373/3iie3608.pdf (argumentos pro dif re endeudamiento en monedas)
+Las pocas leídas Una buena defensa del &amp;ldquo;realismo&amp;rdquo; internacional ante la invasión de Rusia (sigue teniendo un normative blindspot al no considerar cómo ese realismo toma como agente a los &amp;lsquo;estados&amp;rsquo;, pero sin considerar si son democráticos o no democráticos) → https://foreignpolicy.com/2022/03/08/an-international-relations-theory-guide-to-ukraines-war/ → este hilo con advertencias previas → https://mobile.twitter.com/RnaudBertrand/status/1498491107902062592?cxt=HHwWgICsmaXu2sspAAAA
+http://opiniojuris.org/2022/03/17/hamster-in-a-wheel-international-law-crisis-exceptionalism-whataboutery-speaking-truth-to-power-and-sociopathic-racist-gaslighting/ - importante, nuanced discusión sobre IL.</description>
+    </item>
+    
+    <item>
+      <title>Web 3</title>
+      <link>http://ramiroau.github.io/etc/wikis/web3/web3/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/etc/wikis/web3/web3/</guid>
+      <description>https://wired.com/story/web3-governance-tokens-cryptocurrency-content-moderation/
+https://www.globenewswire.com/news-release/2022/02/15/2385570/0/en/Real-Estate-DAO-indaod-io-Enters-the-100-Billion-Vacation-Rental-Market.html</description>
+    </item>
+    
     <item>
       <title>Freedom of expression and populist politics in Latin America</title>
       <link>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</link>
@@ -235,10 +277,10 @@ Europa  &amp;ldquo;In a decision that could further embolden European government
     
     <item>
       <title>Desinformación</title>
-      <link>http://ramiroau.github.io/etc/wikis/foe/desinformaci%C3%B3n/</link>
+      <link>http://ramiroau.github.io/etc/wikis/foe/desinformacio%CC%81n/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ramiroau.github.io/etc/wikis/foe/desinformaci%C3%B3n/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/foe/desinformacio%CC%81n/</guid>
       <description>Leer https://www.nber.org/papers/w27417 https://fivethirtyeight.com/features/how-to-convince-people-to-stop-a-pandemic/ https://www.cnbc.com/2020/05/31/why-zuckerberg-dorsey-secretly-like-fueling-debate-over-fake-news.html
 Safety council de Twitter &amp;mdash; cómo las organizaciones, el gringo dice que vamos a hacer reuniones menos seguida, porque estamos colapsados con desinformación en pandemia en Tuiter &amp;mdash; hemos aumentado el nivel de moderación automática de contenidos. Desinformación en pandemia&amp;hellip; ¿qué es exactamente?
   Infodemia.
@@ -688,10 +730,10 @@ Ingredientes generales  Carne 500g 3 cebollas Ajo 2 tbs Jengibre 2 tbs Chile pic
     
     <item>
       <title>Buñuelos</title>
-      <link>http://ramiroau.github.io/etc/wikis/cocina/bu%C3%B1uelos/</link>
+      <link>http://ramiroau.github.io/etc/wikis/cocina/bun%CC%83uelos/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://ramiroau.github.io/etc/wikis/cocina/bu%C3%B1uelos/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/cocina/bun%CC%83uelos/</guid>
       <description>De Pietro Sorba
 # Ingredientes
 Para una cantidad normal
@@ -784,7 +826,8 @@ Dos opciones
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>http://ramiroau.github.io/etc/wikis/cocina/risotto_camarones/</guid>
-      <description>Ingredientes  Una cebolla grande Dos dientes de ajo Una cebolla de verdeo 250g de camarones frescos Media taza de vino blanco Manteca (una TSP) Caldo de whatever Una taza de arroz (Carnaroli o Arborio) Queso parmesano / reggianato (una taza)  Proceso  Cortar cebolla (dos variedades) y ajo (CCA). Regla: que las piezas queden más pequeñas que el grano de arroz Sofreir ajo + camarones: saltear hasta que se sellen Agregar a camarones una taza de vino blanco Sacar camarones y reservar líquido de cocción Rehogar CCA en aceite de oliva.</description>
+      <description>Test: https://healthyfitnessmeals.com/garlic-shrimp-risotto-recipe/
+Ingredientes  Una cebolla grande Dos dientes de ajo Una cebolla de verdeo 250g de camarones frescos Media taza de vino blanco Manteca (una TSP) Caldo de whatever Una taza de arroz (Carnaroli o Arborio) Queso parmesano / reggianato (una taza)  Proceso  Cortar cebolla (dos variedades) y ajo (CCA). Regla: que las piezas queden más pequeñas que el grano de arroz Sofreir ajo + camarones: saltear hasta que se sellen Agregar a camarones una taza de vino blanco Sacar camarones y reservar líquido de cocción Rehogar CCA en aceite de oliva.</description>
     </item>
     
     <item>
