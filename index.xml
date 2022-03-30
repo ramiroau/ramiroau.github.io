@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://ramiroau.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Responsabilidad de intermediarios: reglas judiciales y futuros inciertos</title>
+      <link>http://ramiroau.github.io/publicaciones/reglas_judiciales/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/reglas_judiciales/</guid>
+      <description>El año pasado llevamos adelante una investigación en el Centro de Estudios en Libertad de Expresión de la Universidad de Palermo sobre la jurisprudencia civil en materia de responsabilidad de intermediarios. El tema nos interesa, ya que en nuestro país el régimen legal de responsabilidad de empresas de Internet por contenidos publicados por terceros existe&amp;mdash;en parte&amp;mdash;como consecuencia de una serie de litigios que fueron resueltos judicialmente. La regla limitada de no responsabilidad que creó la Corte Suprema de Justicia en el caso Belén Rodríguez de 2014 es el único juego disponible: si bien hubo proyectos legislativos tendientes a regular este tipo de controversias, esos proyectos no lograron avanzar en el trámite legislativo.</description>
+    </item>
     
     <item>
       <title>Vacío al horno</title>
