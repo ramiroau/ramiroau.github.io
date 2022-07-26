@@ -6,26 +6,6 @@
     <description>Recent content in Wikis on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://ramiroau.github.io/etc/wikis/to_do_lecturas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Cosas que habría que leer</title>
-      <link>http://ramiroau.github.io/etc/wikis/to_do_lecturas/lecturas/</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://ramiroau.github.io/etc/wikis/to_do_lecturas/lecturas/</guid>
-      <description>Las más no leídas https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/
-https://letraslibres.com/politica/como-en-1945-argentina-se-equivoca-de-bando-al-apoyar-a-rusia/
-https://direct.mit.edu/isec/article-abstract/44/1/42/12237/Weaponized-Interdependence-How-Global-Economic?redirectedFrom=fulltext
-https://www-degruyter-com.ezproxy.cul.columbia.edu/document/doi/10.1515/9781400823956/html?lang=en
-https://www.piie.com/publications/chapters_preview/373/3iie3608.pdf (argumentos pro dif re endeudamiento en monedas)
-Las pocas leídas Más aportes a la causa del renacimiento global del liberalismo: Arthur Goldhammer sobre la victoria de Macron frente a Le Pen https://tocqueville21.com/art-goldhammer/wrapup/
-Una buena defensa del &amp;ldquo;realismo&amp;rdquo; internacional ante la invasión de Rusia (sigue teniendo un normative blindspot al no considerar cómo ese realismo toma como agente a los &amp;lsquo;estados&amp;rsquo;, pero sin considerar si son democráticos o no democráticos) → https://foreignpolicy.</description>
-    </item>
-    
+    <copyright>R. Álvarez Ugarte</copyright><atom:link href="http://ramiroau.github.io/etc/wikis/to_do_lecturas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://ramiroau.github.io/tags/profesoring/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://ramiroau.github.io/tags/profesoring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pandemia, clases y Zoom</title>
       <link>http://ramiroau.github.io/blog/pandemia/</link>
@@ -19,7 +15,7 @@
       
       <guid>http://ramiroau.github.io/blog/pandemia/</guid>
       <description>Ya van varias semanas de clases virtuales y parece un buen momento para reflexionar sobre posible enseñanzas, al menos provisionalmente.
-  La elección tecnológica. Uno puede imaginar mil escenarios posibles, pero al final de cuentas termina eligiendo la opción tecnológica que está mejor distribuida entre todos los alumnos. A nivel maestría (profesionales, grupo pequeño), el sistema Blackboard funcionó bastante bien (es una especie de Zoom para el cual la universidad ya tiene licencia).</description>
+La elección tecnológica. Uno puede imaginar mil escenarios posibles, pero al final de cuentas termina eligiendo la opción tecnológica que está mejor distribuida entre todos los alumnos. A nivel maestría (profesionales, grupo pequeño), el sistema Blackboard funcionó bastante bien (es una especie de Zoom para el cual la universidad ya tiene licencia).</description>
     </item>
     
   </channel>
