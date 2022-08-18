@@ -3,34 +3,41 @@
   
   <url>
     <loc>http://ramiroau.github.io/etc/</loc>
-    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ramiroau.github.io/etc/wikis/cocina/amatriciana/</loc>
-    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/lomo_salteado/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ramiroau.github.io/</loc>
-    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ramiroau.github.io/etc/wikis/</loc>
-    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ramiroau.github.io/etc/wikis/cocina/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/amatriciana/</loc>
     <lastmod>2022-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
