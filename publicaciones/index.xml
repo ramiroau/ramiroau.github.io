@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ramiroau.github.io/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ramiroau.github.io/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre la incompleta constitucionalización del derecho civil y los límites de los precedentes judiciales</title>
+      <link>http://ramiroau.github.io/publicaciones/constitucionalizacion/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/constitucionalizacion/</guid>
+      <description>En el caso Marzol c. Google, el juez Javier Pico Terrero, a cargo del juzgado en lo Civil y Comercial Federal No. 7 de la ciudad de Buenos Aires resolvió una acción preventiva a favor de una bailarina que cuestionó que su nombre fuera vinculado a páginas de contenido pornográfico en Google, que alojaban una grabación de una obra de teatro en la que ella había participado. El magistrado ordenó al buscador eliminar de su servicio ciertas páginas identificadas al efecto.</description>
+    </item>
+    
     <item>
       <title>Responsabilidad de intermediarios: reglas judiciales y futuros inciertos</title>
       <link>http://ramiroau.github.io/publicaciones/reglas_judiciales/</link>
@@ -241,15 +250,6 @@ En la Argentina, este derecho recibió tradicionalmente una protección generosa
       
       <guid>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</guid>
       <description>Este trabajo utiliza la metodología de análisis de redes sociales (ARS) para indagar sobre la jurisprudencia civil en materia de responsabilidad de intermediarios en la Argentina. Se trata de un fenómeno de litigiosidad relativamente reciente, que estuvo guiado por reclamos que seguían patrones fácticos similares y que presentaron a los jueces argentinos un problema novedoso. Como no había una regulación específica, debieron recurrir a viejos principios de derecho constitucional vinculados a la libertad de expresión y a principios generales del derecho civil.</description>
-    </item>
-    
-    <item>
-      <title>Sobre la incompleta constitucionalización del derecho civil y los límites de los precedentes judiciales</title>
-      <link>http://ramiroau.github.io/publicaciones/constitucionalizacion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ramiroau.github.io/publicaciones/constitucionalizacion/</guid>
-      <description>En el caso Marzol c. Google, el juez Javier Pico Terrero, a cargo del juzgado en lo Civil y Comercial Federal No. 7 de la ciudad de Buenos Aires resolvió una acción preventiva a favor de una bailarina que cuestionó que su nombre fuera vinculado a páginas de contenido pornográfico en Google, que alojaban una grabación de una obra de teatro en la que ella había participado. El magistrado ordenó al buscador eliminar de su servicio ciertas páginas identificadas al efecto.</description>
     </item>
     
   </channel>
