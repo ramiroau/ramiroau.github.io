@@ -9,12 +9,39 @@
     <copyright>R. Álvarez Ugarte</copyright>
     <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://ramiroau.github.io/publicaciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Modalities of Jurisgenesis: Some Lessons from Argentina&#39;s Abortion Legalization Struggle</title>
+      <link>http://ramiroau.github.io/publicaciones/modalities/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/modalities/</guid>
+      <description>After Dobbs, part of the public conversation regarding the future of abortion in the United States was about the issue of fetal personhood. The ultimate goal for some, the ultimate fear for others. This paper tells the story of how fetal personhood was won&amp;mdash;and then lost&amp;mdash;by Argentina&amp;rsquo;s anti abortion movement in the 1990s. It shows how a certain constitutional narrative, born within civil society, managed to persuade public officials to elicit constitutional change.</description>
+    </item>
+    
+    <item>
       <title>The Place and Challenges of Human Rights Impact Assessments in Latin American Internet Regulatory Futures</title>
       <link>http://ramiroau.github.io/publicaciones/hrias_latam/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://ramiroau.github.io/publicaciones/hrias_latam/</guid>
       <description>Human Rights Impact Assessments (HRIA) have become an important tool of corporate governance in the field of business and human rights, and—thus—have been embraced by companies in the ICT sector. This was to an extent predictable: for quite some time now, Internet companies have been accused of violating human rights through action or omission. In this context, HRIAs appear as a procedural mechanism that may help them make better decisions and, at least, curb criticism.</description>
+    </item>
+    
+    <item>
+      <title>Uncomfortable Judges. The Underenforcement of Abortion Laws in Argentina During the 20th Century</title>
+      <link>http://ramiroau.github.io/publicaciones/uncomfortable_judges/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/uncomfortable_judges/</guid>
+      <description>When criminalized, abortion has always and everywhere been an underenforced prohibition. Women throughout history who have found themselves pregnant and unwilling to carry the pregnancy to term have found ways of interrupting the process, under the protection of liberal legal frameworks or under the brutal conditions of illegal markets. In these all too normal scenarios, the gap between what the law said in the books and how it operated in practice has always been significant [@luna2000, 523].</description>
+    </item>
+    
+    <item>
+      <title>Redes de influencia: análisis de la jurisprudencia civil argentina en materia de responsabilidad de intermediarios</title>
+      <link>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</guid>
+      <description>Este trabajo utiliza la metodología de análisis de redes sociales (ARS) para indagar sobre la jurisprudencia civil en materia de responsabilidad de intermediarios en la Argentina. Se trata de un fenómeno de litigiosidad relativamente reciente, que estuvo guiado por reclamos que seguían patrones fácticos similares y que presentaron a los jueces argentinos un problema novedoso. Como no había una regulación específica, debieron recurrir a viejos principios de derecho constitucional vinculados a la libertad de expresión y a principios generales del derecho civil.</description>
     </item>
     
     <item>
@@ -250,15 +277,6 @@ En la Argentina, este derecho recibió tradicionalmente una protección generosa
       
       <guid>http://ramiroau.github.io/publicaciones/baldivieso/</guid>
       <description>En el caso Baldivieso, la Corte Suprema decidió volver al criterio del plenario Natividad Frías de 1966 sobre la la legitimidad de las persecuciones penales basadas en reportes médicos, de personas que se atendieron por dolencias vinculadas a la comisión de ciertos delitos. La decisión, algo escueta, revocó el criterio que&amp;mdash;en otra composición&amp;mdash;el propio tribunal había sostenido en el caso Zambrana Daza. Este comentario, basado en un estudio empírico más extenso sobre la criminalización del aborto en la Argentina, argumenta que a los tres casos los unen distintos momentos del lento proceso de repolitización del aborto nuestro país.</description>
-    </item>
-    
-    <item>
-      <title>Redes de influencia: análisis de la jurisprudencia civil argentina en materia de responsabilidad de intermediarios</title>
-      <link>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</guid>
-      <description>Este trabajo utiliza la metodología de análisis de redes sociales (ARS) para indagar sobre la jurisprudencia civil en materia de responsabilidad de intermediarios en la Argentina. Se trata de un fenómeno de litigiosidad relativamente reciente, que estuvo guiado por reclamos que seguían patrones fácticos similares y que presentaron a los jueces argentinos un problema novedoso. Como no había una regulación específica, debieron recurrir a viejos principios de derecho constitucional vinculados a la libertad de expresión y a principios generales del derecho civil.</description>
     </item>
     
   </channel>
