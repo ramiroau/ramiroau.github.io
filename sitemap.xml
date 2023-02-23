@@ -3,14 +3,21 @@
   
   <url>
     <loc>http://ramiroau.github.io/publicaciones/</loc>
-    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ramiroau.github.io/</loc>
-    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/publicaciones/hrias_latam/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -128,7 +135,7 @@
   </url>
   
   <url>
-    <loc>http://ramiroau.github.io/clases/programa_uba_v19_blog/</loc>
+    <loc>http://ramiroau.github.io/clases/programa_uba_v20_blog/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
