@@ -107,6 +107,13 @@
   </url>
   
   <url>
+    <loc>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</loc>
+    <lastmod>2022-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ramiroau.github.io/publicaciones/clough2021/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -179,6 +186,13 @@
   <url>
     <loc>http://ramiroau.github.io/etc/wikis/cocina/sala_puerros/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/publicaciones/reglas_judiciales/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -988,18 +1002,6 @@
   
   <url>
     <loc>http://ramiroau.github.io/recursos/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/publicaciones/reglas_judiciales/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

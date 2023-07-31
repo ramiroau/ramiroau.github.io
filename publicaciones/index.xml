@@ -54,6 +54,15 @@
     </item>
     
     <item>
+      <title>Redes de influencia: análisis de la jurisprudencia civil argentina en materia de responsabilidad de intermediarios</title>
+      <link>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</guid>
+      <description>Este trabajo utiliza la metodología de análisis de redes sociales (ARS) para indagar sobre la jurisprudencia civil en materia de responsabilidad de intermediarios en la Argentina. Se trata de un fenómeno de litigiosidad relativamente reciente, que estuvo guiado por reclamos que seguían patrones fácticos similares y que presentaron a los jueces argentinos un problema novedoso. Como no había una regulación específica, debieron recurrir a viejos principios de derecho constitucional vinculados a la libertad de expresión y a principios generales del derecho civil.</description>
+    </item>
+    
+    <item>
       <title>The I·CONnect-Clough Center 2021 Global Review of Constitutional Law: Argentina Report</title>
       <link>http://ramiroau.github.io/publicaciones/clough2021/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
@@ -69,6 +78,15 @@
       
       <guid>http://ramiroau.github.io/publicaciones/constitucionalizacion/</guid>
       <description>En el caso Marzol c. Google, el juez Javier Pico Terrero, a cargo del juzgado en lo Civil y Comercial Federal No. 7 de la ciudad de Buenos Aires resolvió una acción preventiva a favor de una bailarina que cuestionó que su nombre fuera vinculado a páginas de contenido pornográfico en Google, que alojaban una grabación de una obra de teatro en la que ella había participado. El magistrado ordenó al buscador eliminar de su servicio ciertas páginas identificadas al efecto.</description>
+    </item>
+    
+    <item>
+      <title>Responsabilidad de intermediarios: reglas judiciales y futuros inciertos</title>
+      <link>http://ramiroau.github.io/publicaciones/reglas_judiciales/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://ramiroau.github.io/publicaciones/reglas_judiciales/</guid>
+      <description>El año pasado llevamos adelante una investigación en el Centro de Estudios en Libertad de Expresión de la Universidad de Palermo sobre la jurisprudencia civil en materia de responsabilidad de intermediarios. El tema nos interesa, ya que en nuestro país el régimen legal de responsabilidad de empresas de Internet por contenidos publicados por terceros existe&amp;mdash;en parte&amp;mdash;como consecuencia de una serie de litigios que fueron resueltos judicialmente. La regla limitada de no responsabilidad que creó la Corte Suprema de Justicia en el caso Belén Rodríguez de 2014 es el único juego disponible: si bien hubo proyectos legislativos tendientes a regular este tipo de controversias, esos proyectos no lograron avanzar en el trámite legislativo.</description>
     </item>
     
     <item>
@@ -277,24 +295,6 @@ En la Argentina, este derecho recibió tradicionalmente una protección generosa
       
       <guid>http://ramiroau.github.io/publicaciones/baldivieso/</guid>
       <description>En el caso Baldivieso, la Corte Suprema decidió volver al criterio del plenario Natividad Frías de 1966 sobre la la legitimidad de las persecuciones penales basadas en reportes médicos, de personas que se atendieron por dolencias vinculadas a la comisión de ciertos delitos. La decisión, algo escueta, revocó el criterio que&amp;mdash;en otra composición&amp;mdash;el propio tribunal había sostenido en el caso Zambrana Daza. Este comentario, basado en un estudio empírico más extenso sobre la criminalización del aborto en la Argentina, argumenta que a los tres casos los unen distintos momentos del lento proceso de repolitización del aborto nuestro país.</description>
-    </item>
-    
-    <item>
-      <title>Redes de influencia: análisis de la jurisprudencia civil argentina en materia de responsabilidad de intermediarios</title>
-      <link>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</guid>
-      <description>Este trabajo utiliza la metodología de análisis de redes sociales (ARS) para indagar sobre la jurisprudencia civil en materia de responsabilidad de intermediarios en la Argentina. Se trata de un fenómeno de litigiosidad relativamente reciente, que estuvo guiado por reclamos que seguían patrones fácticos similares y que presentaron a los jueces argentinos un problema novedoso. Como no había una regulación específica, debieron recurrir a viejos principios de derecho constitucional vinculados a la libertad de expresión y a principios generales del derecho civil.</description>
-    </item>
-    
-    <item>
-      <title>Responsabilidad de intermediarios: reglas judiciales y futuros inciertos</title>
-      <link>http://ramiroau.github.io/publicaciones/reglas_judiciales/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ramiroau.github.io/publicaciones/reglas_judiciales/</guid>
-      <description>El año pasado llevamos adelante una investigación en el Centro de Estudios en Libertad de Expresión de la Universidad de Palermo sobre la jurisprudencia civil en materia de responsabilidad de intermediarios. El tema nos interesa, ya que en nuestro país el régimen legal de responsabilidad de empresas de Internet por contenidos publicados por terceros existe&amp;mdash;en parte&amp;mdash;como consecuencia de una serie de litigios que fueron resueltos judicialmente. La regla limitada de no responsabilidad que creó la Corte Suprema de Justicia en el caso Belén Rodríguez de 2014 es el único juego disponible: si bien hubo proyectos legislativos tendientes a regular este tipo de controversias, esos proyectos no lograron avanzar en el trámite legislativo.</description>
     </item>
     
   </channel>
