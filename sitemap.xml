@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ramiroau.github.io/publicaciones/</loc>
-    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+    <loc>http://ramiroau.github.io/clases/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/clases/programa_uba_v20_blog/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://ramiroau.github.io/</loc>
+    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/publicaciones/</loc>
     <lastmod>2023-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -60,20 +74,6 @@
   <url>
     <loc>http://ramiroau.github.io/etc/wikis/cocina/burro_e_salvia/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/clases/</loc>
-    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/clases/programa_uba_v20_blog/</loc>
-    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
