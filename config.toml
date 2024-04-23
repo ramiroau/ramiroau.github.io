@@ -1,7 +1,7 @@
 baseURL = "http://ramiroau.github.io/"
-languageCode = "es"
-defaultContentLanguage = "es"                             # en / zh-cn / ... (This field determines which i18n file to use)
-defaultContentLanguageInSubdir = false
+#languageCode = "es"
+#defaultContentLanguage = "es"                             # en / zh-cn / ... (This field determines which i18n file to use)
+#defaultContentLanguageInSubdir = false
 
 title = "R. Álvarez Ugarte - sitio personal"
 preserveTaxonomyNames = true

@@ -23,7 +23,7 @@
 
 {{ range .Pages.ByDate.Reverse }}
 <p>→ {{ .Title }}. <b>{{ .Description }}</b>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Site.BaseURL }}{{ .RelPermalink }}">/ Programa</a> 
+  <a href="{{ .Permalink }}">/ Programa</a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
@@ -41,7 +41,7 @@
 
 {{ range .Pages.ByDate.Reverse }}
 <p>→ {{ .Title }}. <b>{{ .Description }}</b>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Site.BaseURL }}{{ .RelPermalink }}">/ Programa </a> 
+  <a href="{{ .Permalink }}">/ Programa </a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
@@ -58,7 +58,7 @@
 
 {{ range .Pages.ByPublishDate.Reverse }}
 <p>→ {{ .Title }}. <b>{{ .Description }}</b>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Site.BaseURL }}{{ .RelPermalink }}">/ Programa</a> 
+  <a href="{{ .Permalink }}">/ Programa</a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
