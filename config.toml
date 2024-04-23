@@ -22,7 +22,7 @@ disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = "R. Álvarez Ugarte"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
-[author]                  # essential                     # 必需
+[params.author]                  # essential                     # 必需
   name = "R. Álvarez Ugarte"
 
 [sitemap]                 # essential                     # 必需

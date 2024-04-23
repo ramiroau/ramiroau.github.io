@@ -1,0 +1,114 @@
+{{- define "title" }}{{ T "archive" }} - {{ .Site.Title }}{{ end -}}
+
+{{- define "content" }}
+
+{{ $baseurl := .Site.BaseURL }}
+
+<div class="content-wrapper">
+  <div id="content" class="content">
+
+    <!-- post-header -->
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+
+    </header>
+    
+<!-- <h1 class = "post post-title">Publications</h1> -->
+
+<div>
+  <h6><a href="https://ramiroau.github.io/files/papers/rau-vita.pdf">→ CV en PDF (completo)</a></h6>
+</div>  
+
+<h2>Trabajos en curso</h2>
+
+{{ range (where .Data.Pages "Type" "working_papers").GroupByDate "2006" "asc" }}
+
+<!-- <h3>{{ .Key }}</h3> -->
+
+{{ range .Pages.ByDate.Reverse }}
+<p>{{ .Params.citation | safeHTML }} 
+  <a href="{{ .Permalink }}">/ Resumen</a> 
+  {{ if isset .Params "file" }}
+  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{- end}}
+
+<h2>En prensa</h2>
+
+{{ range (where .Data.Pages "Type" "en_prensa").GroupByDate "2006" "asc" }}
+
+<!-- <h3>{{ .Key }}</h3> -->
+
+{{ range .Pages.ByDate.Reverse }}
+<p>{{ .Params.citation | safeHTML }} 
+  <a href="{{ .Permalink }}">/ Resumen</a> 
+  {{ if isset .Params "file" }}
+  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{- end}}
+
+
+<h2>Artículos</h2>
+
+{{ range (where .Data.Pages "Type" "articulos").GroupByPublishDate "2006" "desc" }}
+
+<!-- <h3>{{ .Key }}</h3> -->
+
+{{ range .Pages.ByPublishDate.Reverse }}
+<p>{{ .Params.citation | safeHTML }} 
+  <a href="{{ .Permalink }}">/ Resumen</a> 
+  {{ if isset .Params "file" }}
+  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{- end}}
+
+
+<h2>Capítulos / Obras colectivas</h2>
+
+{{ range (where (where .Data.Pages "Type" "capitulos") ".Params.kind" "!=" "book").GroupByPublishDate "2006" "desc" }}
+
+<!-- <h3>{{ .Key }}</h3> -->
+{{ range .Pages.ByPublishDate.Reverse }}
+{{ if ne .Params.kind "book" }}
+<p>{{ .Params.citation | safeHTML }} 
+  <a href="{{ .Permalink }}">/ Abstract</a> 
+  {{ if isset .Params "file" }}
+  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{ end }}
+
+{{- end}}
+
+<h2>Retirados</h2>
+
+{{ range (where .Data.Pages "Type" "retirados").GroupByPublishDate "2006" "desc" }}
+
+<!-- <h3>{{ .Key }}</h3> -->
+
+{{ range .Pages.ByPublishDate.Reverse }}
+<p>{{ .Params.citation | safeHTML }} 
+  <a href="{{ .Permalink }}">/ Resumen</a> 
+  {{ if isset .Params "file" }}
+  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{- end}}
+
+  </div>
+</div>
+
+{{- end }}

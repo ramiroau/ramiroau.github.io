@@ -1,0 +1,51 @@
+{{ define "content" -}}
+  <article class="post">
+    <!-- post-header -->
+    <header class="post-header">
+        <h4>{{.Params.author}}, {{ .Params.citation | safeHTML }}</h4>
+        {{ if .Params.doi }}<h6><a href="http://dx.doi.org/{{.Params.doi}}">doi:{{.Params.doi}}</a>{{ end }}
+        {{ if .Params.isbn }}<a>ISBN:{{.Params.isbn}}</a>{{ end }}<br>
+        {{ if .Params.delivery_date }}<a>Envío del trabajo: {{ dateFormat "Jan 2, 2006" .Params.delivery_date}}</a>{{ end }} <br>
+        {{ if .Params.acceptance_date }}<a>Aceptación del trabajo: {{ dateFormat "Jan 2, 2006" .Params.acceptance_date}}</a>{{ end }}
+        {{ if .Params.file }}<a href="{{.Site.BaseURL}}files/papers/{{.Params.file}}">&nbsp; (&rarr; PDF)</a></h5>{{ end }}
+
+    </header>
+
+    <!-- Content -->
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    <!-- Copyright 
+    {{- partial "post/copyright.html" . -}}-->
+
+    <footer class="post-footer">
+      {{ with .Params.tags -}}
+        <div class="post-tags">
+          {{ range . -}}
+            <a href="{{ "tags" | relLangURL }}/{{ . | urlize }}/">{{ . }}</a>
+          {{ end -}}
+        </div>
+      {{- end -}}
+
+      <!-- Post Pagination -->
+      <nav class="post-nav">
+        {{ with .NextInSection -}}
+          <a class="prev" href="{{ .RelPermalink }}">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">{{ .Title }}</span>
+            <span class="prev-text nav-mobile">{{ T "prevPost" }}</span>
+          </a>
+        {{- end }}
+        {{ with .PrevInSection -}}
+          <a class="next" href="{{ .RelPermalink }}">
+            <span class="next-text nav-default">{{ .Title }}</span>
+            <span class="next-text nav-mobile">{{ T "nextPost" }}</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+        {{- end }}
+      </nav>
+    </footer>
+
+  </article>
+{{- end }}
