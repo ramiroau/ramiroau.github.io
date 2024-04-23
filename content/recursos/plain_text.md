@@ -1,0 +1,7 @@
+---
+title: "Escritura en plain text"
+author: Ramiro Álvarez Ugarte
+type: plain_text 
+---
+
+La escritura en *plain text* es una modalidad de producción que busca priorizar la escritura *en sí* y separarla de las cuestiones de formato: las decisiones tipográficas, el manejo de la bibliografía y la elección de algún tipo de estilo de citas. Hay muchos caminos para empezar: yo empecé con [Markdown](https://daringfireball.net/projects/markdown/syntax), un lenguaje simple que se aprende en diez minutos. Los archivos guardados en este formato pesan muy poco y son, por definición, multiplataforma: cualquier sistema operativo puede abrirlos, editarlos, y guardarlos. En general, para eso se usan editores de código, como [Emacs](https://www.gnu.org/software/emacs/), [Vim](https://www.vim.org/) o [Sublime Text](https://www.sublimetext.com/3) (es el que yo uso). Estos editores son versátiles y permiten operaciones diversas gracias a un amplio mundo de "paquetes" que se pueden instalar fácilmente. Finalmente, [Pandoc](https://pandoc.org/) es la pieza clave: se encarga de los formatos: tipográficos y de diseño, bibliografía, y estilo de citas. El único desafío que presenta Pandoc es que un programa de línea de comandos, pero una vez superado el temor inicial se vuelve una herramienta no sólo imprescindible sino también muy fácil de manejar. Permite convertir a un archivo `.md` en otro `.html`, `.pdf` (vía [LaTeX](https://www.latex-project.org/)), `.epub`, `.odt`, `.docx`, etcétera. 

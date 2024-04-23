@@ -1,0 +1,7 @@
+---
+title: "Citas legales y automatización"
+author: Ramiro Álvarez Ugarte
+type: citas 
+---
+
+Recuerdo que trabajar con las citas de un borrador era engorroso, pero es un recuerdo lejano: hace más de diez años que delego en la computadora el manejo de las citas. Ello es posible gracias a `pandoc-citeproc`, el compañero imprescindible de [Pandoc](https://pandoc.org/). Se trata de una extensión que detecta nuestras indicaciones en términos del documento al que referímos y el número de página, capítulo o párrafo del que extraemos la cita o al que queremos hacer referencia, p.ej., citamos a `[@post2010, 1343]` para señalar hacia una de las mejores aproximaciones a la relación entre derecho y política que se hayan formulado. Eso le alcanza a `pandoc-citeproc` para formular la cita en el formato que la necesitamos, uno de los cientos que están en el [Zotero Style Repository](https://www.zotero.org/styles). Estos estilos pueden modificarse a gusto del consumidor. Yo tengo una versión intervenida de `bluebook-law-review.csl` para poder incluir casos argentinos siguiendo los parámetros que pide ese horrible estilo de citas. Y también armé la [Guía Argentina de Citas Legales](https://github.com/ramiroau/gacl) para tener un formato local que pueda lidiar con los materiales que usualmente citamos en la academia jurídica de Argentina, de formas más o menos cercanas a las erráticas prácticas locales. 
