@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNA on R. Álvarez Ugarte - sitio personal</title>
+    <link>http://localhost:1313/tags/sna/</link>
+    <description>Recent content in SNA on R. Álvarez Ugarte - sitio personal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>R. Álvarez Ugarte</copyright>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La jurisprudencia como una red que crece</title>
+      <link>http://localhost:1313/blog/sna-y-jurisprudencia/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/sna-y-jurisprudencia/</guid>
+      <description>En esta sección el CELE presenta una visualización de la &amp;ldquo;jurisprudencia de intermediarios&amp;rdquo; en la Argentina, como solemos llamar a la serie de casos judiciales que&amp;mdash;en la última década y media&amp;mdash;han procurado resolver la cuestión de la responsabilidad civil de las plataformas de Internet por contenidos producidos por terceros. La investigación se encuentra en proceso de &amp;ldquo;revisión por pares&amp;rdquo;, pero esta entrada busca mostrar gráficamente algunos de los principales hallazgos. Especialmente busca mostrar la dimensión temporal de la jurisprudencia bajo análisis a través de herramientas no usualmente disponibles en las publicaciones académicas.</description>
+    </item>
+    <item>
+      <title>Shine</title>
+      <link>http://localhost:1313/blog/shine/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/shine/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>
