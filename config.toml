@@ -42,32 +42,32 @@ sectionPagesMenu = "main"
   name = "Archivos"
   weight = 20
   identifier = "archives"
-  url = "/blog/"
+  url = "/es/blog/"
 [[menu.main]]
   name = "Etiquetas"
   weight = 40
   identifier = "tags"
-  url = "/tags/"
+  url = "/es/tags/"
 [[menu.main]]
   name = "Publicaciones"
   weight = 40
   identifier = "publicaciones"
-  url = "/publicaciones/"
+  url = "/es/publicaciones/"
 [[menu.main]]
   name = "Clases"
   weight = 60
   identifier = "clase"
-  url = "/clases/"
+  url = "/es/clases/"
 [[menu.main]]
   name = "Recursos"
   weight = 60
   identifier = "recursos"
-  url = "/recursos/"
+  url = "/es/recursos/"
 [[menu.main]]
   name = "⌘"
   weight = 80
   identifier = "etc"
-  url = "/etc/"
+  url = "/es/etc/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
