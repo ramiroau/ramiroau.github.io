@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wikis on R. Álvarez Ugarte - sitio personal</title>
-    <link>http://localhost:1313/etc/wikis/sovereignty/</link>
+    <link>http://ramiroau.github.io/etc/wikis/sovereignty/</link>
     <description>Recent content in Wikis on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
     <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/etc/wikis/sovereignty/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ramiroau.github.io/etc/wikis/sovereignty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guerras civiles inglesas</title>
-      <link>http://localhost:1313/etc/wikis/sovereignty/english_civil_wars/</link>
+      <link>http://ramiroau.github.io/etc/wikis/sovereignty/english_civil_wars/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etc/wikis/sovereignty/english_civil_wars/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/sovereignty/english_civil_wars/</guid>
       <description>Empezaría por mil libros, pero este podcast es extraordinario</description>
     </item>
     <item>
       <title>Constitutional Moment</title>
-      <link>http://localhost:1313/etc/wikis/sovereignty/constitutional_moment_in_chile/</link>
+      <link>http://ramiroau.github.io/etc/wikis/sovereignty/constitutional_moment_in_chile/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etc/wikis/sovereignty/constitutional_moment_in_chile/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/sovereignty/constitutional_moment_in_chile/</guid>
       <description>http://www.inap.uchile.cl/noticias/170032/academicos-dan-claves-para-el-proceso-constituyente&#xA;http://www.iconnectblog.com/2020/11/symposium-on-chilean-referendum-part-i-drafting-a-constitution-on-a-clean-slate/</description>
     </item>
     <item>
       <title>Representations of the people</title>
-      <link>http://localhost:1313/etc/wikis/sovereignty/representations_of_the_people/</link>
+      <link>http://ramiroau.github.io/etc/wikis/sovereignty/representations_of_the_people/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etc/wikis/sovereignty/representations_of_the_people/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/sovereignty/representations_of_the_people/</guid>
       <description>La Vie est a “Who?”. Representations of “The People” in Frank Capra and Jean Renoir’s films.&#xA;https://medium.com/@michaelgbass/la-vie-est-a-who-d9735dd93903</description>
     </item>
   </channel>
