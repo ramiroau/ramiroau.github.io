@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/es/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/es/clases/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>http://localhost:1313/es/clases/programa_uba_v20_blog/</loc>
-    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/es/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
