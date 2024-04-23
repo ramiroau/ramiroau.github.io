@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on R. Álvarez Ugarte - sitio personal</title>
+    <link>http://ramiroau.github.io/es/tags/</link>
+    <description>Recent content in Tags on R. Álvarez Ugarte - sitio personal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>R. Álvarez Ugarte</copyright>
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://ramiroau.github.io/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intervenciones</title>
+      <link>http://ramiroau.github.io/es/tags/intervenciones/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/es/tags/intervenciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plain-Text</title>
+      <link>http://ramiroau.github.io/es/tags/plain-text/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/es/tags/plain-text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>http://ramiroau.github.io/es/tags/r/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/es/tags/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Derecho-Constitucional</title>
+      <link>http://ramiroau.github.io/es/tags/derecho-constitucional/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/es/tags/derecho-constitucional/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teoría-Jurídica</title>
+      <link>http://ramiroau.github.io/es/tags/teor%C3%ADa-jur%C3%ADdica/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/es/tags/teor%C3%ADa-jur%C3%ADdica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>http://ramiroau.github.io/es/tags/misc/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/es/tags/misc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Profesoring</title>
+      <link>http://ramiroau.github.io/es/tags/profesoring/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/es/tags/profesoring/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
