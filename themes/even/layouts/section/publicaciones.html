@@ -21,7 +21,7 @@
 
 <h2>Trabajos en curso</h2>
 
-{{ range (where .Data.Pages "Type" "working_papers").GroupByDate "2006" "asc" }}
+{{ range (where .Data.Pages "Type" "working_papers").GroupByDate "2006" "desc" }}
 
 <!-- <h3>{{ .Key }}</h3> -->
 
@@ -38,7 +38,7 @@
 
 <h2>En prensa</h2>
 
-{{ range (where .Data.Pages "Type" "en_prensa").GroupByDate "2006" "asc" }}
+{{ range (where .Data.Pages "Type" "en_prensa").GroupByDate "2006" "desc" }}
 
 <!-- <h3>{{ .Key }}</h3> -->
 

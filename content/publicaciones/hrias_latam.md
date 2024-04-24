@@ -2,10 +2,10 @@
 title: "The Place and Challenges of Human Rights Impact Assessments in Latin American Internet Regulatory Futures"
 author: Ramiro Álvarez Ugarte
 status: en_prensa
-citation: "The Place and Challenges of Human Rights Impact Assessments in Latin American Internet Regulatory Futures, in Journal of Digital Media & Policy. Special Issue: 'Emerging Debates on Internet Platform Policy and Regulation in Latin America', Vol. 14 No. 2 (2023, en prensa)"
+citation: "The Place and Challenges of Human Rights Impact Assessments in Latin American Internet Regulatory Futures, in Journal of Digital Media & Policy. Special Issue: 'Emerging Debates on Internet Platform Policy and Regulation in Latin America', Vol. 14 No. 2, 169-185 (2023)"
 tag: law
 subjects: law
-type: en_prensa
+type: articulos
 file: hria4_v9.pdf
 comments: no
 date: 2023-02-23
