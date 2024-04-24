@@ -16,8 +16,6 @@ pygmentsCodefences = true
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
-buildDrafts = false
-
 publishDir = "docs"
 
 hasCJKLanguage = false     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
@@ -207,6 +205,9 @@ sectionPagesMenu = "main"
     g-github = "http://github.com/ramiroau"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
+[build]
+buildDrafts = false
+
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true      # 12.214.31.144 -> 12.214.31.0
