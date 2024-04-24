@@ -9,7 +9,9 @@
 <section id="pubs" class="pubs">
 <h1>Trabajos recientes</h1>  
 <ul>
-{{ range first 5 (where .Site.RegularPages.ByDate "Section" "publicaciones").Reverse }}
+
+{{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "publicaciones") }}
+
 
 <li>{{ .Params.citation | safeHTML }} <a href="{{ .Permalink }}"> / Resumen</a>
               {{ if isset .Params "file" }}<a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> / PDF</a>{{ end }}

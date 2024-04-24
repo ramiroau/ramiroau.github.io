@@ -2,16 +2,14 @@
 title: "El caso Baldivieso y el lento proceso de repolitización del aborto"
 author: Ramiro Álvarez Ugarte
 status: published
-citation: 'El caso Baldivieso y el lento proceso de repolitización del aborto, en María Luisa Piqué, Diego Zysman Quirós (eds.) Fallos de la CSJN. Análisis, historia e impacto de los precedentes que marcaron criterios fundamentales de la jurisprudencia en materia penal, vol. 2,  Editorial Hammurabi, Buenos Aires, 2023 (en prensa).'
-tag: law, aborto, justicia_reproductiva, penal
-subjects: law
 type: en_prensa
+citation: 'El caso Baldivieso y el lento proceso de repolitización del aborto, en María Luisa Piqué, Diego Zysman Quirós (eds.) Fallos de la CSJN. Análisis, historia e impacto de los precedentes que marcaron criterios fundamentales de la jurisprudencia en materia penal, vol. 2, Editorial Hammurabi, Buenos Aires, 2023 (en prensa).'
+tag: ["teoría jurídica, derecho constitucional"]
+subjects: law
 comments: no
 file: baldivieso_v3.pdf
-status: Unpublished
-date: 
-delivery_date: 2022-10-24
-publishdate: 
+date: 2022-10-24
+doi: 
 filter:
   - erb
   - markdown
