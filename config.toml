@@ -204,10 +204,11 @@ sectionPagesMenu = "main"
     c-twitter = "https://twitter.com/ramiroau"
     g-github = "http://github.com/ramiroau"
 
-# See https://gohugo.io/about/hugo-and-gdpr/
+
 [build]
 buildDrafts = false
 
+# See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true      # 12.214.31.144 -> 12.214.31.0
