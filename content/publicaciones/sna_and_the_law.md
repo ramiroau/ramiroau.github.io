@@ -1,6 +1,7 @@
 ---
 title: "Social Network Analysis and the Law: A Proof of Concept for Argentina"
 author: Ramiro Álvarez Ugarte
+date: 2020-11-28
 status: draft
 citation: "Social Network Analysis and the Law: A Proof of Concept for Argentina (Working paper)"
 tag: law
@@ -9,7 +10,6 @@ subjects: law
 type: retirados
 comments: no
 status: Unpublished
-date: 
 delivery_date: 
 acceptance_date: 
 publishdate: 2020-11-28

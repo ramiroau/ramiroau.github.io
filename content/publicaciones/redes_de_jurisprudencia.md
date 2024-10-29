@@ -5,12 +5,12 @@ status: published
 citation: "Redes de influencia: análisis de la jurisprudencia civil argentina en materia de responsabilidad de intermediarios, Revista Chilena de Derecho y Tecnología, Vol. 11, No. 2, 147-182, doi 10.5354/0719-2584.2021.65368 (2022)"
 tag: law, sna
 subjects: law
-type: articulo
+type: articulos
 comments: no
 file: rcdyt_rau_ev.pdf 
 doi: 10.5354/0719-2584.2021.65368
 status: published
-date: 
+date: 2022-12-31
 delivery_date: 2021-11-11
 acceptance_date: 2022-06-28
 publishdate: 2022-12-31

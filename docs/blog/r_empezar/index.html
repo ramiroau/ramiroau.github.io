@@ -19,14 +19,15 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="Ramiro Álvarez Ugarte" /><meta name="description" content="En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes!" /><meta name="keywords" content="Hugo, theme, even" />
+<meta name="author" content="Ramiro Álvarez Ugarte" /><meta name="description" content="En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes! La Universidad es más grande, rica, y todo lo interdisciplinario ilumina mil veces más que volver a leer los viejos fallos de siempre.
+" /><meta name="keywords" content="Hugo, theme, even" />
 
 
 
 
 
 
-<meta name="generator" content="Hugo 0.124.1 with theme even" />
+<meta name="generator" content="Hugo 0.135.0 with theme even" />
 
 
 <link rel="canonical" href="http://ramiroau.github.io/blog/r_empezar/" />
@@ -43,18 +44,26 @@
 <link rel="stylesheet" href="/css/mine.css">
 
 
-<meta property="og:title" content="Por dónde empezar con R" />
-<meta property="og:description" content="En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes!" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="http://ramiroau.github.io/blog/r_empezar/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2020-07-22T00:00:00+00:00" />
-<meta property="article:modified_time" content="2020-07-22T00:00:00+00:00" />
-<meta itemprop="name" content="Por dónde empezar con R">
-<meta itemprop="description" content="En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes!"><meta itemprop="datePublished" content="2020-07-22T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2020-07-22T00:00:00+00:00" />
-<meta itemprop="wordCount" content="882">
-<meta itemprop="keywords" content="R," /><meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Por dónde empezar con R"/>
-<meta name="twitter:description" content="En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes!"/>
+<meta property="og:url" content="http://ramiroau.github.io/blog/r_empezar/">
+  <meta property="og:site_name" content="R. Álvarez Ugarte - sitio personal">
+  <meta property="og:title" content="Por dónde empezar con R">
+  <meta property="og:description" content="En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes! La Universidad es más grande, rica, y todo lo interdisciplinario ilumina mil veces más que volver a leer los viejos fallos de siempre.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2020-07-22T00:00:00+00:00">
+    <meta property="article:modified_time" content="2020-07-22T00:00:00+00:00">
+    <meta property="article:tag" content="R">
+
+  <meta itemprop="name" content="Por dónde empezar con R">
+  <meta itemprop="description" content="En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes! La Universidad es más grande, rica, y todo lo interdisciplinario ilumina mil veces más que volver a leer los viejos fallos de siempre.">
+  <meta itemprop="datePublished" content="2020-07-22T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2020-07-22T00:00:00+00:00">
+  <meta itemprop="wordCount" content="882">
+  <meta itemprop="keywords" content="R">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Por dónde empezar con R">
+  <meta name="twitter:description" content="En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes! La Universidad es más grande, rica, y todo lo interdisciplinario ilumina mil veces más que volver a leer los viejos fallos de siempre.">
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -302,8 +311,6 @@
 
 
 <script type="text/javascript" src="/js/main.min.1c70606d1b733282f06230615f5561b5894924b6f9930ba2ab99cf1254f75a1a.js"></script>
-
-
 
 
 

@@ -8,9 +8,6 @@ subjects: law
 type: working_papers
 comments: no
 date: 2023-02-23
-delivery_date: 
-acceptance_date: 
-publishdate: 
 doi: 
 ssrn: 
 filter:

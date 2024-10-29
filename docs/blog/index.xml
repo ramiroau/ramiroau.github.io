@@ -4,7 +4,7 @@
     <title>Clases on R. Álvarez Ugarte - sitio personal</title>
     <link>http://ramiroau.github.io/blog/</link>
     <description>Recent content in Clases on R. Álvarez Ugarte - sitio personal</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
     <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
@@ -14,56 +14,56 @@
       <link>http://ramiroau.github.io/blog/tirando_piedras/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/tirando_piedras/</guid>
-      <description>Me gusta la revista Seúl. En el último año publiqué algunas notas, en algunos casos sobre temas difíciles y sobre alguna incomodidad: con la disonancia cognitiva que me produce la admiración por el movimiento de DDHH y su acercamiento (costoso) al kirchnerismo, con la expansión de las narrativas de democracia en peligro que me parecen que no van pero hay un problema allí y sobre la trampa central en la que se encuentra atrapada la coalición de gobierno, que tiene que ver con causas judiciales en marcha sobre personas que arrastran miles de votos&amp;mdash;y sobre una salida por arriba a ese laberinto (que se demostró improbable ante la para mí inesperada derrota legislativa del oficialismo).</description>
+      <description>&lt;p&gt;Me gusta la revista &lt;a href=&#34;https://seul.ar/author/ramiroau/&#34;&gt;Seúl&lt;/a&gt;. En el último año publiqué algunas notas, en algunos casos sobre temas difíciles y sobre alguna incomodidad: con la &lt;a href=&#34;https://seul.ar/estrella-de-carlotto/&#34;&gt;disonancia cognitiva&lt;/a&gt; que me produce la admiración por el movimiento de DDHH y su acercamiento (costoso) al &lt;em&gt;kirchnerismo&lt;/em&gt;, con la expansión de las narrativas de &lt;em&gt;democracia en peligro&lt;/em&gt; que me parecen que no van &lt;a href=&#34;https://seul.ar/alarmas-levitsky-ziblatt/&#34;&gt;pero hay un problema allí&lt;/a&gt; y sobre la trampa central en la que se encuentra atrapada la coalición de gobierno, que tiene que ver con &lt;a href=&#34;https://seul.ar/breaking-k/&#34;&gt;causas judiciales en marcha&lt;/a&gt; sobre personas que arrastran miles de votos&amp;mdash;y sobre una salida por arriba a ese laberinto (que se demostró improbable ante la para mí inesperada derrota legislativa del oficialismo). También, menos incómodo, presenté una crítica a la última propuesta de reforma judicial &lt;a href=&#34;https://seul.ar/ampliacion-corte-suprema-pj/&#34;&gt;del oficialismo&lt;/a&gt;. Y tuve el placer de &lt;a href=&#34;https://seul.ar/un-pais-al-margen-de-la-ley-carlos-nino/&#34;&gt;releer&lt;/a&gt; &lt;em&gt;Un país al margen de la ley&lt;/em&gt; de Carlos Nino.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Escritura en plain text, citas y automatización</title>
       <link>http://ramiroau.github.io/blog/escritura_libre/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/escritura_libre/</guid>
-      <description>Esto estaba en borrador desde hace mucho tiempo, porque usualmente recibo consultas sobre cómo escribir en plain text y cuestiones vinculadas al manejo de la bibliografía (especialmente con referencia a la automatización de citas). Una consulta de Claudio Ruiz&amp;mdash;quien me presentó el mundo Markdown y pandoc hace muchos años&amp;mdash;me terminó de empujar a publicar y a actualizar, porque la metodología (mí metodología) fue cambiando mucho con el paso del tiempo. Lo que sigue es, entonces, una forma de producir que me resulta útil a mí.</description>
+      <description>&lt;p&gt;Esto estaba en &lt;em&gt;borrador&lt;/em&gt; desde hace mucho tiempo, porque usualmente recibo consultas sobre cómo escribir en &lt;em&gt;plain text&lt;/em&gt; y cuestiones vinculadas al manejo de la bibliografía (especialmente con referencia a la automatización de citas). Una consulta de &lt;a href=&#34;https://claudioruiz.com/&#34;&gt;Claudio Ruiz&lt;/a&gt;&amp;mdash;quien me presentó el mundo Markdown y &lt;code&gt;pandoc&lt;/code&gt; hace muchos años&amp;mdash;me terminó de empujar a publicar y a actualizar, porque la metodología (&lt;em&gt;mí&lt;/em&gt; metodología) fue cambiando mucho con el paso del tiempo. Lo que sigue es, entonces, una forma de producir que me resulta útil a mí. No es la mejor, quizás no sea para usted, pero aquí está.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Por dónde empezar con R</title>
       <link>http://ramiroau.github.io/blog/r_empezar/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/r_empezar/</guid>
-      <description>En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de social network analysis (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran Josh Whitford. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes!</description>
+      <description>&lt;p&gt;En las últimas semanas fui publicando en tuiter análisis diversos de datos legales con la metodología de &lt;em&gt;social network analysis&lt;/em&gt; (SNA), que aprendí (o mejor dicho empecé a aprender) tomando el curso Design of Social Research en el departamento de Sociología de la Universidad de Columbia, con el gran &lt;a href=&#34;https://sociology.columbia.edu/content/josh-whitford&#34;&gt;Josh Whitford&lt;/a&gt;. Fue una de esas experiencias increíbles que siempre recomiendo a quienes van a estudiar derecho afuera: ¡sálganse de la escuelas de leyes! La Universidad es más grande, rica, y todo lo interdisciplinario ilumina mil veces más que volver a leer los viejos fallos de siempre.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Guía Argentina de Citas Legales (versión 1.0)</title>
       <link>http://ramiroau.github.io/blog/gacl/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/gacl/</guid>
-      <description>A diferencia de otras jurisdicciones (p.ej. Estados Unidos, Reino Unido, Australia), la comunidad legal de Argentina no tiene un estilo de citas unificado. Cada editor pide el estilo que desea y&amp;mdash;en general&amp;mdash;no adoptan uno que ya exista, sino que generan un estilo propio desarrollado ad-hoc que vuelcan a una guía de estilo propia (p.ej. la Revista Ambiental de la Universidad de Palermo, la Revista Argentina de Teoría Jurídica de la Universidad Di Tella, Lecciones y Ensayos, etcétera).</description>
+      <description>&lt;p&gt;A diferencia de otras jurisdicciones (p.ej. Estados Unidos, Reino Unido, Australia), la comunidad legal de Argentina no tiene un estilo de citas unificado. Cada editor pide el estilo que desea y&amp;mdash;en general&amp;mdash;no adoptan uno que ya exista, sino que generan un estilo propio desarrollado ad-hoc que vuelcan a una guía de estilo propia (p.ej. la Revista Ambiental de la Universidad de Palermo, la Revista Argentina de Teoría Jurídica de la Universidad Di Tella, Lecciones y Ensayos, etcétera).&lt;/p&gt;</description>
     </item>
     <item>
       <title>DNU, doctrina y práctica constitucional (urgente)</title>
       <link>http://ramiroau.github.io/blog/dnus/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/dnus/</guid>
-      <description>Sólo para compartir algunos datos que terminaron en un hilo de tuiter.&#xA;Me interesaba mirar los datos de DNU y fui a la fuente original, Infoleg y SAIJ. Éste último resultó ser más amigable a la hora de escrapear los datos y así terminé con un dataset con DNUs dictados entre 1995 y 2020 de 7821. La pregunta que me guiaba era ver la evolución del uso y detectar el aumento de 2020 (que es evidente).</description>
+      <description>&lt;p&gt;Sólo para compartir algunos datos que terminaron en un hilo de tuiter.&lt;/p&gt;&#xA;&lt;p&gt;Me interesaba mirar los datos de DNU y fui a la fuente original, &lt;em&gt;Infoleg&lt;/em&gt; y &lt;em&gt;SAIJ&lt;/em&gt;. Éste último resultó ser &lt;a href=&#34;http://www.saij.gob.ar/resultados.jsp?r=%20fecha-rango%3A%5B19950101%20TO%2020200613%5D&amp;amp;o=0&amp;amp;p=25&amp;amp;f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Decreto/Decreto%20de%20Necesidad%20y%20Urgencia%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Nacional&amp;amp;v=colapsada&#34;&gt;más amigable a la hora de escrapear los datos&lt;/a&gt; y así terminé con un dataset con DNUs dictados entre 1995 y 2020 de 782&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. La pregunta que me guiaba era ver la evolución del uso y detectar el aumento de 2020 (que es evidente).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nadie es la patria (Borges)</title>
       <link>http://ramiroau.github.io/blog/nadieslapatria/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/nadieslapatria/</guid>
-      <description>Nadie es la patria. Ni siquiera el jinete&#xA;que, alto en el alba de una plaza desierta,&#xA;rige un corcel de bronce por el tiempo,&#xA;ni los otros que miran desde el mármol,&#xA;ni los que prodigaron su bélica ceniza&#xA;por los campos de América&#xA;o dejaron un verso o una hazaña&#xA;o la memoria de una vida cabal&#xA;en el justo ejercicio de los días.&#xA;Nadie es la patria. Ni siquiera los símbolos.</description>
+      <description>&lt;p&gt;Nadie es la patria. Ni siquiera el jinete&lt;br&gt;&#xA;que, alto en el alba de una plaza desierta,&lt;br&gt;&#xA;rige un corcel de bronce por el tiempo,&lt;br&gt;&#xA;ni los otros que miran desde el mármol,&lt;br&gt;&#xA;ni los que prodigaron su bélica ceniza&lt;br&gt;&#xA;por los campos de América&lt;br&gt;&#xA;o dejaron un verso o una hazaña&lt;br&gt;&#xA;o la memoria de una vida cabal&lt;br&gt;&#xA;en el justo ejercicio de los días.&lt;br&gt;&#xA;Nadie es la patria. Ni siquiera los símbolos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Líneas de tiempo</title>
       <link>http://ramiroau.github.io/blog/lineasdetiempo/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/lineasdetiempo/</guid>
-      <description>Sin pizarrón no podemos hacer las &amp;ldquo;líneas de tiempo&amp;rdquo; que siempre hacemos (¡la dimensión temporal explica muchas cosas!). En Derecho Constitucional y Cambio Social, la clase que damos con I.J. desde hace muchos años, siempre hablamos sobre el movimiento de DDHH y siempre hacemos una línea de tiempo en el pizarrón, contando la historia en sí y los distintos hitos legales que fueron ocurriendo con el correr de los años.</description>
+      <description>&lt;p&gt;Sin pizarrón no podemos hacer las &amp;ldquo;líneas de tiempo&amp;rdquo; que siempre hacemos (¡la dimensión temporal explica muchas cosas!). En &lt;em&gt;Derecho Constitucional y Cambio Social&lt;/em&gt;, la clase que damos con I.J. desde hace muchos años, &lt;em&gt;siempre&lt;/em&gt; hablamos sobre el movimiento de DDHH y &lt;em&gt;siempre&lt;/em&gt; hacemos una línea de tiempo en el pizarrón, contando la historia en sí y los distintos hitos legales que fueron ocurriendo con el correr de los años.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pandemia, clases y Zoom</title>
       <link>http://ramiroau.github.io/blog/pandemia/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/pandemia/</guid>
-      <description>Ya van varias semanas de clases virtuales y parece un buen momento para reflexionar sobre posible enseñanzas, al menos provisionalmente.&#xA;La elección tecnológica. Uno puede imaginar mil escenarios posibles, pero al final de cuentas termina eligiendo la opción tecnológica que está mejor distribuida entre todos los alumnos. A nivel maestría (profesionales, grupo pequeño), el sistema Blackboard funcionó bastante bien (es una especie de Zoom para el cual la universidad ya tiene licencia).</description>
+      <description>&lt;p&gt;Ya van varias semanas de clases virtuales y parece un buen momento para reflexionar sobre posible enseñanzas, al menos provisionalmente.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;La elección tecnológica&lt;/em&gt;. Uno puede imaginar mil escenarios posibles, pero al final de cuentas termina eligiendo la opción tecnológica que está mejor distribuida entre todos los alumnos. A nivel maestría (profesionales, grupo pequeño), el sistema Blackboard funcionó bastante bien (es una especie de &lt;em&gt;Zoom&lt;/em&gt; para el cual la universidad ya tiene licencia). Tiene muchas funcionalidades orientadas a la academia / enseñanza, pero por ahora usamos sólo esa. En &lt;code&gt;grado_uba&lt;/code&gt; la cuestión es diferente: la disponibilidad tecnológica es (presumiblemente) mucho menor. P.ej., quise explorar posibles IRC respetuosos de la privacidad y multi-plataforma tipo &lt;em&gt;Pidgin&lt;/em&gt; o &lt;em&gt;Adium&lt;/em&gt; o ir un pad de &lt;em&gt;Riseup&lt;/em&gt; &amp;mdash; nada funcionó. Promedio de edad = 21.94318 (explica muchas cosas). Y es que resulta que no todos tienen computadoras, pero todos tienen celular. La opción más resiliente es, entonces, la tecnología que todos ya tienen. Entonces aplicaciones genéricas y populares (&lt;em&gt;Google Classrooms&lt;/em&gt;, &lt;em&gt;YouTube&lt;/em&gt;, &lt;em&gt;Whatsapp&lt;/em&gt;) terminan imponiéndose.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

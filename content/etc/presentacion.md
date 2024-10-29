@@ -1,6 +1,6 @@
 ---
 title: 
-date: 
+date: 2020-01-01
 author: 
 type: presentacion
 ---

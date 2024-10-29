@@ -8,9 +8,9 @@ subjects: law
 type: retirados
 comments: no
 date: 2020-04-10
-acceptance_date: 
+acceptance_date: 2020-04-10
 delivery_date: 2020-04-10
-publishdate: ---
+publishdate: 2020-04-10
 doi: 
 isbn: 978-987-03-3830-7
 filter:

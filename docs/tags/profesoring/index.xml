@@ -4,7 +4,7 @@
     <title>Profesoring on R. Álvarez Ugarte - sitio personal</title>
     <link>http://ramiroau.github.io/tags/profesoring/</link>
     <description>Recent content in Profesoring on R. Álvarez Ugarte - sitio personal</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
     <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
@@ -14,7 +14,7 @@
       <link>http://ramiroau.github.io/blog/pandemia/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       <guid>http://ramiroau.github.io/blog/pandemia/</guid>
-      <description>Ya van varias semanas de clases virtuales y parece un buen momento para reflexionar sobre posible enseñanzas, al menos provisionalmente.&#xA;La elección tecnológica. Uno puede imaginar mil escenarios posibles, pero al final de cuentas termina eligiendo la opción tecnológica que está mejor distribuida entre todos los alumnos. A nivel maestría (profesionales, grupo pequeño), el sistema Blackboard funcionó bastante bien (es una especie de Zoom para el cual la universidad ya tiene licencia).</description>
+      <description>&lt;p&gt;Ya van varias semanas de clases virtuales y parece un buen momento para reflexionar sobre posible enseñanzas, al menos provisionalmente.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;La elección tecnológica&lt;/em&gt;. Uno puede imaginar mil escenarios posibles, pero al final de cuentas termina eligiendo la opción tecnológica que está mejor distribuida entre todos los alumnos. A nivel maestría (profesionales, grupo pequeño), el sistema Blackboard funcionó bastante bien (es una especie de &lt;em&gt;Zoom&lt;/em&gt; para el cual la universidad ya tiene licencia). Tiene muchas funcionalidades orientadas a la academia / enseñanza, pero por ahora usamos sólo esa. En &lt;code&gt;grado_uba&lt;/code&gt; la cuestión es diferente: la disponibilidad tecnológica es (presumiblemente) mucho menor. P.ej., quise explorar posibles IRC respetuosos de la privacidad y multi-plataforma tipo &lt;em&gt;Pidgin&lt;/em&gt; o &lt;em&gt;Adium&lt;/em&gt; o ir un pad de &lt;em&gt;Riseup&lt;/em&gt; &amp;mdash; nada funcionó. Promedio de edad = 21.94318 (explica muchas cosas). Y es que resulta que no todos tienen computadoras, pero todos tienen celular. La opción más resiliente es, entonces, la tecnología que todos ya tienen. Entonces aplicaciones genéricas y populares (&lt;em&gt;Google Classrooms&lt;/em&gt;, &lt;em&gt;YouTube&lt;/em&gt;, &lt;em&gt;Whatsapp&lt;/em&gt;) terminan imponiéndose.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

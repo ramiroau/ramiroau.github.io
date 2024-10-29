@@ -8,7 +8,7 @@ subjects: law
 type: articulos
 comments: no
 status: published
-date: 
+date: 2022-03-30
 delivery_date: 
 acceptance_date: 
 publishdate: 2022-03-30
