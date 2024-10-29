@@ -1,8 +1,0 @@
-{{ if .Title }}
-  <figure>
-    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
-    <figcaption style = "font-style: italic; padding: 2px; text-align: center">{{ .Title }}</figcaption>
-  </figure>
-{{ else }}
-  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
-{{ end }}
