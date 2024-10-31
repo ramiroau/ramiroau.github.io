@@ -1,0 +1,47 @@
+{{- define "title" }}{{ T "archive" }} - {{ .Site.Title }}{{ end -}}
+
+{{- define "content" }}
+
+{{ $baseurl := .Site.BaseURL }}
+
+<div class="content-wrapper">
+  <div id="content" class="content">
+
+    <!-- post-header -->
+    <header class="post-header">
+
+    <h4><a href="javascript:history.back()"> ← {{ .Page.File.Dir | safeHTML }}</h4></a>
+
+    </header>
+
+<h2 style="padding:0em;" class = "post post-title">Notas</em> →</h2>
+
+{{ range (where .Data.Pages "Type" "wikipost").GroupByDate "2006" "desc" }}
+
+{{ range .Pages.ByDate.Reverse }}
+
+<a href="{{ .Permalink }}"><p style="margin-top:-1em">{{ .File | safeHTML }} 
+  </a> {{ .Description }}
+
+  {{ if isset .Params "file" }}
+  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{- end}}
+
+{{ with .Resources.ByType "image" }}
+  <div class="Gallery">
+    {{ range . }}
+      <div class='Gallery__item'>
+        <img src="{{ .RelPermalink }}" title="{{ .Title }}" />
+      </div>
+    {{ end }}
+  </div>
+
+  
+{{ end }}
+
+
+{{- end }}

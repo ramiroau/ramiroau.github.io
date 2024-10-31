@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on R. Álvarez Ugarte - sitio personal</title>
+    <link>http://localhost:1313/es/tags/misc/</link>
+    <description>Recent content in Misc on R. Álvarez Ugarte - sitio personal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>R. Álvarez Ugarte</copyright>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nadie es la patria (Borges)</title>
+      <link>http://localhost:1313/es/blog/nadieslapatria/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/nadieslapatria/</guid>
+      <description>Nadie es la patria. Ni siquiera el jinete&#xA;que, alto en el alba de una plaza desierta,&#xA;rige un corcel de bronce por el tiempo,&#xA;ni los otros que miran desde el mármol,&#xA;ni los que prodigaron su bélica ceniza&#xA;por los campos de América&#xA;o dejaron un verso o una hazaña&#xA;o la memoria de una vida cabal&#xA;en el justo ejercicio de los días.&#xA;Nadie es la patria. Ni siquiera los símbolos.</description>
+    </item>
+  </channel>
+</rss>

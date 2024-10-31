@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis on R. Álvarez Ugarte - sitio personal</title>
+    <link>http://localhost:1313/es/etc/wikis/racial_justice/</link>
+    <description>Recent content in Wikis on R. Álvarez Ugarte - sitio personal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>R. Álvarez Ugarte</copyright>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/etc/wikis/racial_justice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Lives Matter as Social Movements</title>
+      <link>http://localhost:1313/es/etc/wikis/racial_justice/blm_as_social_movement/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/etc/wikis/racial_justice/blm_as_social_movement/</guid>
+      <description>https://books.google.com.ar/books?id=-CfADgAAQBAJ&amp;amp;lpg=PP1&amp;amp;ots=W__TI8hYMb&amp;amp;dq=%22black%20lives%20matter%22%20as%20social%20movement&amp;amp;lr&amp;amp;hl=es&amp;amp;pg=PR3#v=onepage&amp;amp;q=%22black%20lives%20matter%22%20as%20social%20movement&amp;amp;f=false</description>
+    </item>
+    <item>
+      <title>Outrages</title>
+      <link>http://localhost:1313/es/etc/wikis/racial_justice/outrages/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/etc/wikis/racial_justice/outrages/</guid>
+      <description>(¿Qué les pasó?)&#xA;(22 segundos de silencio)</description>
+    </item>
+    <item>
+      <title>The law on police killings</title>
+      <link>http://localhost:1313/es/etc/wikis/racial_justice/police_impunity/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/etc/wikis/racial_justice/police_impunity/</guid>
+      <description>Una dimensión importante de los casos constantes es que hay &amp;ldquo;impunidad&amp;rdquo;, juega un rol la doctrina de qualified immunity, aparentemente totalmente judicial.&#xA;Qualified immunity is a legal doctrine in United States federal law that shields government officials from being sued for discretionary actions performed within their official capacity, unless their actions violated &amp;ldquo;clearly established&amp;rdquo; federal law or constitutional rights. Qualified immunity thus protects officials who &amp;ldquo;make reasonable but mistaken judgments about open legal questions&amp;rdquo;, but does not protect &amp;ldquo;the plainly incompetent or those who knowingly violate the law&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>
