@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intervenciones</title>
+      <link>//localhost:1313/blog/intervenciones/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/intervenciones/</guid>
+      <description>&lt;p&gt;Volvieron los blogs. Además de contribuciones periódicas al blog del &lt;a href=&#34;https://observatoriolegislativocele.com/author/ramiro-alvarez-ugarte/&#34;&gt;CELE&lt;/a&gt;, en el último año publiqué en &lt;a href=&#34;https://www.techpolicy.press/from-soft-law-to-hard-law-human-rights-impact-assessments-in-the-digital-services-act-era/&#34;&gt;Tech Policy Press&lt;/a&gt; sobre los límites de la aproximación &amp;ldquo;voluntaria&amp;rdquo; al tema empresas y derechos humanos y en el siempre interesante &lt;a href=&#34;https://verfassungsblog.de/ruling-by-bullying/&#34;&gt;Verfassungsblog&lt;/a&gt; sobre el uso de amenazas como mecanismos de gobernanza, especialmente en temas de Internet (y la última jurisprudencia en Estados Unidos que intenta desatar ese nudo, si es que ello fuera posible). Y mi defensa doctoral tuvo un lindo correlato en unas de las páginas más admiradas: una crónica sobre la casualidad, sobre la extrañeza que producía ver &lt;a href=&#34;https://nuso.org/articulo/aborto-estados-unidos-panuelo-verde-corte-suprema/&#34;&gt;pañuelos verdes en Manhattan&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/dnus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/dnus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/escritura_libre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/escritura_libre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/gacl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/gacl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/lineasdetiempo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/lineasdetiempo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/nadieslapatria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/nadieslapatria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/pandemia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/pandemia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/r_empezar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/r_empezar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/sna-y-jurisprudencia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/sna-y-jurisprudencia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/tirando_piedras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/tirando_piedras/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
