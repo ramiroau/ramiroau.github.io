@@ -842,6 +842,13 @@
   </url>
   
   <url>
+    <loc>http://ramiroau.github.io/publicaciones/rese%C3%B1a_chile/</loc>
+    <lastmod>1969-12-31T21:33:43-03:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ramiroau.github.io/etc/readlater/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

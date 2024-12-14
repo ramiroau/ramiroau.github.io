@@ -16,12 +16,5 @@
       <guid>http://localhost:1313/blog/sna-y-jurisprudencia/</guid>
       <description>&lt;p&gt;En esta sección el CELE presenta una visualización de la &amp;ldquo;jurisprudencia de intermediarios&amp;rdquo; en la Argentina, como solemos llamar a la serie de casos judiciales que&amp;mdash;en la última década y media&amp;mdash;han procurado resolver la cuestión de la responsabilidad civil de las plataformas de Internet por contenidos producidos por terceros. La investigación se encuentra en proceso de &amp;ldquo;revisión por pares&amp;rdquo;, pero esta entrada busca mostrar gráficamente algunos de los principales hallazgos. Especialmente busca mostrar la dimensión &lt;em&gt;temporal&lt;/em&gt; de la jurisprudencia bajo análisis a través de herramientas no usualmente disponibles en las publicaciones académicas.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Shine</title>
-      <link>http://localhost:1313/blog/shine/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/shine/</guid>
-      <description>&lt;iframe height=&#34;800&#34; width=&#34;100%&#34; frameborder=&#34;no&#34; src=&#34;https://ramiroau.shinyapps.io/intermediarios/&#34;&gt; &lt;/iframe&gt;</description>
-    </item>
   </channel>
 </rss>
