@@ -10,8 +10,8 @@ isbn:
 comments: no
 date: 2024-12-14
 delivery_date: 2024-12-14
-acceptance_date: 
-published_date: 2025-01-22
+acceptance_date: 2025-02-15
+published_date: 2025-03-18
 filter:
   - erb
   - markdown
