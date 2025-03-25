@@ -7,6 +7,7 @@ citation: "<em>Are Risks the New Rights? The Perils of Risk-based Approaches to 
 tag: ["teoría regulatoria", "Internet governance"]
 file: ssrn-5161173.pdf
 subjects: law
+doi: 10.2139/ssrn.5161173
 comments: no
 date: 2025-03-25
 publishdate: 2025-03-25
