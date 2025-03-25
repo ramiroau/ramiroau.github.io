@@ -118,7 +118,7 @@ sectionPagesMenu = "main"
 
   changyanAppid = ""        # Changyan app id             # 畅言
   changyanAppkey = ""       # Changyan app key
-
+  relativeURLs = true
   livereUID = ""            # LiveRe UID                  # 来必力
 
   baiduPush = false        # baidu push                  # 百度
