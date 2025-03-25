@@ -296,27 +296,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/sna-y-jurisprudencia/</loc>
-    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/r/</loc>
-    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/sna/</loc>
-    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/etc/wikis/cocina/pad_thai_sauce/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -401,13 +380,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/sna_and_the_law/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/publicaciones/clough2019/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -423,6 +395,13 @@
   
   <url>
     <loc>http://localhost:1313/tags/plain-text/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/r/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
