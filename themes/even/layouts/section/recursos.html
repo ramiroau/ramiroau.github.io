@@ -12,7 +12,24 @@
       <h1 class="post-title">{{ .Title }}</h1>
 
     </header>
-    
+
+<h2 style="padding:0em;" class = "post post-title">Zotero translators</em> →</h2>
+
+{{ range (where .Data.Pages "Type" "translators").GroupByDate "2006" "desc" }}
+
+{{ range .Pages.ByDate.Reverse }}
+
+<p>{{ .Content | safeHTML }} 
+  <a href="{{ .Permalink }}"></a> 
+
+  {{ if isset .Params "file" }}
+  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{- end}}
+
 <h2 style="padding:0em;" class = "post post-title">Escritura en <em>plain text</em> →</h2>
 
 {{ range (where .Data.Pages "Type" "plain_text").GroupByDate "2006" "desc" }}
