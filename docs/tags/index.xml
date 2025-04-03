@@ -2,67 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R. Álvarez Ugarte - sitio personal</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://ramiroau.github.io/tags/</link>
     <description>Recent content in Tags on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://ramiroau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intervenciones</title>
-      <link>http://localhost:1313/tags/intervenciones/</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/intervenciones/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>http://localhost:1313/tags/r/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/r/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SNA</title>
-      <link>http://localhost:1313/tags/sna/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sna/</guid>
+      <link>http://ramiroau.github.io/tags/intervenciones/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/tags/intervenciones/</guid>
       <description></description>
     </item>
     <item>
       <title>Plain-Text</title>
-      <link>http://localhost:1313/tags/plain-text/</link>
+      <link>http://ramiroau.github.io/tags/plain-text/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/plain-text/</guid>
+      <guid>http://ramiroau.github.io/tags/plain-text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>http://ramiroau.github.io/tags/r/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/tags/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Derecho-Constitucional</title>
-      <link>http://localhost:1313/tags/derecho-constitucional/</link>
+      <link>http://ramiroau.github.io/tags/derecho-constitucional/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/derecho-constitucional/</guid>
+      <guid>http://ramiroau.github.io/tags/derecho-constitucional/</guid>
       <description></description>
     </item>
     <item>
       <title>Teoría-Jurídica</title>
-      <link>http://localhost:1313/tags/teor%C3%ADa-jur%C3%ADdica/</link>
+      <link>http://ramiroau.github.io/tags/teor%C3%ADa-jur%C3%ADdica/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/teor%C3%ADa-jur%C3%ADdica/</guid>
+      <guid>http://ramiroau.github.io/tags/teor%C3%ADa-jur%C3%ADdica/</guid>
       <description></description>
     </item>
     <item>
       <title>Misc</title>
-      <link>http://localhost:1313/tags/misc/</link>
+      <link>http://ramiroau.github.io/tags/misc/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/misc/</guid>
+      <guid>http://ramiroau.github.io/tags/misc/</guid>
       <description></description>
     </item>
     <item>
       <title>Profesoring</title>
-      <link>http://localhost:1313/tags/profesoring/</link>
+      <link>http://ramiroau.github.io/tags/profesoring/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/profesoring/</guid>
+      <guid>http://ramiroau.github.io/tags/profesoring/</guid>
       <description></description>
     </item>
   </channel>

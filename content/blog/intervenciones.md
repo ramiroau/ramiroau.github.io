@@ -1,7 +1,7 @@
 ---
 title: Intervenciones
 author: Ramiro Álvarez Ugarte
-date: 2025-04-04
+date: 2025-04-03
 draft: false
 status: published 
 type: post
