@@ -30,6 +30,27 @@ masa madre 80g
 Sal 10g
 375ml agua
 
+# Dacovich
+
+Otras proporciones 
+
+15 minutos de amasado de la masa total, plegado
+
+800 gr de harina
+400 gr de agua
+400 gr de masa madre
+20 gr de sal
+
+4 pizzas de 400 gramos cada una 
+
+20 minutos de autolisis
+
+1. Plegados sobre la masa total 15 minutos (hasta que no se pegue en la mesada). Dejamos reposar una hora
+2. Dos pliegues cada una hora (con un poco de aceite de oliva) 1 pliegue --- una hora --- otro pliegue 
+3. Bollamos y guardamos en la heladera 
+
+Sacarlos 3 horas antes de cocinar 
+
 # Marian
 
 
