@@ -51,6 +51,8 @@ Otras proporciones
 
 Sacarlos 3 horas antes de cocinar 
 
+Temperatura ideal para la MM: 25 grados 
+
 # Marian
 
 
