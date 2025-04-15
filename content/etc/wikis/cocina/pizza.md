@@ -8,14 +8,14 @@ date: 2025-03-27
 
 Pietro aconseja 
 
-# Ingredientes
+# Ingredientes
 
 - 1 kilo de harina
 - 60% agua (600ml)
 - 0.2% de levadura (1.5g)
 - 2.5% sal 
 
-# Proceso
+# Proceso
 
 - 4 o 5 horas de levadua, cuando duplica se divide en bolloss
 - Horno al máximo para que el aire interno de la masa "airee" la cosa
