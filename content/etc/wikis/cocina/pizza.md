@@ -43,7 +43,7 @@ Otras proporciones
 
 4 pizzas de 400 gramos cada una 
 
-20 minutos de autolisis
+20 minutos de autolisiss
 
 1. Plegados sobre la masa total 15 minutos (hasta que no se pegue en la mesada). Dejamos reposar una hora
 2. Dos pliegues cada una hora (con un poco de aceite de oliva) 1 pliegue --- una hora --- otro pliegue 
