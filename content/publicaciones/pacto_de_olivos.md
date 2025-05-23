@@ -2,16 +2,17 @@
 title: "En defensa del Pacto de Olivos y del ejercicio (posible) del poder constituyente"
 author: Ramiro Álvarez Ugarte
 draft: false
-type: en_prensa
-citation: "En defensa del Pacto de Olivos y del ejercicio (posible) del poder constituyente, Lecciones y Ensayos, No. 113, xxx-xxx (2024) (en prensa)" 
+type: articulos
+citation: "En defensa del Pacto de Olivos y del ejercicio (posible) del poder constituyente, Lecciones y Ensayos, No. 113, (2024)" 
 tag: teoría constitucional
 subjects: law
 isbn: 
+file: pacto_olivos.pdf
 comments: no
 date: 2024-12-14
 delivery_date: 2024-12-14
 acceptance_date: 2025-02-15
-published_date: 2025-03-18
+published_date: 2025-05-21
 filter:
   - erb
   - markdown

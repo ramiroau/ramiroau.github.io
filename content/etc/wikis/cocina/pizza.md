@@ -53,13 +53,21 @@ Sacarlos 3 horas antes de cocinar
 
 Temperatura ideal para la MM: 25 grados 
 
-# Marian
 
+# Marian
 
 masa madre 110 (pre fermento)
 500g 
 11g
 330agua 
+
+# ¿Masa pegajosa?
+
+Amasar igual + 15 minutos de reposo debajo de un tupper. Eso hacerlo dos o tres veces. 
+
+https://www.youtube.com/shorts/6iyegFre9gI
+
+¿Cómo estirar? Así: https://www.youtube.com/shorts/RBs5uMlD9MI
 
 
 
