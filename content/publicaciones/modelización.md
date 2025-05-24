@@ -6,7 +6,7 @@ type: articulos
 citation: "<em>Palpitando la influencia de la Digital Services Act en América Latina</em>, Artículo de investigación No. 63, Centro de Estudios en Libertad de Expresión (CELE), Buenos Aires (2025). Aceptado en el <em>Latin American Journal of European Studies</em>, vol. 9 (2025, en prensa)"
 tag: ["teoría regulatoria", "Internet governance"]
 file: AI63.pdf
-ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197380
+ssrn: 5197380
 subjects: law
 comments: no
 date: 2025-01-22

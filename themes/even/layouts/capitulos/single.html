@@ -3,11 +3,19 @@
     <!-- post-header -->
     <header class="post-header">
         <h4>{{.Params.author}}, {{ .Params.citation | safeHTML }}</h4>
+        <hr class="textwidth-line">
         {{ if .Params.doi }}<h5><a href="http://dx.doi.org/{{.Params.doi}}">doi:{{.Params.doi}}</a>{{ end }}
-        {{ if .Params.ssrn }}<h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id={{.Params.ssrn}}">SSRN:{{.Params.ssrn}}</a>{{ end }}
+        {{ if .Params.ssrn }}
+          <h4>
+            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id={{ .Params.ssrn }}">
+              SSRN: {{ .Params.ssrn }}
+            </a>
+          </h4>
+        {{ end }}
         {{ if .Params.isbn }}<a>ISBN: {{.Params.isbn}}</a>{{ end }}  
         {{ if .Params.issn }}<a>ISSN: {{.Params.issn}}</a>{{ end }}  
         {{ if .Params.file }}<a href="{{.Site.BaseURL}}files/papers/{{.Params.file}}">&nbsp; (&rarr; PDF)</a></h5>{{ end }}
+        <hr class="textwidth-line">
 
     </header>
 

@@ -99,13 +99,28 @@ h2, h3 {
 	color: #4d6d8c;
 }
 
-h4, h5 {
+h4 {
 	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
 	font-style: normal;
 	font-size: 20px;
 	font-weight: 700;
 	color: #4d6d8c;
 	font-weight: 500;
+	margin-top: 1.5em;     /* reduce space above */
+  	margin-bottom: 0.5em;  /* reduce space below */
+  	padding: 4;  
+}
+
+h5 {
+	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-style: normal;
+	font-size: 18px;
+	font-weight: 700;
+	color: #4d6d8c;
+	font-weight: 500;
+	margin-top: 0.5em;     /* reduce space above */
+  	margin-bottom: 0.5em;  /* reduce space below */
+  	padding: 6;  
 }
 
 
@@ -228,7 +243,7 @@ li a {
 
 .post .post-header .post-title{
 
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost'; 
 	font-style: normal;
 	font-size: 22px;
 	font-weight: 600;
@@ -238,7 +253,7 @@ li a {
 
 .content .post .post-header{
 
-	font-family: 'Jost', 'Futura', 'Source Sans Pro', sa;
+	font-family: 'Jost';
 	font-style: normal;
 	font-size: 18px;
 	font-weight: 500;

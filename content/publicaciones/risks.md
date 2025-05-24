@@ -8,7 +8,7 @@ tag: ["teoría regulatoria", "Internet governance"]
 file: ssrn-5161173.pdf
 subjects: law
 doi: 10.2139/ssrn.5161173
-comments: no
+ssrn: 5161173
 date: 2025-03-25
 publishdate: 2025-03-25
 filter:

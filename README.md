@@ -14,4 +14,8 @@ Actualización:
 `git commit -m "Whatever"`
 `git push origin main`
 
+## To solve localhost problem
 
+`hugo --cleanDestinationDir` and in config: 
+
+`relativeURLs = true`

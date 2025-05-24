@@ -6,7 +6,7 @@ type: articulos
 citation: "<em>Reclaiming Human Rights for Platform Governance: Proposals for Restoring Their Centrality in the Era of Risks</em>, Artículo de investigación No. 66, Centro de Estudios en Libertad de Expresión (CELE), Buenos Aires (2025). Aceptado en Proceedings of the Fourth European Workshop on Algorithmic Fairness (EWAF’25). Proceedings of Machine Learning Research, 12 pages."
 tag: ["teoría regulatoria", "Internet governance"]
 file: ssrn-5265938.pdf
-ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5197380
+ssrn: 5265938
 subjects: law
 comments: no
 date: 2025-05-23
