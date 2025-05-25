@@ -2,8 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ramiroau.github.io/etc/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ramiroau.github.io/</loc>
-    <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/pan/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,28 +79,7 @@
   </url>
   
   <url>
-    <loc>http://ramiroau.github.io/etc/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ramiroau.github.io/etc/wikis/cocina/pizza/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/etc/wikis/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ramiroau.github.io/etc/wikis/cocina/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
