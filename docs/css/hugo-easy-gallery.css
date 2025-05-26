@@ -10,7 +10,8 @@ Grid Layout Styles
 .gallery {
     overflow: hidden;
     margin: 10px;
-    max-width: 768px;
+    max-width: 500px;
+    width: 300px; /* or any width you want */
 }
 .gallery .box {
     float: left;
@@ -86,7 +87,7 @@ img / a styles
 
 .gallery .img {
     position: absolute;
-    left: 0;
+    left: 20;
     right: 0;
     top: 0;
     bottom: 0;

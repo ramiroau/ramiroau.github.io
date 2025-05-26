@@ -51,6 +51,11 @@ img + em {
     max-width: 115%;
 }
 
+.post .post-content img {
+    display: inline-block;
+    max-width: 80%;
+}
+
 #main {
   margin-top: 2em;
   margin-bottom: 4em;
