@@ -23,6 +23,22 @@ date: 2025-05-25
 - Hay una cuenta que se llama Gluten Morgen en YouTube que tiene buenos videos, sobre todo para ver la técnica
 - Igual a mí cada tanto todavía me sale algún pan medio choto... De hecho ayer uno me quedó medio "plato volador" porque se me pasó de fermentación. Creo que eso hace que me guste más todavía amasar, je
 
+# Gluten Morgen 80%
+
+230g de agua + 
+80g de masa madre 
+diluir
+355 g de harina fuerza
+40g de harina integral extra fina
+
+
+# Gluten Morgen
+
+- 495 harina
+- 396 agua 
+- 99 grs masa madre
+- 10 gr sal 
+
 # 250 grados
 
 - 600gr de harina de fuerza
