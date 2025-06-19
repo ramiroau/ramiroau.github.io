@@ -31,7 +31,6 @@ diluir
 355 g de harina fuerza
 40g de harina integral extra fina
 
-
 # Gluten Morgen
 
 - 495 harina
