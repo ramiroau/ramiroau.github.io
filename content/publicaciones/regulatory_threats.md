@@ -2,14 +2,14 @@
 title: "Here are Some Thoughts I Have. On Threats of Regulation and Other Forms of Bullying as a Governance Mechanism"
 author: Ramiro Álvarez Ugarte
 status: published
-type: working_papers
-citation: "<em>Here are Some Thoughts I Have</em>. On Threats of Regulation and Other Forms of Bullying as a Governance Mechanism, Internet Governance Forum GigaNet Annual Meeting 2023, Kyoto, Japan, 8 de octubre de 2023."
+type: en_prensa
+citation: "<em>Here are Some Thoughts I Have. On Threats of Regulation and Other Forms of Bullying as a Governance Mechanism</em>. Internet Policy Review, Vol. XX, (forthcoming, 2025)"
 tag: ["governance"]
 subjects: law
 comments: no
-date: 2023-08-01
-delivery_date: 2023-08-01
-publishdate: 2023-10-08
+date: 2025-08-27
+delivery_date: 2024-10-03
+acceptance_date: 2025-08-23
 doi: 
 filter:
   - erb

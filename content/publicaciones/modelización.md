@@ -3,7 +3,7 @@ title: "Modelización regulatoria. Palpitando la influencia de la Digital Servic
 author: Matías González Mama y Ramiro Álvarez Ugarte
 status: published
 type: articulos
-citation: "<em>Modelización regulatoria. Palpitando la influencia de la Digital Services Act en América Latina</em>, Latin American Journal of European Studies, vol. 5, No. 1 (jan/jun 2025)"
+citation: "<em>Modelización regulatoria. Palpitando la influencia de la Digital Services Act en América Latina</em>, Latin American Journal of European Studies, vol. 5, No. 1, págs. 400-433 (jan/jun 2025)"
 tag: ["teoría regulatoria", "Internet governance"]
 file: revistacompleta_v5n1-017.pdf
 ssrn: 
