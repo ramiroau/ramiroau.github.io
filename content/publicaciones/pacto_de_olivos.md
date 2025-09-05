@@ -6,7 +6,7 @@ type: articulos
 citation: "En defensa del Pacto de Olivos y del ejercicio (posible) del poder constituyente, Lecciones y Ensayos, No. 113, (2024)" 
 tag: teoría constitucional
 subjects: law
-isbn: 
+uri: http://revistas.derecho.uba.ar/index.php/revistalye/article/view/2765
 file: pacto_olivos.pdf
 comments: no
 date: 2024-12-14

@@ -3,14 +3,15 @@ title: "Are Risks the New Rights? The Perils of Risk-based Approaches to Speech 
 author: Agustina Del Campo, Nicolás Zara, y Ramiro Álvarez Ugarte
 status: published
 type: articulos
-citation: "<em>Are Risks the New Rights? The Perils of Risk-based Approaches to Speech Regulation</em>, Journal of Intellectual Property, Information Technology and Electronic Commerce, vol. 16, No. 2 (2025, forthcoming)"
+citation: "<em>Are Risks the New Rights? The Perils of Risk-based Approaches to Speech Regulation</em>, Journal of Intellectual Property, Information Technology and Electronic Commerce, vol. 16, No. 2, págs. 238-251 (2025)"
 tag: ["teoría regulatoria", "Internet governance"]
 file: ssrn-5161173.pdf
+uri: https://www.jipitec.eu/jipitec/article/view/439
 subjects: law
 doi: 10.2139/ssrn.5161173
 ssrn: 5161173
 date: 2025-03-25
-publishdate: 2025-03-25
+publishdate: 2025-09-04
 filter:
   - erb
   - markdown
