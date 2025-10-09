@@ -2,312 +2,298 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publicaciones on R. Álvarez Ugarte - sitio personal</title>
-    <link>http://localhost:1313/publicaciones/</link>
+    <link>http://ramiroau.github.io/publicaciones/</link>
     <description>Recent content in Publicaciones on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
     <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ramiroau.github.io/publicaciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Here are Some Thoughts I Have. On Threats of Regulation and Other Forms of Bullying as a Governance Mechanism</title>
-      <link>http://localhost:1313/publicaciones/regulatory_threats/</link>
+      <link>http://ramiroau.github.io/publicaciones/regulatory_threats/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/regulatory_threats/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/regulatory_threats/</guid>
       <description>&lt;p&gt;Government by regulation is the normal way in which we do business in constitutional democracies. We meet in legislatures, through our representatives, in order to decide on public policy and the best course of action to meet our problems and challenges. When we reach a broad enough consensus, or when we are tired of talking and take a vote, we make laws and all sorts of rules destined to govern ourselves&amp;mdash;that is, to define as clearly as possible what we owe to each other. We do this through the legislature and administrative agencies created by law. Threats of regulation are part of that process. When our representatives, or their appointees, want a change in the world, they may threaten those subject to their jurisdiction with making new rules if they fail to change their ways. This traditional mechanism through which power is exercised poses challenges to the rule of law model of democratic rule-making, that assumes an accountable, transparent, and responsive legislature deliberating openly in front of the people themselves. This is so because threats of regulation&amp;mdash;or &lt;em&gt;jawboning&lt;/em&gt;, as it has often been called&amp;mdash;can escape some of the constraints of the rule of law model. Under certain circumstances, it may benefit regulators and those regulated alike. This paper conceptualizes threats of a regulation as a specific mechanism of power, that has a special salience on Internet governance.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Law Schools as Places of Brokerage A Study on Hierarchy, Socialization, and the Buenos Aires Legal Field</title>
-      <link>http://localhost:1313/publicaciones/legal_field/</link>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/legal_field/</guid>
-      <description>&lt;p&gt;This paper studies who teaches law at the University of Buenos Aires Law School. It is based on an original dataset of individuals working in different organizations, built from different sources that make possible the representation of Law School trainers as a social network, to be subjected to social network analyses (SNA). This approach permits several structural calculations of the network that are significant from the point of view of the literature on legal academia in Argentina and in Latin America more generally, that has complained about its conservatism, its formalism, and&amp;mdash;most importantly&amp;mdash;its part-time nature. The analysis provisionally proves something the literature has already posited: that classrooms in Law Schools are places where lawyers and judges meet, raising a number of important normative questions. Furthermore, the network is an ideal site of power brokering, which may explain why legal education reform (that has made great progress in many Latin American countries) has not catched up in Argentina. This paper seeks to promote a deeper understanding of this phenomenon. It further hopes to open new avenues of research to better explain how social capital is construed and developed within the part-time legal training system.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Law Schools as Places of Brokerage A Study on Hierarchy, Socialization, and the Buenos Aires Legal Field</title>
-      <link>http://localhost:1313/publicaciones/sna_and_the_law/</link>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/sna_and_the_law/</guid>
-      <description>&lt;p&gt;This paper studies who teaches law at the University of Buenos Aires Law School. It is based on an original dataset of individuals working in different organizations, built from different sources that make possible the representation of Law School trainers as a social network, to be subjected to social network analyses (SNA). This approach permits several structural calculations of the network that are significant from the point of view of the literature on legal academia in Argentina and in Latin America more generally, that has complained about its conservatism, its formalism, and—most importantly—its part-time nature. The analysis provisionally proves something the literature has already posited: that classrooms in Law Schools are places where lawyers and judges meet, raising a number of important normative questions. Furthermore, the network is an ideal site of power broker- ing, which may explain why legal education reform (that has made great progress in many Latin American countries) has not catched up in Argentina. This paper seeks to promote a deeper understanding of this phenomenon. It further hopes to open new avenues of re- search to better explain how social capital is construed and developed within the part-time legal training system.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Trust and Safety&#39;s Blindspots: A Latin American Perspective. In Maia Levy Daniel, Amanda Menking, Marlyn Thomas Savio, &amp; Jean Claffey, &lt;em&gt;Trust, Safety, and the Internet We Share: Multistakeholder Insights, Taylor and Francis&lt;/em&gt; (forthcoming, late 2025)</title>
-      <link>http://localhost:1313/publicaciones/trust/</link>
+      <link>http://ramiroau.github.io/publicaciones/trust/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/trust/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/trust/</guid>
       <description>&lt;p&gt;Trust and safety is slowly but steadily emerging in the United States as an independent field of study and practice. Several initiatives—such as the recent Glossary of Trust and Safety Terms issued by the Digital Trust and Safety Partnership (DTSP)—are attempting to lay the groundwork for a common language among researchers, corporate officials, and practitioners who routinely take part in a set of practices designed to manage the way some internet services are used. A set of normative goals are embedded in the field itself. This paper critically analyzes these processes so far to pose a series of questions regarding the boundaries of trust and safety as a practice and a field of inquiry, particularly in Latin America. Our main argument is that trust and safety favors safety over competing normative goals and principles, potentially altering and shaping human rights online. This trend is problematic from a human rights perspective, a point that we develop by focusing on Latin American human rights standards. We conclude with a proposal to reshape trust and safety in ways that embrace human rights standards as a countervailing commitment that, while difficult to make from a business-centered perspective, may increase the legitimacy of the practice overall.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reclaiming Human Rights for Platform Governance: Proposals for Restoring Their Centrality in the Era of Risks, Artículo de investigación No. 66, Centro de Estudios en Libertad de Expresión (CELE), Buenos Aires (2025). Aceptado en Proceedings of the Fourth European Workshop on Algorithmic Fairness (EWAF&#39;25). Proceedings of Machine Learning Research, 12 pages</title>
-      <link>http://localhost:1313/publicaciones/bring_rights_back_in/</link>
+      <link>http://ramiroau.github.io/publicaciones/bring_rights_back_in/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/bring_rights_back_in/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/bring_rights_back_in/</guid>
       <description>&lt;p&gt;The Digital Services Act can potentially become a tool for change toward a more rights-abiding, competitive European digital platform ecosystem. However, as it currently stands, it is prone to be misused as a powerful tool for censorship as well as a tool to displace human rights as the backbone of the rule of law in modern democracies. Its risk-based and &amp;ldquo;new governance&amp;rdquo; approach to regulation puts rights on the back burner, and, while paying lip service to them, takes them off the center stage. This is problematic, for the incentives of the regulation and the oversight and enforcement mechanisms it establishes may channel the violation of fundamental rights. This paper proposes ways to correct this in the incipient enforcement and interpretative stage of the statute. In particular, we propose to adopt a working definition for &amp;ldquo;systemic risks&amp;rdquo;, clarify and narrow the individual risks identified, interpret them in light of human rights standards; take the proportionality principle seriously and refine oversight; allow room for transparency and accountability for the oversight mechanisms, and bring back the State as a potential source of risks to human rights and other paramount values the DSA seeks to protect.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Are Risks the New Rights? The Perils of Risk-based Approaches to Speech Regulation</title>
-      <link>http://localhost:1313/publicaciones/risks/</link>
+      <link>http://ramiroau.github.io/publicaciones/risks/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/risks/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/risks/</guid>
       <description>&lt;p&gt;This paper discusses the risk-based approach of the Digital Services Act (DSA) of the European Union. By embracing open-ended standards instead of rules and by imposing broad risk-identification and mitigation obligations on private parties, the DSA pushes forward a form of managerial co-regulation that is a paradigmatic shift in platform regulation, that has already influenced other regulatory proposals around the globe. This paper argues that the move is consequential from the perspective of the role of human rights in Internet governance. We posit that the approach pose unique problems when seen from the popular three-prong test used by apex courts around the world to assess restrictions on freedom of expression. Furthermore, we argue that it pushes rights out of the center stage of Internet governance and may create a logic of &amp;ldquo;symbolic compliance&amp;rdquo; where governance role of rights is further diminished. Finally, this paper identifies opportunities to address or mitigate the challenges identified, especially in an enforcement stage that remains quite open to these kinds of efforts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El problema económico de la temporalidad democrática. Respuestas institucionales</title>
-      <link>http://localhost:1313/publicaciones/temporalidad/</link>
+      <link>http://ramiroau.github.io/publicaciones/temporalidad/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/temporalidad/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/temporalidad/</guid>
       <description>&lt;p&gt;El presente trabajo aborda el desafío que la temporalidad democrática presenta para la política económica de una sociedad ordenada. Me refiero por ello a los incentivos que las elecciones periódicas crean en nuestros representantes, que los llevan&amp;mdash;en ocasiones&amp;mdash;a tomar decisiones equivocadas o postergar decisiones correctas. Si bien es un problema que existe en todo el mundo, en algunos países de América Latina perece especialmente agudo. Abordarlo supone mapear infraestructuras institucionales formales e informales que lidian con este problema en perspectiva comparada. También supone ejercitar la imaginación constitucional para ver cómo esas experiencias pueden ayudarnos a encontrar soluciones. El trabajo sigue una estrategia inductiva, partiendo de una serie de problemas sistémicos&amp;mdash;especialmente agudos en algunos países de América Latina&amp;mdash;que son causados en parte por dinámicas propias de la democracias. Luego se abordan soluciones de derecho comparado que suponen cierta &lt;em&gt;restricción&lt;/em&gt; de la democracia desde puntos de vista constitucionalistas. La última sección imagina soluciones &lt;em&gt;expansivas&lt;/em&gt; de la democracia, que parecen más prometedoras en un contexto de crisis de élites como el de los últimos años.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El caso Baldivieso y el lento proceso de repolitización del aborto</title>
-      <link>http://localhost:1313/publicaciones/baldivieso/</link>
+      <link>http://ramiroau.github.io/publicaciones/baldivieso/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/baldivieso/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/baldivieso/</guid>
       <description>&lt;p&gt;En el caso &lt;em&gt;Baldivieso&lt;/em&gt;, la Corte Suprema decidió &lt;em&gt;volver&lt;/em&gt; al criterio del plenario &lt;em&gt;Natividad Frías&lt;/em&gt; de 1966 sobre la la legitimidad de las persecuciones penales basadas en reportes médicos, de personas que se atendieron por dolencias vinculadas a la comisión de ciertos delitos. La decisión, algo escueta, revocó el criterio que&amp;mdash;en otra composición&amp;mdash;el propio tribunal había sostenido en el caso &lt;em&gt;Zambrana Daza&lt;/em&gt;. Este comentario, basado en un estudio empírico más extenso sobre la criminalización del aborto en la Argentina, argumenta que a los tres casos los unen distintos momentos del lento proceso de &lt;em&gt;repolitización&lt;/em&gt; del aborto nuestro país. Si en &lt;em&gt;Natividad Frías&lt;/em&gt; emergió, por primera vez, una objeción con base constitucional a los patrones fácticos que sólo arrojaban a las mujeres pobres bajo la mirada de la justicia, hacia 1997 y 2010&amp;mdash;años de las decisiones contradictorias aquí analizadas&amp;mdash;la criminalización del aborto estaba sometida a narrativas constitucionales diversas y contradictorias, que&amp;mdash;sugiero&amp;mdash;iluminan de manera especialmente clara a ambas decisiones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modelización regulatoria. Palpitando la influencia de la Digital Services Act en América Latina, Artículo de investigación No. 63, Centro de Estudios en Libertad de Expresión (CELE), Buenos Aires (2025)</title>
-      <link>http://localhost:1313/publicaciones/modelizaci%C3%B3n/</link>
+      <link>http://ramiroau.github.io/publicaciones/modelizaci%C3%B3n/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/modelizaci%C3%B3n/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/modelizaci%C3%B3n/</guid>
       <description>&lt;p&gt;Este artículo presenta a la Digital Services Act (DSA) de la Unión Europea como posible candidata a un proceso de &lt;em&gt;modelización regulatoria&lt;/em&gt;, uno de los mecanismos a través de los cuales las leyes de un país o una región migran a otras latitudes. Se trata de un fenómeno global relativamente usual, que permite predecir ciertas dinámicas, como la prevalencia de países centrales o las ventajas de quienes actúan primero. En este trabajo partimos de la hipótesis de que la DSA se convertirá en un modelo regulatorio en América Latina, y recabamos evidencia parcial en ese sentido. Mediante el análisis comparativo de algunos proyectos de ley que se han presentado en distintos países de la región en los últimos años, mostramos que los mismos muestran huellas claras de la influencia de la DSA en la imaginación de los legisladores que los impulsaron. Consideramos demostrado, entonces, que el proceso de modelización que predecimos se encuentra en marcha, en una etapa temprana. Para concluir, advertimos sobre algunos problemas o desafíos que presentan este tipo de procesos: la necesidad de atender a la infraestructura institucional de los países receptores del proceso migratorio (que&amp;mdash;en este caso&amp;mdash;es, en cada país, notablemente diferente a las instituciones reguladoras europeas); la necesidad de dar cuenta de los estándares de protección de la libertad de expresión de América Latina (parcialmente diferentes a los estándares europeos); y&amp;mdash;por último&amp;mdash;la necesidad de ser prudentes ante una norma novedosa, de escaso recorrido, que puede aún tener problemas que la práctica no ha revelado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>En defensa del Pacto de Olivos y del ejercicio (posible) del poder constituyente</title>
-      <link>http://localhost:1313/publicaciones/pacto_de_olivos/</link>
+      <link>http://ramiroau.github.io/publicaciones/pacto_de_olivos/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/pacto_de_olivos/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/pacto_de_olivos/</guid>
       <description>&lt;p&gt;Este artículo ensaya una defensa del Pacto de Olivos, a treinta años de su gestación. Argumenta que el mismo representa, de una manera imperfecta, a una dimensión esencial de los procesos constituyentes &lt;em&gt;postsoberanistas&lt;/em&gt;, que abandonan visiones ficticias sobre el pueblo soberano e ideas descabelladas sobre la posibilidad de su (perfecta) representación. Fue un acuerdo de cúpulas gestado al calor del último aliento de la representación política tradicional mediada por partidos políticos. Esta defensa contrasta dos visiones del poder constituyente: una &lt;em&gt;soberanista&lt;/em&gt; que pide encontrar en él al soberano colectivo y una &lt;em&gt;postsoberanista&lt;/em&gt; que se contenta con que él participe del proceso de manera imperfecta y a través de múltiples representaciones. El trabajo concluye con un análisis de los casos &lt;em&gt;Fayt&lt;/em&gt; y &lt;em&gt;Schiffrin&lt;/em&gt;, en los que estas visiones se pusieron en juego.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bad Cover Versions of Law. (On the Inherent Limits of Voluntary Human Rights Obligations, As Applied to Internet Companies Doing Content Moderation)</title>
-      <link>http://localhost:1313/publicaciones/two_challenges/</link>
+      <link>http://ramiroau.github.io/publicaciones/two_challenges/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/two_challenges/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/two_challenges/</guid>
       <description>&lt;p&gt;This paper argues that human rights impact assessments (HRIAs) in the technological sector are inherently handicapped by the voluntary approach to business and human rights in which they are conceptually and genealogically embedded. It argues that they are&amp;mdash;by themselves&amp;mdash;incapable of addressing the problems of vagueness, disagreement, and paradoxes that affect human rights law and the limited knowledge we have regarding the effects technology has on society. The former is a legal problem; the latter is epistemological. While neither of these obstacles, properly understood, are insurmountable, meeting them presents a few challenges. This paper explains why and offers possible strategies and a path forward, based on a critique of the voluntary framework and its implied denial of human rights as legal concepts and institutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Case for Losing Rights</title>
-      <link>http://localhost:1313/publicaciones/losing/</link>
+      <link>http://ramiroau.github.io/publicaciones/losing/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/losing/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/losing/</guid>
       <description>&lt;p&gt;This paper argues that under certain conditions, rights&amp;mdash;understood as legalistic devices meant to affirm certain core political agreements&amp;mdash;fail to preform their function. When this happens, we should revisit our initial decision to check whether we still want to have those rights, whether we need to enforce them more effectively, or whether we would be better off by scrapping them altogether. The paper discusses the conditions that should trigger this reponse from a theoretical standpoint, following the intuition that when rights fail in these ways it is because they are failing to perform the essential legalistic function we expect from them. Counterintuitively, the paper argues that in certain contexts of rights failure we should, indeed, strive to lose rights. The argument is deployed on the case of workers&amp;rsquo; rights in Argentina and makes a qualified argument for scrapping them for reasons of equality. It concludes by noting that losing failing legal rights might be the best way to create the political conditions necessary for recovering them, or even expanding them, in a not too distant future.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences</title>
-      <link>http://localhost:1313/publicaciones/chile/</link>
+      <link>http://ramiroau.github.io/publicaciones/chile/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/chile/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/chile/</guid>
       <description>&lt;p&gt;El presente trabajo aborda el desafío que la temporalidad democrática presenta para la política económica de una sociedad ordenada. Me refiero por ello a los incentivos que las elecciones periódicas crean en nuestros representantes, que los llevan&amp;mdash;en ocasiones&amp;mdash;a tomar decisiones equivocadas o postergar decisiones correctas. Si bien es un problema que existe en todo el mundo, en algunos países de América Latina perece especialmente agudo. Abordarlo supone mapear infraestructuras institucionales formales e informales que lidian con este problema en perspectiva comparada. También supone ejercitar la imaginación constitucional para ver cómo esas experiencias pueden ayudarnos a resolver el problema de fondo. El trabajo sigue una estrategia inductiva, partiendo de una serie de problemas sistémicos&amp;mdash;especialmente agudos en algunos países de América Latina&amp;mdash;que son causados por dinámicas propias de la democracias. Luego se abordan soluciones de derecho comparado que suponen cierta restricción de la democracia desde puntos de vista constitucionalistas. La última sección imagina soluciones expansivas de la demoracia, que parecen más prometedoras en un contexto de crisis de elites como el de los últimos años.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modalities of Jurisgenesis: Some Lessons from Argentina&#39;s Abortion Legalization Struggle</title>
-      <link>http://localhost:1313/publicaciones/modalities/</link>
+      <link>http://ramiroau.github.io/publicaciones/modalities/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/modalities/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/modalities/</guid>
       <description>&lt;p&gt;After Dobbs, part of the public conversation regarding the future of abortion in the United States was about the issue of fetal personhood. The ultimate goal for some, the ultimate fear for others. This paper tells the story of how fetal personhood was won&amp;mdash;and then lost&amp;mdash;by Argentina&amp;rsquo;s anti abortion movement in the 1990s.  It shows how a certain constitutional narrative, born within civil society, managed to persuade public officials to elicit constitutional change. It also shows how that change left open room for contestation and how&amp;mdash;eventually&amp;mdash;the bastion implied in the successful constitutional argument fell, under the weight of a counter-narrative. The paper makes a contribution to the literature that studies the relationship between law and politics in the context of extended and pervasive disagreement.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Place and Challenges of Human Rights Impact Assessments in Latin American Internet Regulatory Futures</title>
-      <link>http://localhost:1313/publicaciones/hrias_latam/</link>
+      <link>http://ramiroau.github.io/publicaciones/hrias_latam/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/hrias_latam/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/hrias_latam/</guid>
       <description>&lt;p&gt;Human Rights Impact Assessments (HRIA) have become an important tool of corporate governance in the field of business and human rights, and—thus—have been embraced by companies in the ICT sector. This was to an extent predictable: for quite some time now, Internet companies have been accused of violating human rights through action or omission. In this context, HRIAs appear as a procedural mechanism that may help them make better decisions and, at least, curb criticism. This paper seeks to contribute to inquiries into this development by highlighting the regulatory context in which HRIAs emerged within the ICT sector, the institutional history of the tool, its ambiguous genealogy, and the challenges and opportunities for its usage in Latin America.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uncomfortable Judges. The Underenforcement of Abortion Laws in Argentina During the 20th Century</title>
-      <link>http://localhost:1313/publicaciones/uncomfortable_judges/</link>
+      <link>http://ramiroau.github.io/publicaciones/uncomfortable_judges/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/uncomfortable_judges/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/uncomfortable_judges/</guid>
       <description>&lt;p&gt;When criminalized, abortion has always and everywhere been an underenforced prohibition. Women throughout history who have found themselves pregnant and unwilling to carry the pregnancy to term have found ways of interrupting the process, under the protection of liberal legal frameworks or under the brutal conditions of illegal markets. In these all too normal scenarios, the gap between what the law said in the books and how it operated in practice has always been significant [@luna2000, 523]. This paper seeks to describe the mechanisms employed by Argentinean judges to deal with this undertheorized operation of legal systems in the context of prosecutions for criminal abortions. It is based on a systematic review of judicial decisions on abortion since 1918&amp;mdash;the year the first law report was published&amp;mdash;to the 1980s, when the legalization of abortion became a social movement demand. It proceeds in the following way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Redes de influencia: análisis de la jurisprudencia civil argentina en materia de responsabilidad de intermediarios</title>
-      <link>http://localhost:1313/publicaciones/redes_de_jurisprudencia/</link>
+      <link>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/redes_de_jurisprudencia/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</guid>
       <description>&lt;p&gt;Este trabajo utiliza la metodología de análisis de redes sociales (ARS) para indagar sobre la jurisprudencia civil en materia de responsabilidad de intermediarios en la Argentina. Se trata de un fenómeno de litigiosidad relativamente reciente, que estuvo guiado por reclamos que seguían patrones fácticos similares y que presentaron a los jueces argentinos un problema novedoso. Como no había una regulación específica, debieron recurrir a viejos principios de derecho constitucional vinculados a la libertad de expresión y a principios generales del derecho civil. Con base en un análisis original sobre una base de datos construida alrededor de este universo de casos, este trabajo cuenta la historia de esa jurisprudencia, su evolución, los problemas que resolvió y los que dejó abiertos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The I·CONnect-Clough Center 2021 Global Review of Constitutional Law: Argentina Report</title>
-      <link>http://localhost:1313/publicaciones/clough2021/</link>
+      <link>http://ramiroau.github.io/publicaciones/clough2021/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/clough2021/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/clough2021/</guid>
       <description>&lt;p&gt;We devote our 2021 review to the Supreme Court, focusing on two developments. One concerns its internal convulsions and the attacks it once again received, not all of them unjustified. The other consists of an emerging trend in its decision making on federalism and regulatory issues, though we also review other areas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre la incompleta constitucionalización del derecho civil y los límites de los precedentes judiciales</title>
-      <link>http://localhost:1313/publicaciones/constitucionalizacion/</link>
+      <link>http://ramiroau.github.io/publicaciones/constitucionalizacion/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/constitucionalizacion/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/constitucionalizacion/</guid>
       <description>&lt;p&gt;En el caso &lt;em&gt;Marzol c. Google&lt;/em&gt;, el juez Javier Pico Terrero, a cargo del juzgado en lo Civil y Comercial Federal No. 7 de la ciudad de Buenos Aires resolvió una acción preventiva a favor de una bailarina que cuestionó que su nombre fuera vinculado a páginas de contenido pornográfico en Google, que alojaban una grabación de una obra de teatro en la que ella había participado. El magistrado ordenó al buscador eliminar de su servicio ciertas páginas identificadas al efecto. La decisión parece una buena oportunidad para trazar un balance de una corriente de litigiosidad que ya lleva más de quince años, en la que la Corte Suprema intervino de manera decisiva para someter ciertas respuestas usuales del derecho civil a parámetros constitucionales. Esta línea jurisprudencial puede ser vista como parte del proceso de &lt;em&gt;constitucionalización&lt;/em&gt; del derecho civil, porque implica someter respuestas usuales que se podrían dar dentro de esa rama del derecho a preocupaciones propias del derecho constitucional. En este comentario me gustaría analizar a &lt;em&gt;Marzol&lt;/em&gt; dentro de este universo más amplio de litigiosidad, que revela dos fenómenos relevantes de nuestra práctica jurídica: el carácter incompleto y negociado del mencionado proceso de &lt;em&gt;constitucionalización&lt;/em&gt; y las formas en que los precedentes de la Corte Suprema lo ordenan, sin controlarlo enteramente.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Responsabilidad de intermediarios: reglas judiciales y futuros inciertos</title>
-      <link>http://localhost:1313/publicaciones/reglas_judiciales/</link>
+      <link>http://ramiroau.github.io/publicaciones/reglas_judiciales/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/reglas_judiciales/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/reglas_judiciales/</guid>
       <description>&lt;p&gt;El año pasado llevamos adelante una investigación en el Centro de Estudios en Libertad de Expresión de la Universidad de Palermo sobre la jurisprudencia civil en materia de responsabilidad de intermediarios. El tema nos interesa, ya que en nuestro país el régimen legal de responsabilidad de empresas de Internet por contenidos publicados por terceros existe&amp;mdash;en parte&amp;mdash;como consecuencia de una serie de litigios que fueron resueltos judicialmente. La regla limitada de no responsabilidad que creó la Corte Suprema de Justicia en el caso &lt;em&gt;Belén Rodríguez&lt;/em&gt; de 2014 es el único juego disponible: si bien hubo proyectos legislativos tendientes a regular este tipo de controversias, esos proyectos no lograron avanzar en el trámite legislativo. Por lo tanto, en la Argentina&amp;mdash;a diferencia de muchos otros países&amp;mdash;las reglas que regulan este tipo de conflictos y controversias fueron creadas por los jueces.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freedom of expression and populist politics in Latin America</title>
-      <link>http://localhost:1313/publicaciones/foe_populistpolitics/</link>
+      <link>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</link>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/foe_populistpolitics/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</guid>
       <description>&lt;p&gt;This chapter seeks to describe the normative underpinnings of the freedom of expression debate which engulfed Latin America in the last few years, specially around the push, led by some countries, to reform the Inter-American Human Rights System. Based on this analysis, the chapter argues for a conflicting relationship between populist politics and freedom of expression. With the dust settled over the Inter-American reform process, the analysis seems timely and relevant given the decline of left-wing populism in the region and the rise of right-wing populism worldwide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freedom of information in Latin America</title>
-      <link>http://localhost:1313/publicaciones/foi/</link>
+      <link>http://ramiroau.github.io/publicaciones/foi/</link>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/foi/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/foi/</guid>
       <description>&lt;p&gt;In the impossible quest for a kind of representation transparent enough to suppress the anxieties created by democracy, the moments between elections become crucial for sustaining the legitimacy of a political regime. This is where the issue of transparency in government and the right to information it ensues should be anchored: on the permanent, non-electoral mechanisms through which governments and public officials relate, and are accountable, to citizens. From this conceptual point of view, the right to information and government transparency policies are part of the social accountability mechanisms through which citizens keep their government in check. A transparent government by default is an accountable government, provided that the institutions of civil society which are supposed to take advantage of these mechanisms are capable to operate effectively (e.g., political parties, media outlets, civil society organizations, and so on). In this paper I describe the legal history of the right to information, the general principles adopted in Latin America as a region (as a result of some sort of jurisprudential dialogue between different jurisdictions) and map new trends in the freedom of information movement landscape, the challenges it still faces and the weaknesses which limit it as a path towards democratic accountability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The I·CONnect-Clough Center 2020 Global Review of Constitutional Law: Argentina Report</title>
-      <link>http://localhost:1313/publicaciones/clough2020/</link>
+      <link>http://ramiroau.github.io/publicaciones/clough2020/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/clough2020/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/clough2020/</guid>
       <description>&lt;p&gt;The most important development of 2020 peaked with the year&amp;rsquo;s last breath. On December 30, Congress passed a statute decriminalizing abortion, culminating an extraordinary process of women’s mobilization. Other than this, the Supreme Court found itself pressed by opposing forces to settle politically intractable questions. The outcome was bad constitutional law&amp;mdash;the kind only a country perpetually in crisis can produce. We devote most of this report to the existing dispute between the two main political factions regarding the legitimacy of judicial inquiries into previous administrations. The controversy has put extra strain on a flawed and manipulated judiciary.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Pro-Life Movement and the Fight for the Constitution in Argentina: Between Law and Transcendence</title>
-      <link>http://localhost:1313/publicaciones/pro_life/</link>
+      <link>http://ramiroau.github.io/publicaciones/pro_life/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/pro_life/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/pro_life/</guid>
       <description>&lt;p&gt;The constitutional history of abortion in Argentina is long and complex. This paper overviews a small part of it: the way in which Catholic legal academia developed, since the early 1980s, constitutional arguments to dispute with the feminist camp the meaning of the Constitution. This process has two dimensions. One is linked to the intellectual history of Catholic ideas over reproduction, and how they were adapted to the peculiarities of Argentinean law. The other is related to the way in which these arguments formed the framing of the &amp;ldquo;pro life&amp;rdquo; movement in Argentina. Exploring this normative world reveals the &amp;ldquo;depth of field&amp;rdquo; with which social movement seeking constitutional change work with (Cover, 1983), and what is at stake when the battle is disputed in that terrain. This article explores what this means for constitutional theory.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The I·CONnect-Clough Center 2019 Global Review of Constitutional Law: Argentina Report</title>
-      <link>http://localhost:1313/publicaciones/clough2019/</link>
+      <link>http://ramiroau.github.io/publicaciones/clough2019/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/clough2019/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/clough2019/</guid>
       <description>&lt;p&gt;In an election year, the Supreme Court was not at the forefront of public discussion. However, a&#xA;handful of important and politically charged decisions timidly evinced the emergence of a&#xA;majority inclined to check the government and protect some rights. Political change and&#xA;economic turbulence may alter this.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Layers of crises: when pandemics meet institutional and economic havoc</title>
-      <link>http://localhost:1313/publicaciones/layers/</link>
+      <link>http://ramiroau.github.io/publicaciones/layers/</link>
       <pubDate>Wed, 31 Dec 1969 21:33:40 -0300</pubDate>
-      <guid>http://localhost:1313/publicaciones/layers/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/layers/</guid>
       <description>&lt;p&gt;In Argentina, COVID-19 arrived late and gave the government a chance to prepare. It took that chance: for now, the contagion curve seems to be under control and after the enforcement of a country-wide lockdown, the health system seems to be coping well with the slow rise of cases. The situation is not, however, sustainable. The lockdown is battering an already heavily battered economy, and it is predictably and disproportionately affecting those who are worse off. Something will have to give. Entering the lockdown was easy, but it is increasingly difficult to see how and when we will get out. In that context, the state has simply insisted on old practices regarding the use of technology for governance purposes. In this brief comment I highlight two features of the emergency. The first is related to the constitutional structure that was adopted to produce the state of emergency itself. The second is related to the role that technology has played until now in the crisis, and the role that it may play in the future. I will argue that both features are connected.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Controla tu entusiasmo. Algunos comentarios (críticos) a algunas experiencias deliberativas</title>
-      <link>http://localhost:1313/publicaciones/experiencias_deliberativas/</link>
+      <link>http://ramiroau.github.io/publicaciones/experiencias_deliberativas/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/experiencias_deliberativas/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/experiencias_deliberativas/</guid>
       <description>&lt;p&gt;Este trabajo presenta un breve análisis de lo que Roberto Gargarella llama &amp;ldquo;iniciativas políticas favorables a la democracia deliberativa&amp;rdquo; (IPDD). El trabajo se pregunta por el tipo de problemas que ellas vienen a resolver, y propone una respuesta doble: problemas &lt;em&gt;representativos&lt;/em&gt; y problemas &lt;em&gt;deliberativos&lt;/em&gt;. Ambos son teóricamente distintos, pero se confunden en la práctica. Argumento que la distinción es relevante, ya que permite tomar de las IPDD distintas características dependiendo del problema que estemos abordando. La estrategia permitiría diseñar IPDDs más efectivas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comentario al Artículo 14: Libertad de Expresión</title>
-      <link>http://localhost:1313/publicaciones/comentario14/</link>
+      <link>http://ramiroau.github.io/publicaciones/comentario14/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/comentario14/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/comentario14/</guid>
       <description>&lt;p&gt;La libertad de prensa, de imprenta o de expresión constituye uno de los derechos fundamentales en una sociedad democrática. En términos de Carlos Nino, es un derecho &lt;em&gt;a priori&lt;/em&gt; &amp;mdash; sin una adecuada protección y un clima favorable para su desarrollo, el sistema democrático, que supone elecciones libres y competitivas entre personas que se disputan el voto ciudadano mediante el debate público, no puede funcionar (Nino, 1996).&lt;/p&gt;&#xA;&lt;p&gt;En la Argentina, este derecho recibió tradicionalmente una protección generosa. La Corte Suprema de Justicia de la Nación desarrolló, especialmente desde el retorno de la democracia, diversos estándares de protección inspirados en la idea fuerza de promover más deliberación y discusión sobre asuntos de interés público, bajo la creencia de que una sociedad democrática necesita de un debate libre, robusto, abierto y deshinibido. Asimismo, el sistema interamericano de derechos humanos ha desarrollado estándares sumamente ricos y vigorosos en defensa de la libertad de expresión. Este comentario se estructurará alrededor de esos estándares y de distinciones que conforman el núcleo esencial de la protección de este derecho en el ordenamiento jurídico argentino.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comentario al Artículo 32 de la Constitución Nacional</title>
-      <link>http://localhost:1313/publicaciones/comentario32/</link>
+      <link>http://ramiroau.github.io/publicaciones/comentario32/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/comentario32/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/comentario32/</guid>
       <description>&lt;p&gt;El artículo 32 de la Constitución es un agregado de la provincia de Buenos Aires durante las reformas de 1860 que permitieron su incorporación a la Confederación Argentina. Es, a primera vista, un agregado extraño &amp;mdash; trivial en tanto ratifica la protección consagrada en el artículo 14 a la libertad de prensa y contradictorio con disposiciones como el actual artículo 75.12 que habilita al Congreso Nacional la sanción de los códigos &amp;ldquo;de fondo&amp;rdquo;. Este comentario argumenta que el artículo 32 debe ser leído como una garantía &amp;ldquo;de federalismo&amp;rdquo; más que como una cláusula protectora de derechos. Sostiene que fue un intento de Buenos Aires por resguardar lo que Lettieri (1999) llamó la &amp;ldquo;república de opinión&amp;rdquo;, que hasta ese momento (y especialmente en los años inmediatamente anteriores) Buenos Aires había logrado construir. Además, cuenta la historia de cómo ésta lectura fue aceptada por la Corte Suprema hasta 1932, cuando cambió radicalmente su interpretación. Este comentario argumenta que ese cambio se debió a la culminación de una etapa histórica en el largo proceso de organización nacional.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Democracya y lobby: un marco teórico</title>
-      <link>http://localhost:1313/publicaciones/lobby/</link>
+      <link>http://ramiroau.github.io/publicaciones/lobby/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/lobby/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/lobby/</guid>
       <description>&lt;p&gt;En los estudios sobre representación política, las elecciones son sólo un momento de la vida democrática y tal vez no el más importante. Un número creciente de miradas teóricas se enfoca en la dinámica del poder en ejercicio. Consideran que es allí donde se construye la legitimidad democrática en una era de cambios profundos. Este trabajo ofrece un marco teórico donde ubicar distintas prácticas democráticas que operan por fuera de la lógica electoral, con un especial foco en el lobby o el cabildeo legislativo y en el contexto de desigualdad estructural y sistémica que afecta a América Latina.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tareas pendientes para un constitucionalismo popular latinoamericano</title>
-      <link>http://localhost:1313/publicaciones/tareas_pendientes/</link>
+      <link>http://ramiroau.github.io/publicaciones/tareas_pendientes/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/tareas_pendientes/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/tareas_pendientes/</guid>
       <description>&lt;p&gt;Este trabajo parte de una hipótesis: existe una distancia considerable entre el pensamiento y la realidad constitucionales en América Latina. Mientras en nuestros países se consolidan liderazgos fuertes más o menos populistas, gran parte de las reflexiones del llamado &amp;ldquo;neoconstitucionalismo&amp;rdquo; giran en torno a los derechos y las formas de implementarlos de manera efectiva a través de los tribunales. Se trata de dos alternativas &amp;ndash;populismos y tecnocracias judiciales&amp;ndash; que relegan a los ciudadanos a un rol secundario y son, por lo tanto, muy poco atractivas. Algunos autores han buscado recorrer otro camino inspirándose en el llamado constitucionalismo popular desarrollado en los últimos años por académicos de los Estados Unidos. Estas teorías buscan rescatar el rol del &amp;ldquo;pueblo&amp;rdquo; en el auto gobierno colectivo. Este trabajo sugiere que ese camino es posible pero está plagado de dificultades. Recorrerlo exige comprender el núcleo duro de la teoría del constitucionalismo popular y democrático y liberarlo de sus aspectos más provinciales. En este sentido, existe una serie de tareas pendientes que es necesario abordar antes de poder utilizar las teorías del constitucionalismo popular de un modo efectivo para explicar nuestras propias realidades y contextos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Freedom of expression and social protest</title>
-      <link>http://localhost:1313/publicaciones/protest/</link>
+      <link>http://ramiroau.github.io/publicaciones/protest/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/protest/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/protest/</guid>
       <description>&lt;p&gt;Social protest is not new to Latin America; the continent is reputed for its high levels of mass mobilization and political activism. However, there is a novelty to the type of social protest that arose in the region over the last few decades, particularly in the late &amp;rsquo;90s. In that time, many (previously nonexistent) factors were combined to give way to very peculiar forms of social conflict.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La libertad de expresión en la Constitución Nacional: Pluralismo y diversidad</title>
-      <link>http://localhost:1313/publicaciones/comentariolde/</link>
+      <link>http://ramiroau.github.io/publicaciones/comentariolde/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/comentariolde/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/comentariolde/</guid>
       <description>&lt;p&gt;Este comentario al artículo 14 de la Constitución se concentra en los valores de &amp;ldquo;pluralismo y diversidad&amp;rdquo; del derecho a la libertad de expresión. Discute tres cuestiones: la regulación del mercado audiovisual, el uso de publicidad oficial o estatal como mecanismo de &amp;ldquo;censura indirecta&amp;rdquo;, y la cuestión de los medios públicos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The I·CONnect-Clough Center 2017 Global Review of Constitutional Law: Argentina Report</title>
-      <link>http://localhost:1313/publicaciones/clough2017/</link>
+      <link>http://ramiroau.github.io/publicaciones/clough2017/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/clough2017/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/clough2017/</guid>
       <description>&lt;p&gt;In this short contribution, we will address the issue of the state of liberal democracy in the country by studying a selection of cases announced by the Supreme Court during 2017 and the politics surrounding them. Two reasons explain this focus. First, the last constitutional amendment in Argentina&amp;mdash;to the 1853 Constitution, still in force&amp;mdash;took place in 1994 and a new one is not expected soon. The Court has a very important role in constitutional argument or dialogue in the country. Second, the Court has recently undergone a change in personnel in the context of broader political change. This event provides an exceptional opportunity to explore possible jurisprudentials shifts in the making. Though it is still early to provide a conclusive judgment, the new members of the Court seem willing to revise the commitment to international human rights law (which is part of the domestic constitutional system) expressed in previous years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The I·CONnect-Clough Center 2018 Global Review of Constitutional Law: Argentina Report</title>
-      <link>http://localhost:1313/publicaciones/clough2018/</link>
+      <link>http://ramiroau.github.io/publicaciones/clough2018/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/clough2018/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/clough2018/</guid>
       <description>&lt;p&gt;In our 2017 report, we described a Supreme Court in flux. Early in 2016, two new justices joined a five-member Court against the background of broader political change.  We therein hinted at possible jurisprudential shifts, involving a redefinition of both the Court’s role in general and its standards on human rights law in particular. In 2017, an ostensibly minor decision but with heavy implications regarding the policies of memory, truth, and justice concerning human rights violations during the last dictatorship had invited strong popular backlash. In 2018, and after a legislative intervention, the Supreme Court revisited its decision, this time amidst turmoil within the Court itself. After an eleven-year tenure, Justice Lorenzetti was replaced in September as Court President by Justice Rosenkrantz, the member perceived to be most closely aligned with the national Executive. The move seems to have left strangled relationships within the Court and was followed by another power reconfiguration, what may partly account for the relative paucity of significant cases decided during the year. The most important development in constitutional politics, concerning the legalization of abortion, took place outside the courts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La aporía en la adjudicación constitucional</title>
-      <link>http://localhost:1313/publicaciones/aporia/</link>
+      <link>http://ramiroau.github.io/publicaciones/aporia/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/aporia/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/aporia/</guid>
       <description>&lt;p&gt;En un trabajo anterior (Álvarez Ugarte, 2012) abordé una pregunta que me resultaba interesante desde el punto de vista teórico: ¿Puede la Corte Suprema tener la última palabra en materia de interpretación constitucional? Concluí que, en un sentido relevante, no puede tenerla. El hecho del desacuerdo genera que las controversias más profundas que ocupan a una comunidad en un momento determinado sólo desaparezcan a través de complejos procesos culturales, en los que los jueces pueden intervenir de un modo significativo pero nunca resolver ni definitiva ni automáticamente.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El acceso a la información y el derecho a tener derechos: la información como garantía de participación política y defensa de los derechos humanos</title>
-      <link>http://localhost:1313/publicaciones/acceso/</link>
+      <link>http://ramiroau.github.io/publicaciones/acceso/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/acceso/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/acceso/</guid>
       <description>&lt;p&gt;No recuerdo muy bien de qué va éste capítulo, y el libro quedó en una biblioteca alejada e inaccesible.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Una Mirada desde los Movimientos Sociales al Pasado, Presente y Futuro de la Ley de Servicios de Comunicación Audiovisual</title>
-      <link>http://localhost:1313/publicaciones/mirada/</link>
+      <link>http://ramiroau.github.io/publicaciones/mirada/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/mirada/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/mirada/</guid>
       <description>&lt;p&gt;Una perspectiva constructivista del derecho entiende que él no es solamente el producto del debate legislativo o de razonamientos judiciales: es el resultado de procesos culturales complejos en los que intervienen distintos actores sociales e institucionales, desde diferentes posiciones de jerarquía y poder y con distintos recursos a su disposición. Esta mirada se vincula con la cuestión de la “sala de máquinas del poder” (Gargarella, 2011) que entiendo como los mecanismos a través de los cuales nuestro ordenamiento jurídico distribuye el ejercicio del poder y el acceso a los procesos de toma de decisiones. Ese vínculo existe porque una mirada constructivista revela que actores que se creían sin poder tienen cierta capacidad de incidencia en los procesos políticos a través de lo que Scheingold (2004) llamó la política de los derechos, es decir, los reclamos que la sociedad civil hace frente al Estado por fuera de las relaciones de representación establecidas a través de elecciones y partidos políticos. Estos procesos suelen ser ignorados por parte de la teoría constitucional contemporánea, que concentra la mayor parte de su atención en las estructuras formales del Estado sin tener suficientemente en cuenta su permeabilidad ante distintos actores sociales. Este trabajo busca analizar la Ley de Servicios de Comunicación Audiovisual (LSCA) desde ese punto de vista.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dinámicas de acción y reacción en la Corte Suprema: una mirada al caso FAL sobre aborto no punible</title>
-      <link>http://localhost:1313/publicaciones/dinamicas/</link>
+      <link>http://ramiroau.github.io/publicaciones/dinamicas/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/dinamicas/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/dinamicas/</guid>
       <description>&lt;p&gt;El caso Fuentes sobre aborto no punible representa, desde mi punto de vista, uno de los casos más difíciles que podía resolver la Corte Suprema argentina. Dio lugar a una fuerte reacción en contra de los gobernadores de La Pampa, Mendoza y Salta. El último prácticamente dijo que planeaba desobedecerlo en aspectos muy relevantes. Estas reacciones, el caso en sí y la forma en que está construida la decisión de la Corte son elementos que en conjunto presentan una buena oportunidad para analizar las dinámicas constitucionales que se desarrollan en casos complejos donde existe un fuerte desacuerdo social o con otros poderes. Procedo de la siguiente manera.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El constitucionalismo popular y los problemas de la última palabra: Apuntes para un contexto Latinoamericano</title>
-      <link>http://localhost:1313/publicaciones/ultimapalabra/</link>
+      <link>http://ramiroau.github.io/publicaciones/ultimapalabra/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/ultimapalabra/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/ultimapalabra/</guid>
       <description>&lt;p&gt;¿Es la Corte Suprema la intérprete final de la Constitución? Este trabajo argumenta que, en un sentido significativo, no lo es y no puede serlo: los grandes desacuerdos sociales subsisten por más que la Corte Suprema los resuelva con pretensiones de finalidad. Ellos desaparecen sólo en el marco de complejos procesos culturales en los que los tribunales intervienen de un modo relevante y trascendente, pero no definitivo o automático. Si esta hipótesis se sostiene, entonces esos desacuerdos permanecen y se expresan por distintos caminos que han sido explorados por el constitucionalismo popular o democrático. El trabajo plantea una mirada crítica sobre esas teorías, que tienden a idealizar los procesos existentes y a invisibilizar las limitaciones que ellos presentan y que son especialmente relevantes en el contexto de las democracias de América Latina. Finalmente, concluye que pensar más y mejores caminos para la expresión de nuestros desacuerdos normativos debería ser una parte fundamental de nuestra agenda constitucional.&lt;/p&gt;</description>
     </item>
     <item>
       <title>El esforzado diálogo de la Sociedad Civil con el Estado. La experiencia de la ADC en torno al acceso a la información</title>
-      <link>http://localhost:1313/publicaciones/esforzado/</link>
+      <link>http://ramiroau.github.io/publicaciones/esforzado/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/esforzado/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/esforzado/</guid>
       <description>&lt;p&gt;El artículo reflexiona sobre la experiencia de la Asociación por los Derechos Civiles en el uso del acceso a la información como herramienta de defensa y promoción de los derechos humanos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inteligencia, Democracia y Acceso a la Información, en La Ley 2011-E, pág. 398, año 2011</title>
-      <link>http://localhost:1313/publicaciones/inteligencia/</link>
+      <link>http://ramiroau.github.io/publicaciones/inteligencia/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publicaciones/inteligencia/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/inteligencia/</guid>
       <description>&lt;p&gt;El trabajo analiza la sentencia de la Corte Interamericana de Derechos Humanos en el caso &lt;em&gt;Gomes Lund y otros (Guerrilha do Araguaia) vs. Brasil&lt;/em&gt;, decidido el 24 de noviembre de 20101. La decisión de la Corte es relevante por varios motivos. Primero, porque pudo aplicó por primera vez a Brasil su asentada jurisprudencia sobre violaciones masivas de derechos humanos durante gobiernos autoritarios y declaró inválida la ley de amnistía dictada por el gobierno militar en 1979. En segundo lugar, la sentencia afronta la espinosa cuestión del acceso a la información de archivos militares, en especial, en relación a violaciones masivas de derechos humanos, y presenta importantes avances a este respecto3. Finalmente, la sentencia implica un gran avance para la lucha por la verdad y la justicia de las víctimas de la respresión ilegal en Brasil.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Esperanza y desilusión en el momento constitucional chileno</title>
-      <link>http://localhost:1313/publicaciones/rese%C3%B1a_chile/</link>
+      <link>http://ramiroau.github.io/publicaciones/rese%C3%B1a_chile/</link>
       <pubDate>Wed, 31 Dec 1969 21:33:43 -0300</pubDate>
-      <guid>http://localhost:1313/publicaciones/rese%C3%B1a_chile/</guid>
+      <guid>http://ramiroau.github.io/publicaciones/rese%C3%B1a_chile/</guid>
       <description>&lt;p&gt;Llegó a mis manos una copia de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences el domingo 4 de septiembre de 2022, el mismo día en el que el pueblo chileno decía que no a la propuesta de Constitución a la que el volumen quiso aportar. La circunstancia, por demás anticlimática, marca en cierto sentido el tono de esta reseña, pero no quita mérito a los trabajos allí editados por Koldo Casla, Magdalena Sepúlveda, Vicente Silva y Valentina Contreras. Por el contrario, la intención de la compilación&amp;mdash;aprender de Chile y otras experiencias comparadas&amp;mdash;parece ser un objetivo especialmente urgente ante el resultado electoral. El dictamen de las urnas, sin embargo, es relevante y permite juzgar la contribución del libro a la luz de esa desilusión.&lt;/p&gt;</description>
     </item>
   </channel>
