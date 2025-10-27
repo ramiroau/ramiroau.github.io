@@ -11,7 +11,7 @@ date: 2024-01-18
 delivery_date: 2024-01-01
 publishdate: 2024-01-18
 acceptance_date: 2025-08-06
-doi: 
+doi: 10.1080/20414005.2025.2576430
 filter:
   - erb
   - markdown
