@@ -3,13 +3,13 @@ title: "Bad Cover Versions of Law. (On the Inherent Limits of Voluntary Human Ri
 author: Ramiro Álvarez Ugarte
 status: published
 type: articulos
-citation: "<em>Bad Cover Versions of Law. (On the Inherent Limits of Voluntary Human Rights Obligations, As Applied to Internet Companies Doing Content Moderation)</em>, Transantional Legal Theory, Vol. X No. X, pp. xxx-xxx (forthcoming, 2025)"
+citation: "<em>Bad Cover Versions of Law. (On the Inherent Limits of Voluntary Human Rights Obligations, As Applied to Internet Companies Doing Content Moderation)</em>, Transantional Legal Theory Vol. ---, pp. --- (2025)"
 tag: ["hrias, governance"]
 subjects: law
 comments: no
-date: 2024-01-18
+date: 2025-10-26
 delivery_date: 2024-01-01
-publishdate: 2024-01-18
+publishdate: 2025-10-26
 acceptance_date: 2025-08-06
 doi: 10.1080/20414005.2025.2576430
 filter:
