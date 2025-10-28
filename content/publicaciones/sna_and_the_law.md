@@ -8,7 +8,6 @@ tag: law
 draft: true
 subjects: law
 comments: no
-status: Unpublished
 delivery_date: 
 acceptance_date: 
 publishdate: 2025-08-27

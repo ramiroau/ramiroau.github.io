@@ -7,7 +7,6 @@ tag: law
 subjects: law
 type: articulos
 comments: no
-status: published
 date: 2022-03-30
 delivery_date: 
 acceptance_date: 

@@ -7,7 +7,6 @@ tag: law, intermediarios
 subjects: law
 type: articulos
 comments: no
-status: published
 file: marzol_v5.pdf
 date: 2022-11-02
 delivery_date: 2022-10-20

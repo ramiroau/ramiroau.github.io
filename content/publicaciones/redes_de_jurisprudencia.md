@@ -9,7 +9,6 @@ type: articulos
 comments: no
 file: rcdyt_rau_ev.pdf 
 doi: 10.5354/0719-2584.2021.65368
-status: published
 date: 2022-12-31
 delivery_date: 2021-11-11
 acceptance_date: 2022-06-28
