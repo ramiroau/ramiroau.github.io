@@ -16,6 +16,20 @@ batir
 - 20 gramos de azucar
 - 8 gramos de sal
 
+--- 
+
+rápido 
+
+Harina (puede ser cualquiera entre 0 y 00000) 500GR
+
+Sal 12GR
+
+Levadura seca 5GR
+
+Agua tibia 330GR
+
+250 gramos / cucharadita masa madre / agua tibia: 165 g
+
 
 
 

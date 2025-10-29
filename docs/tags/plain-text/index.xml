@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plain-Text on R. Álvarez Ugarte - sitio personal</title>
-    <link>http://ramiroau.github.io/tags/plain-text/</link>
+    <link>http://localhost:1313/tags/plain-text/</link>
     <description>Recent content in Plain-Text on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
     <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://ramiroau.github.io/tags/plain-text/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/plain-text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Escritura en plain text, citas y automatización</title>
-      <link>http://ramiroau.github.io/blog/escritura_libre/</link>
+      <link>http://localhost:1313/blog/escritura_libre/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://ramiroau.github.io/blog/escritura_libre/</guid>
+      <guid>http://localhost:1313/blog/escritura_libre/</guid>
       <description>&lt;p&gt;Esto estaba en &lt;em&gt;borrador&lt;/em&gt; desde hace mucho tiempo, porque usualmente recibo consultas sobre cómo escribir en &lt;em&gt;plain text&lt;/em&gt; y cuestiones vinculadas al manejo de la bibliografía (especialmente con referencia a la automatización de citas). Una consulta de &lt;a href=&#34;https://claudioruiz.com/&#34;&gt;Claudio Ruiz&lt;/a&gt;&amp;mdash;quien me presentó el mundo Markdown y &lt;code&gt;pandoc&lt;/code&gt; hace muchos años&amp;mdash;me terminó de empujar a publicar y a actualizar, porque la metodología (&lt;em&gt;mí&lt;/em&gt; metodología) fue cambiando mucho con el paso del tiempo. Lo que sigue es, entonces, una forma de producir que me resulta útil a mí. No es la mejor, quizás no sea para usted, pero aquí está.&lt;/p&gt;</description>
     </item>
   </channel>

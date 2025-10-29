@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://ramiroau.github.io/sitemap.xml
