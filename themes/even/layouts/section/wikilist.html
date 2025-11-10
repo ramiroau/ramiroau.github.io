@@ -1,47 +1,47 @@
-{{- define "title" }}{{ T "archive" }} - {{ .Site.Title }}{{ end -}}
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
 
-{{- define "content" }}
-
-{{ $baseurl := .Site.BaseURL }}
-
+{{ define "content" }}
 <div class="content-wrapper">
   <div id="content" class="content">
 
-    <!-- post-header -->
+    <!-- Back link -->
     <header class="post-header">
-
-    <h4><a href="javascript:history.back()"> ← {{ .Page.File.Dir | safeHTML }}</h4></a>
-
+      <h4>
+        <a href="javascript:history.back()">← Back</a>
+      </h4>
     </header>
 
-<h2 style="padding:0em;" class = "post post-title">Notas</em> →</h2>
+    <h2 class="post post-title" style="padding:0;">Notas →</h2>
 
-{{ range (where .Data.Pages "Type" "wikipost").GroupByDate "2006" "desc" }}
+    {{/* List all .md files in this bundle except index.md */}}
+    {{ with .Resources.Match "*.md" }}
+      {{ range . }}
+        {{ if ne .Name "index.md" }}
+          <p style="margin-top:-1em">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Params.description }} — {{ . }}{{ end }}
 
-{{ range .Pages.ByDate.Reverse }}
+            {{ with .Params.file }}
+              <a href="{{ $.Site.BaseURL }}files/papers/{{ . }}">[File]</a>
+            {{ end }}
+          </p>
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      <p><em>No notes found in this folder.</em></p>
+    {{ end }}
 
-<a href="{{ .Permalink }}"><p style="margin-top:-1em">{{ .File | safeHTML }} 
-  </a> {{ .Description }}
-
-  {{ if isset .Params "file" }}
-  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>
-  {{ end }}
-</p>
-{{ end }}
-
-{{- end}}
-
-{{ with .Resources.ByType "image" }}
-  <div class="Gallery">
-    {{ range . }}
-      <div class='Gallery__item'>
-        <img src="{{ .RelPermalink }}" title="{{ .Title }}" />
+    {{/* Display images from this folder */}}
+    {{ with .Resources.ByType "image" }}
+      <div class="Gallery">
+        {{ range . }}
+          <div class="Gallery__item">
+            <img src="{{ .RelPermalink }}" alt="{{ .Title }}">
+          </div>
+        {{ end }}
       </div>
     {{ end }}
+
   </div>
-
-  
+</div>
 {{ end }}
-
-
-{{- end }}

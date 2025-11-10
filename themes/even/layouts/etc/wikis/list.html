@@ -14,22 +14,21 @@
     <h2 class="post post-title" style="padding:0;">Notas →</h2>
 
     {{/* List all .md files in this bundle except index.md */}}
-    {{ with .Resources.Match "*.md" }}
-      {{ range . }}
-        {{ if ne .Name "index.md" }}
-          <p style="margin-top:-1em">
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ with .Params.description }} — {{ . }}{{ end }}
-
-            {{ with .Params.file }}
-              <a href="{{ $.Site.BaseURL }}files/papers/{{ . }}">[File]</a>
-            {{ end }}
-          </p>
-        {{ end }}
+    {{ $pages := .RegularPages }}
+    {{ if gt (len $pages) 0 }}
+      {{ range $pages }}
+        <p style="margin-top:-1em">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{ with .Params.description }} — {{ . }}{{ end }}
+          {{ with .Params.file }}
+            <a href="{{ $.Site.BaseURL }}files/papers/{{ . }}">[File]</a>
+          {{ end }}
+        </p>
       {{ end }}
     {{ else }}
       <p><em>No notes found in this folder.</em></p>
     {{ end }}
+
 
     {{/* Display images from this folder */}}
     {{ with .Resources.ByType "image" }}
