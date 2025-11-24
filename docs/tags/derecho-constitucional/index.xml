@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Derecho-Constitucional on R. Álvarez Ugarte - sitio personal</title>
-    <link>http://localhost:1313/tags/derecho-constitucional/</link>
+    <link>http://ramiroau.github.io/tags/derecho-constitucional/</link>
     <description>Recent content in Derecho-Constitucional on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
     <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/derecho-constitucional/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ramiroau.github.io/tags/derecho-constitucional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNU, doctrina y práctica constitucional (urgente)</title>
-      <link>http://localhost:1313/blog/dnus/</link>
+      <link>http://ramiroau.github.io/blog/dnus/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/dnus/</guid>
+      <guid>http://ramiroau.github.io/blog/dnus/</guid>
       <description>&lt;p&gt;Sólo para compartir algunos datos que terminaron en un hilo de tuiter.&lt;/p&gt;&#xA;&lt;p&gt;Me interesaba mirar los datos de DNU y fui a la fuente original, &lt;em&gt;Infoleg&lt;/em&gt; y &lt;em&gt;SAIJ&lt;/em&gt;. Éste último resultó ser &lt;a href=&#34;http://www.saij.gob.ar/resultados.jsp?r=%20fecha-rango%3A%5B19950101%20TO%2020200613%5D&amp;amp;o=0&amp;amp;p=25&amp;amp;f=Total%7CTipo%20de%20Documento/Legislaci%F3n/Decreto/Decreto%20de%20Necesidad%20y%20Urgencia%7CFecha%7COrganismo%7CPublicaci%F3n%7CTema%7CEstado%20de%20Vigencia%7CAutor%7CJurisdicci%F3n/Nacional&amp;amp;v=colapsada&#34;&gt;más amigable a la hora de escrapear los datos&lt;/a&gt; y así terminé con un dataset con DNUs dictados entre 1995 y 2020 de 782&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. La pregunta que me guiaba era ver la evolución del uso y detectar el aumento de 2020 (que es evidente).&lt;/p&gt;</description>
     </item>
   </channel>

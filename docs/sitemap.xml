@@ -1,973 +1,952 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://ramiroau.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/publicaciones/two_challenges/</loc>
+    <loc>http://ramiroau.github.io/etc/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/typography/notes_on_great_type_things/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/typography/</loc>
+    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/publicaciones/two_challenges/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/</loc>
-    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publicaciones/regulatory_threats/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/regulatory_threats/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/legal_field/</loc>
-    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publicaciones/sna_and_the_law/</loc>
-    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publicaciones/trust/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/trust/</loc>
     <lastmod>2025-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/mollejas/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/mollejas/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/zucchini/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/zucchini/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/pan/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/pan/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/bring_rights_back_in/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/bring_rights_back_in/</loc>
     <lastmod>2025-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://ramiroau.github.io/blog/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/intervenciones/</loc>
+    <loc>http://ramiroau.github.io/blog/intervenciones/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/intervenciones/</loc>
+    <loc>http://ramiroau.github.io/tags/intervenciones/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://ramiroau.github.io/tags/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/pizza/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/pizza/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/entrenamiento/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/entrenamiento/</loc>
     <lastmod>2025-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/risks/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/risks/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/clases/</loc>
+    <loc>http://ramiroau.github.io/clases/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/temporalidad/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/temporalidad/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/clases/programa_uba/</loc>
+    <loc>http://ramiroau.github.io/clases/programa_uba/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/baldivieso/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/baldivieso/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/modelizaci%C3%B3n/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/modelizaci%C3%B3n/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/pacto_de_olivos/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/pacto_de_olivos/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/tirando_piedras/</loc>
+    <loc>http://ramiroau.github.io/blog/tirando_piedras/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/aloo_masala/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/aloo_masala/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/teriyaki_chicken/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/teriyaki_chicken/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/losing/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/losing/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/chile/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/chile/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/mudjadara/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/mudjadara/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/burro_e_salvia/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/burro_e_salvia/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/clases/programa_up_v1/</loc>
+    <loc>http://ramiroau.github.io/clases/programa_up_v1/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/modalities/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/modalities/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/hrias_latam/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/hrias_latam/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/uncomfortable_judges/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/uncomfortable_judges/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/redes_de_jurisprudencia/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/redes_de_jurisprudencia/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/clough2021/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/clough2021/</loc>
     <lastmod>2022-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/constitucionalizacion/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/constitucionalizacion/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/lomo_salteado/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/lomo_salteado/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/amatriciana/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/amatriciana/</loc>
     <lastmod>2022-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/arroz/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/arroz/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/shakshuka/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/shakshuka/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/sala_puerros/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/sala_puerros/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/reglas_judiciales/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/reglas_judiciales/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/vacio_al_horno/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/vacio_al_horno/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/foe_populistpolitics/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/foe_populistpolitics/</loc>
     <lastmod>2022-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/foi/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/foi/</loc>
     <lastmod>2022-01-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/sna-y-jurisprudencia/</loc>
-    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/r/</loc>
-    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/sna/</loc>
-    <lastmod>2022-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/pad_thai_sauce/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/pad_thai_sauce/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/broccoli_pasta_2/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/broccoli_pasta_2/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/clough2020/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/clough2020/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/clases/programa_utdt_dys_2021/</loc>
+    <loc>http://ramiroau.github.io/clases/programa_utdt_dys_2021/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/fritatta/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/fritatta/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/cashew_chicken/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/cashew_chicken/</loc>
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/fried_rice_thai_chicken/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/fried_rice_thai_chicken/</loc>
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/pro_life/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/pro_life/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/clases/evaluacion_pp/</loc>
+    <loc>http://ramiroau.github.io/clases/evaluacion_pp/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/clough2019/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/clough2019/</loc>
     <lastmod>2020-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/escritura_libre/</loc>
+    <loc>http://ramiroau.github.io/blog/escritura_libre/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/plain-text/</loc>
+    <loc>http://ramiroau.github.io/tags/plain-text/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/crepes_de_broccoli/</loc>
+    <loc>http://ramiroau.github.io/tags/r/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/crepes_de_broccoli/</loc>
     <lastmod>2020-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/r_empezar/</loc>
+    <loc>http://ramiroau.github.io/blog/r_empezar/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/layers/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/layers/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/sovereignty/english_civil_wars/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/sovereignty/english_civil_wars/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/sovereignty/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/sovereignty/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/a_la_calle/fuentes/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/a_la_calle/fuentes/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/a_la_calle/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/a_la_calle/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/gacl/</loc>
+    <loc>http://ramiroau.github.io/blog/gacl/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/derecho-constitucional/</loc>
+    <loc>http://ramiroau.github.io/tags/derecho-constitucional/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/dnus/</loc>
+    <loc>http://ramiroau.github.io/blog/dnus/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/teor%C3%ADa-jur%C3%ADdica/</loc>
+    <loc>http://ramiroau.github.io/tags/teor%C3%ADa-jur%C3%ADdica/</loc>
     <lastmod>2020-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/sovereignty/constitutional_moment_in_chile/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/sovereignty/constitutional_moment_in_chile/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/typography/lista_de_fuentes/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/typography/lista_de_fuentes/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/sovereignty/representations_of_the_people/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/sovereignty/representations_of_the_people/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/typography/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/misc/</loc>
+    <loc>http://ramiroau.github.io/tags/misc/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/nadieslapatria/</loc>
+    <loc>http://ramiroau.github.io/blog/nadieslapatria/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/lineasdetiempo/</loc>
+    <loc>http://ramiroau.github.io/blog/lineasdetiempo/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/carbonara/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/carbonara/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/gnocchi_di_semola/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/gnocchi_di_semola/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/experiencias_deliberativas/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/experiencias_deliberativas/</loc>
     <lastmod>2020-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/pandemia/</loc>
+    <loc>http://ramiroau.github.io/blog/pandemia/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/profesoring/</loc>
+    <loc>http://ramiroau.github.io/tags/profesoring/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/arroz_indio/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/arroz_indio/</loc>
     <lastmod>2020-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/curry_garam_masala/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/curry_garam_masala/</loc>
     <lastmod>2020-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/cilantro_fried_chicke/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/cilantro_fried_chicke/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/pad_thai/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/pad_thai/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/pinapple_fried_rice/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/pinapple_fried_rice/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/broccoli_pasta/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/broccoli_pasta/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/bu%C3%B1uelos/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/bu%C3%B1uelos/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/cajun/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/cajun/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/curry_chicken/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/curry_chicken/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/croquetas/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/croquetas/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/falafel/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/falafel/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/ginger_chicken/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/ginger_chicken/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/indian_rice/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/indian_rice/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/naan/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/naan/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/naan_turco/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/naan_turco/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/risotto/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/risotto/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/risotto_camarones/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/risotto_camarones/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/risotto_calabaza/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/risotto_calabaza/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/to_do/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/to_do/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/presentacion/</loc>
+    <loc>http://ramiroau.github.io/etc/presentacion/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/comentario14/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/comentario14/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/comentario32/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/comentario32/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/lobby/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/lobby/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/tareas_pendientes/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/tareas_pendientes/</loc>
     <lastmod>2016-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/protest/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/protest/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/comentariolde/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/comentariolde/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/clough2017/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/clough2017/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/clough2018/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/clough2018/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/aporia/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/aporia/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/acceso/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/acceso/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/clases/dconstitucionali/</loc>
+    <loc>http://ramiroau.github.io/clases/dconstitucionali/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/mirada/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/mirada/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/dinamicas/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/dinamicas/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/ultimapalabra/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/ultimapalabra/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/esforzado/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/esforzado/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/inteligencia/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/inteligencia/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publicaciones/rese%C3%B1a_chile/</loc>
+    <loc>http://ramiroau.github.io/publicaciones/rese%C3%B1a_chile/</loc>
     <lastmod>1969-12-31T21:33:43-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/readlater/</loc>
+    <loc>http://ramiroau.github.io/etc/readlater/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/cocina/tzatziki/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/cocina/tzatziki/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://ramiroau.github.io/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/recursos/citas/</loc>
+    <loc>http://ramiroau.github.io/recursos/citas/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/recursos/plain_text/</loc>
+    <loc>http://ramiroau.github.io/recursos/plain_text/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/clases/tep_site/</loc>
+    <loc>http://ramiroau.github.io/clases/tep_site/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/recursos/</loc>
+    <loc>http://ramiroau.github.io/recursos/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/recursos/bibliografia/</loc>
+    <loc>http://ramiroau.github.io/recursos/bibliografia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/recursos/privacypolicy/</loc>
+    <loc>http://ramiroau.github.io/recursos/privacypolicy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/arte_casual/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/arte_casual/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/books/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/books/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/decadencias/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/decadencias/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/racial_justice/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/racial_justice/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/the_age_of_hope/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/the_age_of_hope/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/etc/wikis/womens_rights/</loc>
+    <loc>http://ramiroau.github.io/etc/wikis/womens_rights/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/recursos/translators/</loc>
+    <loc>http://ramiroau.github.io/recursos/translators/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

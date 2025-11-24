@@ -1,6 +1,6 @@
 ---
 title: Typographic nerdeadas
-date: 2025-11-209
+date: 2025-11-20
 type: wikipost
 description: Looking for typographic greatness
 ---

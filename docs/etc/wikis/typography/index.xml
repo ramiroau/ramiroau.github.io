@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wikis on R. Álvarez Ugarte - sitio personal</title>
-    <link>http://localhost:1313/etc/wikis/typography/</link>
+    <link>http://ramiroau.github.io/etc/wikis/typography/</link>
     <description>Recent content in Wikis on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/etc/wikis/typography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://ramiroau.github.io/etc/wikis/typography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typographic nerdeadas</title>
+      <link>http://ramiroau.github.io/etc/wikis/typography/notes_on_great_type_things/</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://ramiroau.github.io/etc/wikis/typography/notes_on_great_type_things/</guid>
+      <description>&lt;p&gt;Tufte CSS, I want &lt;a href=&#34;https://hugo-tufte.netlify.app/posts/tufte-css/&#34;&gt;this&lt;/a&gt; which is the same than &lt;a href=&#34;https://edwardtufte.github.io/tufte-css/&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Nice discussion of challenges on web design, &lt;a href=&#34;https://scottstuff.net/posts/2024/12/17/more-notes-on-notes/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>lista de fuentes</title>
-      <link>http://localhost:1313/etc/wikis/typography/lista_de_fuentes/</link>
+      <link>http://ramiroau.github.io/etc/wikis/typography/lista_de_fuentes/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etc/wikis/typography/lista_de_fuentes/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/typography/lista_de_fuentes/</guid>
       <description>&lt;p&gt;Esta es buenísima, y es la que usa este sitio:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://indestructibletype.com/Jost.html&#34;&gt;https://indestructibletype.com/Jost.html&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
