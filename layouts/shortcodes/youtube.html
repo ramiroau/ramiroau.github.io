@@ -1,0 +1,22 @@
+{{- $id := "" -}}
+{{- if .IsNamedParams -}}
+  {{- $id = .Get "id" -}}
+{{- else -}}
+  {{- $id = .Get 0 -}}
+{{- end -}}
+
+{{- if $id -}}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    allow="encrypted-media; picture-in-picture"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    src="https://www.youtube-nocookie.com/embed/{{ $id }}?rel=0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    title="YouTube video">
+  </iframe>
+</div>
+{{- else -}}
+  {{- errorf "youtube shortcode requires an id parameter (file: %s)" .Page.File.Path -}}
+{{- end -}}
