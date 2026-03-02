@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wikis on R. Álvarez Ugarte - sitio personal</title>
-    <link>http://localhost:1313/etc/wikis/</link>
+    <link>http://ramiroau.github.io/etc/wikis/</link>
     <description>Recent content in Wikis on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
     <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/etc/wikis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ramiroau.github.io/etc/wikis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menú</title>
-      <link>http://localhost:1313/etc/wikis/menus/</link>
+      <link>http://ramiroau.github.io/etc/wikis/menus/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etc/wikis/menus/</guid>
+      <guid>http://ramiroau.github.io/etc/wikis/menus/</guid>
       <description></description>
     </item>
   </channel>
