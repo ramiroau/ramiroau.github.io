@@ -202,10 +202,11 @@
           var todayStr = new Date().toISOString().split('T')[0];
           var tmrw = new Date(); tmrw.setDate(tmrw.getDate() + 1);
           var tomorrowStr = tmrw.toISOString().split('T')[0];
+          var defaultDate = (new Date().getHours() >= 12) ? tomorrowStr : todayStr;
           var idx = data.length - 1;
 
           for (var i = 0; i < data.length; i++) {
-            if (data[i].date >= todayStr) { idx = i; break; }
+            if (data[i].date >= defaultDate) { idx = i; break; }
           }
 
           /* Build navigation dots */
