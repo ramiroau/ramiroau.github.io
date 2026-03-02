@@ -1,0 +1,312 @@
+{{ define "content" -}}
+  <article>
+
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+      <div style="font-family: 'Source Sans Pro', sans-serif; font-size: 14px; color: gray; font-weight: 400; margin-bottom: 1.8em;">
+        <span>[last update: {{ .PublishDate.Format "2 Jan 2006" }}]</span>
+      </div>
+    </header>
+
+    <div class="post-content">
+
+      {{/* Parse CSV from page bundle resource */}}
+      {{ $csv := .Resources.Get "marzo_menu.csv" }}
+      {{ if $csv }}
+        {{ $data := $csv | transform.Unmarshal (dict "delimiter" ",") }}
+        {{ $menuItems := slice }}
+        {{ range $i, $row := $data }}
+          {{ if and (gt $i 0) (gt (len (index $row 0)) 0) }}
+            {{ $item := dict
+              "date"    (index $row 0)
+              "opcion1" (index $row 1)
+              "opcion2" (index $row 2)
+              "postre"  (index $row 3)
+            }}
+            {{ $menuItems = $menuItems | append $item }}
+          {{ end }}
+        {{ end }}
+
+        <script>var menuData = {{ $menuItems | jsonify | safeJS }};</script>
+
+        <style>
+          .ms-wrap {
+            margin: 0.5em 0 2em;
+            font-family: 'Source Sans Pro', sans-serif;
+          }
+          .ms-nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1.2em;
+          }
+          .ms-btn {
+            background: none;
+            border: 1px solid #4d6d8c;
+            color: #4d6d8c;
+            font-size: 17px;
+            cursor: pointer;
+            padding: 5px 16px;
+            border-radius: 3px;
+            font-family: 'Jost', 'Futura', sans-serif;
+            transition: background 0.15s, color 0.15s;
+            line-height: 1;
+          }
+          .ms-btn:hover:not(:disabled) {
+            background: #4d6d8c;
+            color: #fff;
+          }
+          .ms-btn:disabled {
+            opacity: 0.25;
+            cursor: default;
+          }
+          .ms-datebox {
+            flex: 1;
+            text-align: center;
+            padding: 0 1em;
+          }
+          .ms-dayname {
+            display: block;
+            font-family: 'Jost', 'Futura', sans-serif;
+            font-size: 11px;
+            font-weight: 700;
+            color: #4d6d8c;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 3px;
+          }
+          .ms-datetext {
+            display: block;
+            font-family: 'Jost', 'Futura', sans-serif;
+            font-size: 22px;
+            font-weight: 700;
+            color: #34495e;
+          }
+          .ms-hoy {
+            display: inline-block;
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 10px;
+            font-weight: 700;
+            color: #fff;
+            background: #0047ab;
+            border-radius: 10px;
+            padding: 1px 9px;
+            margin-top: 5px;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+          }
+          .ms-manana {
+            display: inline-block;
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 10px;
+            font-weight: 700;
+            color: #fff;
+            background: #2e7d5e;
+            border-radius: 10px;
+            padding: 1px 9px;
+            margin-top: 5px;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+          }
+          .ms-cards {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.9em;
+            margin-bottom: 0.9em;
+          }
+          .ms-card {
+            border: 1px solid #dde3e9;
+            border-radius: 3px;
+            padding: 0.85em 1em;
+            background: #fff;
+          }
+          .ms-card-full {
+            grid-column: 1 / -1;
+            background: #f7f9fb;
+          }
+          .ms-label {
+            font-family: 'Jost', 'Futura', sans-serif;
+            font-size: 10px;
+            font-weight: 700;
+            color: #4d6d8c;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            margin-bottom: 0.45em;
+          }
+          .ms-text {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 14.5px;
+            font-weight: 400;
+            color: #34495e;
+            line-height: 1.55;
+          }
+          .ms-feriado {
+            text-align: center;
+            padding: 2.8em 1em;
+            border: 1px solid #dde3e9;
+            border-radius: 3px;
+            background: #f7f9fb;
+          }
+          .ms-feriado-text {
+            font-family: 'Jost', 'Futura', sans-serif;
+            font-size: 18px;
+            font-weight: 500;
+            color: #4d6d8c;
+            letter-spacing: 0.05em;
+          }
+          .ms-dots {
+            display: flex;
+            justify-content: center;
+            gap: 7px;
+            margin-top: 0.9em;
+            flex-wrap: wrap;
+          }
+          .ms-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #cdd5dc;
+            cursor: pointer;
+            transition: background 0.15s, transform 0.15s;
+            flex-shrink: 0;
+          }
+          .ms-dot:hover { background: #4d6d8c; }
+          .ms-dot.active { background: #4d6d8c; transform: scale(1.35); }
+          .ms-dot.today { background: #0047ab; }
+          .ms-dot.today.active { background: #0047ab; transform: scale(1.35); }
+          @media (max-width: 520px) {
+            .ms-cards { grid-template-columns: 1fr; }
+            .ms-card-full { grid-column: auto; }
+          }
+        </style>
+
+        <div class="ms-wrap">
+          <div class="ms-nav">
+            <button id="ms-prev" class="ms-btn" aria-label="Día anterior">&#8592;</button>
+            <div class="ms-datebox">
+              <span class="ms-dayname" id="ms-dayname"></span>
+              <span class="ms-datetext" id="ms-datetext"></span>
+              <span class="ms-hoy" id="ms-hoy" style="display:none">Hoy</span>
+              <span class="ms-manana" id="ms-manana" style="display:none">Mañana</span>
+            </div>
+            <button id="ms-next" class="ms-btn" aria-label="Día siguiente">&#8594;</button>
+          </div>
+
+          <div id="ms-display"></div>
+          <div class="ms-dots" id="ms-dots"></div>
+        </div>
+
+        <script>
+        (function () {
+          var data = menuData;
+          var todayStr = new Date().toISOString().split('T')[0];
+          var tmrw = new Date(); tmrw.setDate(tmrw.getDate() + 1);
+          var tomorrowStr = tmrw.toISOString().split('T')[0];
+          var idx = data.length - 1;
+
+          for (var i = 0; i < data.length; i++) {
+            if (data[i].date >= todayStr) { idx = i; break; }
+          }
+
+          /* Build navigation dots */
+          var dotsEl = document.getElementById('ms-dots');
+          data.forEach(function (day, i) {
+            var d = document.createElement('span');
+            d.className = 'ms-dot' + (day.date === todayStr ? ' today' : '');
+            d.title = day.date;
+            d.addEventListener('click', function () { idx = i; render(idx); });
+            dotsEl.appendChild(d);
+          });
+
+          function dayName(dateStr) {
+            var d = new Date(dateStr + 'T12:00:00');
+            return ['Domingo','Lunes','Martes','Miércoles','Jueves','Viernes','Sábado'][d.getDay()];
+          }
+
+          function fmtDate(dateStr) {
+            var d = new Date(dateStr + 'T12:00:00');
+            var m = ['enero','febrero','marzo','abril','mayo','junio',
+                     'julio','agosto','septiembre','octubre','noviembre','diciembre'];
+            return d.getDate() + ' de ' + m[d.getMonth()];
+          }
+
+          function escHtml(str) {
+            return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+          }
+
+          function render(i) {
+            var day = data[i];
+            var isToday = day.date === todayStr;
+            var isFeriado = day.opcion1 && day.opcion1.trim().toUpperCase() === 'FERIADO';
+
+            document.getElementById('ms-dayname').textContent = dayName(day.date);
+            document.getElementById('ms-datetext').textContent = fmtDate(day.date);
+            var isTomorrow = day.date === tomorrowStr;
+            document.getElementById('ms-hoy').style.display = isToday ? 'inline-block' : 'none';
+            document.getElementById('ms-manana').style.display = isTomorrow ? 'inline-block' : 'none';
+
+            var disp = document.getElementById('ms-display');
+            if (isFeriado) {
+              disp.innerHTML = '<div class="ms-feriado"><span class="ms-feriado-text">Feriado</span></div>';
+            } else {
+              var o2 = day.opcion2 && day.opcion2.trim() ? escHtml(day.opcion2) : '—';
+              var ps = day.postre  && day.postre.trim()  ? escHtml(day.postre)  : '—';
+              disp.innerHTML =
+                '<div class="ms-cards">' +
+                  '<div class="ms-card">' +
+                    '<div class="ms-label">Opción 1</div>' +
+                    '<div class="ms-text">' + escHtml(day.opcion1) + '</div>' +
+                  '</div>' +
+                  '<div class="ms-card">' +
+                    '<div class="ms-label">Opción 2</div>' +
+                    '<div class="ms-text">' + o2 + '</div>' +
+                  '</div>' +
+                  '<div class="ms-card ms-card-full">' +
+                    '<div class="ms-label">Postre</div>' +
+                    '<div class="ms-text">' + ps + '</div>' +
+                  '</div>' +
+                '</div>';
+            }
+
+            document.querySelectorAll('.ms-dot').forEach(function (dot, j) {
+              dot.classList.toggle('active', j === i);
+            });
+
+            document.getElementById('ms-prev').disabled = (i === 0);
+            document.getElementById('ms-next').disabled = (i === data.length - 1);
+          }
+
+          document.getElementById('ms-prev').addEventListener('click', function () {
+            if (idx > 0) { idx--; render(idx); }
+          });
+          document.getElementById('ms-next').addEventListener('click', function () {
+            if (idx < data.length - 1) { idx++; render(idx); }
+          });
+
+          /* Swipe support for mobile */
+          var touchStartX = null;
+          var wrap = document.querySelector('.ms-wrap');
+          wrap.addEventListener('touchstart', function (e) {
+            touchStartX = e.touches[0].clientX;
+          }, { passive: true });
+          wrap.addEventListener('touchend', function (e) {
+            if (touchStartX === null) return;
+            var dx = e.changedTouches[0].clientX - touchStartX;
+            if (Math.abs(dx) > 40) {
+              if (dx < 0 && idx < data.length - 1) { idx++; render(idx); }
+              else if (dx > 0 && idx > 0)           { idx--; render(idx); }
+            }
+            touchStartX = null;
+          }, { passive: true });
+
+          render(idx);
+        })();
+        </script>
+
+      {{ else }}
+        <p><em>No se encontró el archivo de menú.</em></p>
+      {{ end }}
+
+    </div>
+  </article>
+{{- end }}

@@ -1,0 +1,38 @@
+[
+	{
+		"id": "citekey",
+		"type": "article-journal",
+		"container-title": "Journal of the American Institute of Criminal Law and Criminology",
+		"issue": "1",
+		"journalAbbreviation": "Am. Inst. Crim. L. & Criminology",
+		"language": "eng",
+		"page": "3-6",
+		"source": "HeinOnline",
+		"title": "The Federal Prosecutor",
+		"URL": "https://heinonline.org/HOL/P?h=hein.journals/jclc31&i=13",
+		"volume": "31",
+		"author": [
+			{
+				"family": "Jackson",
+				"given": "Robert H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1940"
+				]
+			],
+			"season": "1941"
+		}
+	}
+]

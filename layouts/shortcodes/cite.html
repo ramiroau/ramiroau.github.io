@@ -1,0 +1,70 @@
+{{- $key := .Get "key" -}}
+{{- if not $key -}}
+  <span class="cite-error">[missing cite key]</span>
+{{- else if not .Page.File -}}
+  <span class="cite-error">[citation unavailable on this page type]</span>
+{{- else -}}
+  {{- $refsPath := printf "content/%sreferences.json" .Page.File.Dir -}}
+  {{- $cslPath := printf "content/%sguia-argentina-de-citas-legales.csl" .Page.File.Dir -}}
+
+  {{- if not (fileExists $refsPath) -}}
+    <span class="cite-error">[missing references.json]</span>
+  {{- else if not (fileExists $cslPath) -}}
+    <span class="cite-error">[missing guia-argentina-de-citas-legales.csl]</span>
+  {{- else -}}
+    {{- $refs := readFile $refsPath | transform.Unmarshal -}}
+    {{- $item := dict -}}
+    {{- range $refs -}}
+      {{- if eq (printf "%v" (index . "id")) $key -}}
+        {{- $item = . -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if not (index $item "id") -}}
+      <span class="cite-error">[missing citation: {{ $key }}]</span>
+    {{- else -}}
+      {{- $authors := slice -}}
+      {{- range (index $item "author") -}}
+        {{- $family := index . "family" -}}
+        {{- $given := index . "given" -}}
+        {{- if and $family $given -}}
+          {{- $authors = $authors | append (printf "%s, %s" $family $given) -}}
+        {{- else if $family -}}
+          {{- $authors = $authors | append $family -}}
+        {{- else if $given -}}
+          {{- $authors = $authors | append $given -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $authorText := delimit $authors "; " -}}
+
+      {{- $year := "" -}}
+      {{- with (index $item "issued") -}}
+        {{- with (index . "date-parts") -}}
+          {{- with index . 0 -}}
+            {{- with index . 0 -}}
+              {{- $year = printf "%v" . -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $title := default "" (index $item "title") -}}
+      {{- $container := default "" (index $item "container-title") -}}
+      {{- $volume := default "" (index $item "volume") -}}
+      {{- $issue := default "" (index $item "issue") -}}
+      {{- $page := default "" (index $item "page") -}}
+
+      <span class="csl-cite">
+        {{- if $authorText -}}{{ $authorText }}{{- end -}}
+        {{- if and $authorText $year -}}, {{ end -}}
+        {{- if $year -}}{{ $year }}{{- end -}}
+        {{- if and (or $authorText $year) $title -}}, {{- end -}}
+        {{- if $title -}}"{{ $title }}"{{- end -}}
+        {{- if $container -}}, <em>{{ $container }}</em>{{- end -}}
+        {{- if $volume -}}, vol. {{ $volume }}{{- end -}}
+        {{- if $issue -}}, no. {{ $issue }}{{- end -}}
+        {{- if $page -}}, pp. {{ $page }}{{- end -}}.
+      </span>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

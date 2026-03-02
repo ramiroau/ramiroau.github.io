@@ -45,7 +45,13 @@
 
     <!-- Content -->
     <div class="post-content">
-      {{ .Content }}
+      {{- $raw := .RawContent -}}
+      {{- if gt (len (findRE `(^|[\s\(\[])@[A-Za-z0-9:_\-\.]+` $raw)) 0 -}}
+        {{- $renderable := replaceRE `(^|[\s\(\[])@([A-Za-z0-9:_\-\.]+)` `${1}{{< cite key="$2" >}}` $raw -}}
+        {{- .RenderString (dict "display" "block") $renderable -}}
+      {{- else -}}
+        {{ .Content }}
+      {{- end -}}
     </div>
 
     <!-- Copyright 

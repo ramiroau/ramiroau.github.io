@@ -283,6 +283,25 @@ li a {
 	color: #0047ab
 }
 
+.post .post-header .pub-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.9rem;
+  margin: 0.4rem 0 0.2rem;
+}
+
+.post .post-header .pub-meta-item {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 0.92rem;
+  color: #4d6d8c;
+  line-height: 1.35;
+}
+
+.post .post-header .pub-meta-item a {
+  color: #0047ab;
+  text-decoration: none;
+}
+
 <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Alegreya&display=swap" rel="stylesheet">

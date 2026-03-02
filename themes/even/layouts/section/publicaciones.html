@@ -3,6 +3,7 @@
 {{- define "content" }}
 
 {{ $baseurl := .Site.BaseURL }}
+{{ $pubpages := where .Data.Pages "File.Dir" "ne" "publicaciones/autonomous-items/" }}
 
 <div class="content-wrapper">
   <div id="content" class="content">
@@ -21,66 +22,49 @@
 
 <h2>Trabajos en curso</h2>
 
-{{ range (where .Data.Pages "Type" "working_papers").GroupByDate "2006" "desc" }}
-
-<!-- <h3>{{ .Key }}</h3> -->
-
-{{ range .Pages.ByDate.Reverse }}
+{{ $working := where $pubpages "Type" "working_papers" }}
+{{ range $working.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Permalink }}">/ Resumen</a> 
+  <a href="{{ .RelPermalink }}">/ Resumen</a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
 {{ end }}
-
-{{- end}}
 
 <h2>En prensa</h2>
 
-{{ range (where .Data.Pages "Type" "en_prensa").GroupByDate "2006" "desc" }}
-
-<!-- <h3>{{ .Key }}</h3> -->
-
-{{ range .Pages.ByDate.Reverse }}
+{{ $forthcoming := where $pubpages "Type" "en_prensa" }}
+{{ range $forthcoming.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Permalink }}">/ Resumen</a> 
+  <a href="{{ .RelPermalink }}">/ Resumen</a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
 {{ end }}
-
-{{- end}}
 
 
 <h2>Artículos</h2>
 
-{{ range (where .Data.Pages "Type" "articulos").GroupByPublishDate "2006" "desc" }}
-
-<!-- <h3>{{ .Key }}</h3> -->
-
-{{ range .Pages.ByPublishDate.Reverse }}
+{{ $articles := where $pubpages "Type" "articulos" }}
+{{ range $articles.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Permalink }}">/ Resumen</a> 
+  <a href="{{ .RelPermalink }}">/ Resumen</a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
 {{ end }}
-
-{{- end}}
 
 
 <h2>Capítulos / Obras colectivas</h2>
 
-{{ range (where (where .Data.Pages "Type" "capitulos") ".Params.kind" "!=" "book").GroupByPublishDate "2006" "desc" }}
-
-<!-- <h3>{{ .Key }}</h3> -->
-{{ range .Pages.ByPublishDate.Reverse }}
+{{ $chapters := where (where $pubpages "Type" "capitulos") ".Params.kind" "!=" "book" }}
+{{ range $chapters.ByPublishDate.Reverse }}
 {{ if ne .Params.kind "book" }}
 <p>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Permalink }}">/ Abstract</a> 
+  <a href="{{ .RelPermalink }}">/ Abstract</a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
@@ -88,42 +72,30 @@
 {{ end }}
 
 {{ end }}
-
-{{- end}}
 
 <h2>Reseñas</h2>
 
-{{ range (where .Data.Pages "Type" "reviews").GroupByPublishDate "2006" "desc" }}
-
-<!-- <h3>{{ .Key }}</h3> -->
-
-{{ range .Pages.ByPublishDate.Reverse }}
+{{ $reviews := where $pubpages "Type" "reviews" }}
+{{ range $reviews.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Permalink }}">/ Resumen</a> 
+  <a href="{{ .RelPermalink }}">/ Resumen</a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
 {{ end }}
-
-{{- end}}
 
 <h2>Retirados</h2>
 
-{{ range (where .Data.Pages "Type" "retirados").GroupByPublishDate "2006" "desc" }}
-
-<!-- <h3>{{ .Key }}</h3> -->
-
-{{ range .Pages.ByPublishDate.Reverse }}
+{{ $retired := where $pubpages "Type" "retirados" }}
+{{ range $retired.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
-  <a href="{{ .Permalink }}">/ Resumen</a> 
+  <a href="{{ .RelPermalink }}">/ Resumen</a> 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
 {{ end }}
-
-{{- end}}
 
   </div>
 </div>

@@ -1,0 +1,24 @@
+---
+title: "Layers of crises: when pandemics meet institutional and economic havoc"
+author: Ramiro Álvarez Ugarte
+status: published
+type: articulos
+citation: "<em>Layers of crises: when pandemics meet institutional and economic havoc</em>, Data Justice and COVID-19: Global Perspectives (2020)"
+tag: ["governance"]
+subjects: law
+comments: no
+date: 2020-01-01
+delivery_date: 
+acceptance_date: 
+doi: 
+isbn: 978-1-913824-01-3
+filter:
+  - erb
+  - markdown
+  - rubypants
+---
+
+
+## Abstract
+
+In Argentina, COVID-19 arrived late and gave the government a chance to prepare. It took that chance: for now, the contagion curve seems to be under control and after the enforcement of a country-wide lockdown, the health system seems to be coping well with the slow rise of cases. The situation is not, however, sustainable. The lockdown is battering an already heavily battered economy, and it is predictably and disproportionately affecting those who are worse off. Something will have to give. Entering the lockdown was easy, but it is increasingly difficult to see how and when we will get out. In that context, the state has simply insisted on old practices regarding the use of technology for governance purposes. In this brief comment I highlight two features of the emergency. The first is related to the constitutional structure that was adopted to produce the state of emergency itself. The second is related to the role that technology has played until now in the crisis, and the role that it may play in the future. I will argue that both features are connected.

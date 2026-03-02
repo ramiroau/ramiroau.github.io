@@ -1,22 +1,24 @@
 ---
-title: "Here are Some Thoughts I Have. On Threats of Regulation and Other Forms of Bullying as a Governance Mechanism"
+title: "Ruling by bullying: Threats of regulation as an internet governance device"
 author: Ramiro Álvarez Ugarte
 status: published
-type: en_prensa
-citation: "<em>Here are Some Thoughts I Have. On Threats of Regulation and Other Forms of Bullying as a Governance Mechanism</em>. Internet Policy Review, Vol. XX, (forthcoming, 2025)"
+type: articulos
+citation: "<em>Ruling by bullying: Threats of regulation as an internet governance device</em>. Internet Policy Review, Vol. 15, No. 1 (2026)"
 tag: ["governance"]
 subjects: law
 comments: no
-date: 2025-08-27
+date: 2026-02-09
 delivery_date: 2024-10-03
 acceptance_date: 2025-08-23
-doi: 
+doi: 10.14763/2026.1.2079
 filter:
   - erb
   - markdown
   - rubypants
 ---
 
-Government by regulation is the normal way in which we do business in constitutional democracies. We meet in legislatures, through our representatives, in order to decide on public policy and the best course of action to meet our problems and challenges. When we reach a broad enough consensus, or when we are tired of talking and take a vote, we make laws and all sorts of rules destined to govern ourselves---that is, to define as clearly as possible what we owe to each other. We do this through the legislature and administrative agencies created by law. Threats of regulation are part of that process. When our representatives, or their appointees, want a change in the world, they may threaten those subject to their jurisdiction with making new rules if they fail to change their ways. This traditional mechanism through which power is exercised poses challenges to the rule of law model of democratic rule-making, that assumes an accountable, transparent, and responsive legislature deliberating openly in front of the people themselves. This is so because threats of regulation---or *jawboning*, as it has often been called---can escape some of the constraints of the rule of law model. Under certain circumstances, it may benefit regulators and those regulated alike. This paper conceptualizes threats of a regulation as a specific mechanism of power, that has a special salience on Internet governance.
+Government by regulation structures how constitutional democracies normally operate. Legislatures and executive agencies enact formal rules that govern conduct, embodying the ideal of government by laws rather than by individuals. Yet regulators also govern through threats of regulation. When public officials seek to alter private behavior, they may warn regulated actors that failure to comply will trigger new or stricter rules. These warnings can achieve regulatory goals without the adoption of formal rules. Because officials often issue such threats in informal, private communications, the practice escapes public scrutiny and challenges the dominant model of democratic rule-making, which assumes open deliberation by accountable institutions. This paper theorizes threats of regulation as a governance device that remains largely invisible to outsiders but offers significant advantages to regulators. Although United States courts attempt to distinguish unlawful coercion from permissible persuasion, they struggle to enforce these boundaries in practice. The paper argues that increasing transparency in routine communications between regulators and corporate actors would reduce the risk of abuse while preserving regulatory effectiveness.
+
+
 
 

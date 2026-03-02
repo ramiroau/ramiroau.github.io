@@ -4,15 +4,18 @@
     <header class="post-header">
         <h4>{{.Params.author}}, {{ .Params.citation | safeHTML }}</h4>
         <hr class="textwidth-line">
-        {{ if .Params.doi }}<h5><a href="http://dx.doi.org/{{.Params.doi}}">doi:{{.Params.doi}}</a></h5>{{ end }}
-        {{ if .Params.isbn }}<h5><a>isbn: {{.Params.isbn}}</a></h5>{{ end }}  
-        {{ if .Params.issn }}<h5><a>issn: {{.Params.issn}}</a></h5>{{ end }}  
-        {{ if .Params.ssrn }}<h5><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id={{ .Params.ssrn }}">ssrn: {{ .Params.ssrn }}</a></h5>{{ end }}
-        {{ if .Params.uri }}<h5><a href = "{{.Params.uri}}">uri: {{.Params.uri}}</a></h5>{{ end }}
-        {{ if .Params.delivery_date }}<h5><a>Envío del trabajo: {{ dateFormat "Jan 2, 2006" .Params.delivery_date}}</a></h5>{{ end }}
-        {{ if .Params.acceptance_date }}<h5><a>Aceptación del trabajo: {{ dateFormat "Jan 2, 2006" .Params.acceptance_date}}</a></h5>{{ end }}
-        {{ if .Params.published_date }}<h5><a>Publicación: {{ dateFormat "Jan 2, 2006" .Params.published_date}}</a></h5>{{ end }}
-        {{ if .Params.file }}<h5><a href="{{.Site.BaseURL}}files/papers/{{.Params.file}}"> (&rarr; PDF)</a></h5>{{ end }}
+        <div class="pub-meta">
+          {{ if .Params.doi }}<span class="pub-meta-item"><a href="http://dx.doi.org/{{.Params.doi}}">doi:{{.Params.doi}}</a></span>{{ end }}
+          {{ if .Params.isbn }}<span class="pub-meta-item">isbn: {{.Params.isbn}}</span>{{ end }}  
+          {{ if .Params.issn }}<span class="pub-meta-item">issn: {{.Params.issn}}</span>{{ end }}  
+          {{ if .Params.pages }}<span class="pub-meta-item">pages: {{ .Params.pages }}</span>{{ end }}
+          {{ if .Params.ssrn }}<span class="pub-meta-item"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id={{ .Params.ssrn }}">ssrn: {{ .Params.ssrn }}</a></span>{{ end }}
+          {{ if .Params.uri }}<span class="pub-meta-item"><a href="{{.Params.uri}}">url</a></span>{{ end }}
+          {{ if .Params.delivery_date }}<span class="pub-meta-item">Envío: {{ dateFormat "Jan 2, 2006" .Params.delivery_date}}</span>{{ end }}
+          {{ if .Params.acceptance_date }}<span class="pub-meta-item">Aceptación: {{ dateFormat "Jan 2, 2006" .Params.acceptance_date}}</span>{{ end }}
+          {{ if .Params.published_date }}<span class="pub-meta-item">Publicación: {{ dateFormat "Jan 2, 2006" .Params.published_date}}</span>{{ end }}
+          {{ if .Params.file }}<span class="pub-meta-item"><a href="{{.Site.BaseURL}}files/papers/{{.Params.file}}">PDF</a></span>{{ end }}
+        </div>
         <hr class="textwidth-line">
 
     </header>

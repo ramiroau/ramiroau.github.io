@@ -10,10 +10,14 @@
 <h1>Trabajos recientes</h1>  
 <ul>
 
-{{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "publicaciones") }}
+{{ $pubTypes := slice "articulos" "capitulos" "reviews" "working_papers" "en_prensa" "retirados" }}
+{{ $pubs := where .Site.RegularPages "Section" "publicaciones" }}
+{{ $pubs = where $pubs "Type" "in" $pubTypes }}
+{{ $pubs = where $pubs "File.Dir" "ne" "publicaciones/autonomous-items/" }}
+{{ range first 5 ($pubs.ByPublishDate.Reverse) }}
 
 
-<li>{{ .Params.citation | safeHTML }} <a href="{{ .Permalink }}"> / Resumen</a>
+<li>{{ .Params.citation | safeHTML }} <a href="{{ .RelPermalink }}"> / Resumen</a>
               {{ if isset .Params "file" }}<a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> / PDF</a>{{ end }}
 {{ end }}</li>
 
