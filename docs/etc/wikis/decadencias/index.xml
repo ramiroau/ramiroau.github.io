@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wikis on R. Álvarez Ugarte - sitio personal</title>
-    <link>http://ramiroau.github.io/etc/wikis/decadencias/</link>
+    <link>http://localhost:1313/etc/wikis/decadencias/</link>
     <description>Recent content in Wikis on R. Álvarez Ugarte - sitio personal</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>R. Álvarez Ugarte</copyright>
-    <atom:link href="http://ramiroau.github.io/etc/wikis/decadencias/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/etc/wikis/decadencias/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
