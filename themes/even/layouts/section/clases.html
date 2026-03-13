@@ -25,7 +25,11 @@
 <p>→ {{ .Title }}. <b>{{ .Description }}</b>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Programa</a> 
   {{ if isset .Params "file" }}
-  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
+  {{ $fileurl := .Params.file }}
+  {{ if not (hasPrefix $fileurl "/") }}
+    {{ $fileurl = print "files/papers/" $fileurl }}
+  {{ end }}
+  <a href="{{.Site.BaseURL}}{{ $fileurl }}">/ PDF</a>
   {{ end }}
 </p>
 {{ end }}
@@ -43,7 +47,11 @@
 <p>→ {{ .Title }}. <b>{{ .Description }}</b>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Programa </a> 
   {{ if isset .Params "file" }}
-  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
+  {{ $fileurl := .Params.file }}
+  {{ if not (hasPrefix $fileurl "/") }}
+    {{ $fileurl = print "files/papers/" $fileurl }}
+  {{ end }}
+  <a href="{{.Site.BaseURL}}{{ $fileurl }}">/ PDF</a>
   {{ end }}
 </p>
 {{ end }}
@@ -60,7 +68,11 @@
 <p>→ {{ .Title }}. <b>{{ .Description }}</b>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Programa</a> 
   {{ if isset .Params "file" }}
-  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
+  {{ $fileurl := .Params.file }}
+  {{ if not (hasPrefix $fileurl "/") }}
+    {{ $fileurl = print "files/papers/" $fileurl }}
+  {{ end }}
+  <a href="{{.Site.BaseURL}}{{ $fileurl }}">/ PDF</a>
   {{ end }}
 </p>
 {{ end }}

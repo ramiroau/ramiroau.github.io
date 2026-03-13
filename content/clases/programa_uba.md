@@ -1,9 +1,10 @@
 ---
 title: "Facultad de Derecho, Universidad de Buenos Aires"
 author: "Cátedra Gargarella-Bouzat (Comisión 6661)"
-description: "2017-2025"
+description: "2017-2026"
 type: elementos 
-date: 2025-03-18
+date: 2026-03-13
+file: /files/papers/programa_uba_v24_preprocessed.pdf
 ---
 
 # Elementos de Derecho Constitucional
@@ -15,7 +16,7 @@ Cátedra Gargarella-Bouzat
 
 # Introducción
 
-El derecho constitucional es una de las principales ramas del derecho: él se enfoca en las grandes estructuras jurídicas que rigen la vida de una comunidad. El derecho constitucional se vincula a la organización y distribución del poder, en estructuras formales que funcionan de acuerdo a reglas (y prácticas) específicas. La distribución del poder en una comunidad democrática es una cuestión compleja: en esta materia se aborda la dimensión *formal* de esta cuestión, con foco en lo que la Constitución Nacional establece. De todas formas, se incentiva el desarrollo de miradas críticas con base en compromisos normativos diversos. Otra dimensión fundamental del derecho constitucional se relaciona con los *derechos*, entendidos como garantías reconocidas entre nosotros, en el marco de una comunidad de iguales. Los derechos nos permiten exigir que no se nos impida hacer determinada cosa o impedir que otras se nos impongan. Los derechos están estrechamente vinculados con la libertad y la igualdad, pero no se agotan en esos valores. Nuevamente, se incentivan miradas críticas sobre los derechos, su función social, eficacia para hacer lo que prometen y condiciones de exigibilidad.
+El derecho constitucional es una de las principales ramas del derecho: él se enfoca en las grandes estructuras jurídicas que rigen la vida de una comunidad. Se vincula a la organización y distribución del poder, en estructuras formales que funcionan de acuerdo a reglas (y prácticas) específicas. La distribución del poder en una comunidad democrática es una cuestión compleja: en esta materia se aborda la dimensión *formal* de esta cuestión, con foco en lo que la Constitución Nacional establece. De todas formas, se incentiva el desarrollo de miradas críticas con base en compromisos normativos diversos. Otra dimensión fundamental del derecho constitucional se relaciona con los *derechos*, entendidos como garantías reconocidas entre nosotros, en el marco de una comunidad de iguales. Los derechos nos permiten exigir que no se nos impida hacer determinada cosa o impedir que otras se nos impongan. Los derechos están estrechamente vinculados con la libertad y la igualdad, pero no se agotan en esos valores. Nuevamente, se incentivan miradas críticas sobre los derechos, su función social, eficacia para hacer lo que prometen y condiciones de exigibilidad.
 
 # Objetivos
 
@@ -72,7 +73,6 @@ Poder constituyente y "soberanía popular". Reforma constitucional: Artículo 30
 
 
 - {{< cite key="quintana1988" >}}    
-- {{< cite key="sagues2001" >}}
 
 ## Unidad 4. Control de constitucionalidad. Modelos de control de constitucionalidad. Estudio del control judicial
 
@@ -156,8 +156,6 @@ Documentos internacionales con jerarquía constitucional: el caso *Ekmekdjian* y
 - (→) {{< cite key="csjn_ministerio2017" >}}
 
 - {{< cite key="biscardi2016" >}} 
-- {{< cite key="csjn_ministerio2017" >}} 
-- {{< cite key="csjn_esposito2004" >}} 
 - {{< cite key="hitters2009" >}} 
 - {{< cite key="rosenkrantz2005" >}} 
 - {{< cite key="filippini2005" >}}
@@ -227,14 +225,13 @@ Conformación. Nombramiento y remoción de jueces. Independencia e imparcialidad
 
 ### Bibliografía
 
-- (→) {{< cite key="vergara2016" >}} 
-- (→) {{< cite key="dassen2016" >}} 
-- (→) {{< cite key="csjn_rizzo2013" >}} 
-- (→) {{< cite key="csjn_colegio2021" >}} 
-- (→) {{< cite key="ferreyra2016" >}} 
 - (→) {{< cite key="csjn_siri1957" >}} 
 - (→) {{< cite key="csjn_kot1958" >}}
-
+- (→) {{< cite key="csjn_rizzo2013" >}} 
+- (→) {{< cite key="csjn_colegio2021" >}} 
+- (→) {{< cite key="vergara2016" >}} 
+- (→) {{< cite key="dassen2016" >}} 
+- (→) {{< cite key="ferreyra2016" >}} 
 - {{< cite key="otegui2016" >}} 
 - {{< cite key="csjn_halabi2009" >}}
 
@@ -249,9 +246,6 @@ El concepto de "emergencia" constitucional. Antecedentes históricos y normativo
 
 - {{< cite key="csjn_petcoff2020" >}} 
 - {{< cite key="csjn_ibarrola2021" >}}
-
-
-
 
 ## Unidad 15. Principio de autonomía personal
 
@@ -284,7 +278,6 @@ Igualdad como *no discriminación* y como *no subordinación*. Las acciones afir
 - (→) {{< cite key="treacy2011" >}} 
 - (→) {{< cite key="csjn_repetto1988" >}} 
 - (→) {{< cite key="csjn_gonzalez2000" >}}
-
 - (→) {{< cite key="csjn_reyes2007" >}} 
 - (→) {{< cite key="saldivia2018" >}}
 
@@ -294,7 +287,7 @@ Derecho de propiedad. La primera generación de las constituciones liberales. La
 
 ### Bibliografía
 
-- (→) {{< cite key="elias2014" >}} 
+- (→) {{< cite key="elias2014a" >}} 
 - (→) {{< cite key="saenz2019" >}} 
 - (→) {{< cite key="csjn_ercolano1922" >}} 
 - (→) {{< cite key="csjn_avico1934" >}}
@@ -303,9 +296,6 @@ Derecho de propiedad. La primera generación de las constituciones liberales. La
 - {{< cite key="csjn_coihue2021" >}} 
 - {{< cite key="sola2010a" >}} 
 - {{< cite key="zeberio2006" >}}
-
-
-
 
 ## Unidad 18. Derechos económicos, sociales y culturales. Derechos de incidencia colectiva
 

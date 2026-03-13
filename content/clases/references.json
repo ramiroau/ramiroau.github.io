@@ -661,9 +661,9 @@
     "authority": "Corte Suprema de Justicia de la Nación",
     "citation-key": "csjn_gcba2021",
     "container-title": "Fallos",
-    "page": "---",
+    "page": "809",
     "title": "Gobierno de la Ciudad de Buenos Aires c. Estado Nacional",
-    "volume": "---",
+    "volume": "344",
     "author": [
       {
         "literal": "CSJN"
@@ -1079,7 +1079,6 @@
     "publisher-place": "Buenos Aires, Argentina",
     "source": "Google Scholar",
     "title": "Democracia sin presidentes",
-    "URL": "http://digitalcommons.law.yale.edu/yls_sela/48/?utm_source=digitalcommons.law.yale.edu%2Fyls_sela%2F48&utm_medium=PDF&utm_campaign=PDFCoverPages",
     "volume": "1",
     "author": [
       {
@@ -1111,39 +1110,34 @@
     }
   },
   {
-    "id": "elias2014",
+    "id": "elias2014a",
     "type": "chapter",
-    "citation-key": "elias2014",
-    "container-title": "Tratado de los derechos constitucionales",
+    "citation-key": "elias2014a",
+    "container-title": "Tratado de los Derechos Constitucionales",
     "edition": "1st",
-    "number-of-volumes": "3",
-    "page": "179-203",
-    "publisher": "Abeledo-Perrot",
-    "publisher-place": "Buenos Aires, Argentina",
-    "title": "El acceso a la información y el derecho a tener derechos: la información como garantía de participación política y defensa de los derechos humanos",
-    "volume": "II",
+    "number-of-volumes": "III",
+    "publisher": "Thompson Reuters La Ley",
+    "publisher-place": "Buenos Aires",
+    "title": "El derecho de propiedad",
+    "volume": "III",
     "author": [
       {
-        "family": "Álvarez Ugarte",
-        "given": "Ramiro"
+        "family": "Elías",
+        "given": "J.S."
       }
     ],
     "editor": [
       {
-        "family": "Rivera (h)",
-        "given": "Julio"
+        "literal": "J.S. Elías"
       },
       {
-        "family": "Elías",
-        "given": "Sebastián"
+        "literal": "L. Grosman"
       },
       {
-        "family": "Grosman",
-        "given": "Lucas Sebastián"
+        "literal": "S. Legarre"
       },
       {
-        "family": "Legarre",
-        "given": "Santiago"
+        "literal": "J.C. Rivera (h)"
       }
     ],
     "issued": {
@@ -1236,7 +1230,6 @@
     "source": "Google Scholar",
     "title": "Originalism: The lesser evil",
     "title-short": "Originalism",
-    "URL": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/ucinlr57&section=36",
     "volume": "57",
     "author": [
       {
@@ -1770,8 +1763,7 @@
     "section": "Cuadernos electrónicos de filosofía del derecho",
     "source": "dialnet.unirioja.es",
     "title": "Apuntes sobre la exigibilidad judicial de los derechos sociales",
-    "type": "article-journal",
-    "URL": "https://dialnet.unirioja.es/servlet/articulo?codigo=1031282"
+    "type": "article-journal"
   },
   {
     "id": "cover1983",
@@ -2658,12 +2650,10 @@
         ]
       ]
     },
-    "note": "mlzsync1:0085{\"type\":\"case\",\"extrafields\":{\"place\":\"Buenos Aires, Argentina\",\"jurisdiction\":\"ar\"}}csjn_cullen1893",
     "page": "120",
     "title": "Sojo, Eduardo c/ Cámara de Diputados de la Nación",
     "title-short": "CSJN",
     "type": "legal_case",
-    "URL": "http://www.biblioteca.jus.gov.ar/Fallo-CULLEN.html",
     "volume": "32"
   },
   {
@@ -3673,8 +3663,7 @@
     "publisher-place": "Buenos Aires",
     "source": "Google Scholar",
     "title": "Democracia deliberativa y judicialización de los derechos sociales",
-    "type": "chapter",
-    "URL": "http://wp.cedha.net/wp-content/uploads/2011/05/EL-ACCESO-A-LA-INFORMACI%C3%93N-COMO-DERECHO.pdf"
+    "type": "chapter"
   },
   {
     "id": "gargarella2009a",
@@ -3867,15 +3856,22 @@
   },
   {
     "id": "gargarella2015b",
+    "type": "chapter",
+    "citation-key": "gargarella2015b",
+    "container-title": "La sala de máquinas de la Constitución: Dos siglos de constitucionalismo en América Latina (1810-2010)",
+    "ISBN": "978-84-15917-14-4",
+    "language": "es",
+    "note": "Google-Books-ID: qCCXBQAAQBAJ",
+    "page": "13-39",
+    "publisher": "Katz Editores",
+    "source": "Google Books",
+    "title": "El primer derecho constitucional latinoamericano",
     "author": [
       {
         "family": "Gargarella",
         "given": "Roberto"
       }
     ],
-    "citation-key": "gargarella2015b",
-    "container-title": "La sala de máquinas de la Constitución: Dos siglos de constitucionalismo en América Latina (1810-2010)",
-    "ISBN": "978-84-15917-14-4",
     "issued": {
       "date-parts": [
         [
@@ -3884,45 +3880,7 @@
           1
         ]
       ]
-    },
-    "language": "es",
-    "publisher": "Katz Editores",
-    "source": "Google Books",
-    "title": "El primer derecho constitucional latinoamericano",
-    "type": "chapter"
-  },
-  {
-    "id": "gargarella2019",
-    "author": [
-      {
-        "family": "Gargarella",
-        "given": "Roberto"
-      }
-    ],
-    "citation-key": "gargarella2019",
-    "container-title": "Constitución de la Nación Argentina Comentada",
-    "editor": [
-      {
-        "family": "Gargarella",
-        "given": "Roberto"
-      },
-      {
-        "family": "Guidi",
-        "given": "Sebastian"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          "2019"
-        ]
-      ]
-    },
-    "page": "---",
-    "publisher": "Thompson Reuters La Ley",
-    "publisher-place": "Buenos Aires, Argentina",
-    "title": "El preámbulo: la \"antorcha\" de la Constitución",
-    "type": "chapter"
+    }
   },
   {
     "id": "gelli2004a",
@@ -4245,7 +4203,7 @@
       },
       {
         "family": "Slagstad",
-        "given": "uneR"
+        "given": "Rune"
       }
     ],
     "issued": {
@@ -4826,7 +4784,6 @@
     "title": "Más allá del presidencialismo y el parlamentarismo – María Matilde Ollier | POSTData: Revista de Reflexión y Análisis Político",
     "title-short": "Más allá del presidencialismo y el parlamentarismo – María Matilde Ollier | POSTData",
     "type": "article-journal",
-    "URL": "http://www.revistapostdata.com.ar/2012/01/mas-alla-del-presidencialismo-y-el-parlamentarismo-maria-matilde-ollier/",
     "volume": "11"
   },
   {
@@ -5599,8 +5556,7 @@
     "page": "151–170",
     "source": "Dialnet",
     "title": "Interpretación constitucional y alquimia constitucional (El arsenal argumentativo de los tribunales supremos)",
-    "type": "article-journal",
-    "URL": "http://dialnet.unirioja.es/servlet/articulo?codigo=2529954"
+    "type": "article-journal"
   },
   {
     "id": "saldivia2018",
