@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project into publishDir (`docs`) and clean stale output.
-hugo --cleanDestinationDir --gc --minify
+hugo --baseURL "https://ramiroau.github.io/" --cleanDestinationDir --gc --minify
 
 # Go to publishDir folder
 cd docs

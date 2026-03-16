@@ -1,4 +1,4 @@
-baseURL = "http://ramiroau.github.io/"
+baseURL = "https://ramiroau.github.io/"
 #languageCode = "es"
 #defaultContentLanguage = "es"                             # en / zh-cn / ... (This field determines which i18n file to use)
 #defaultContentLanguageInSubdir = false
@@ -14,7 +14,8 @@ enableGitInfo = false # use git commit log to generate lastmod record # 可根�
 pygmentsOptions = "linenos=table"
 pygmentsCodefences = true
 pygmentsUseClasses = true
-relativeURLs = true
+relativeURLs = false
+canonifyURLs = true
 pygmentsCodefencesGuessSyntax = true
 
 
