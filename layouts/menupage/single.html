@@ -10,20 +10,22 @@
 
     <div class="post-content">
 
-      {{/* Parse CSV from page bundle resource */}}
-      {{ $csv := .Resources.Get "marzo_menu.csv" }}
-      {{ if $csv }}
-        {{ $data := $csv | transform.Unmarshal (dict "delimiter" ",") }}
+      {{/* Parse all CSV files from page bundle resources */}}
+      {{ $csvFiles := .Resources.Match "*.csv" }}
+      {{ if $csvFiles }}
         {{ $menuItems := slice }}
-        {{ range $i, $row := $data }}
-          {{ if and (gt $i 0) (gt (len (index $row 0)) 0) }}
-            {{ $item := dict
-              "date"    (index $row 0)
-              "opcion1" (index $row 1)
-              "opcion2" (index $row 2)
-              "postre"  (index $row 3)
-            }}
-            {{ $menuItems = $menuItems | append $item }}
+        {{ range $csvFiles }}
+          {{ $data := . | transform.Unmarshal (dict "delimiter" ",") }}
+          {{ range $i, $row := $data }}
+            {{ if and (gt $i 0) (gt (len (index $row 0)) 0) }}
+              {{ $item := dict
+                "date"    (index $row 0)
+                "opcion1" (index $row 1)
+                "opcion2" (index $row 2)
+                "postre"  (index $row 3)
+              }}
+              {{ $menuItems = $menuItems | append $item }}
+            {{ end }}
           {{ end }}
         {{ end }}
 
