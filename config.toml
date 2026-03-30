@@ -14,8 +14,8 @@ enableGitInfo = false # use git commit log to generate lastmod record # 可根�
 pygmentsOptions = "linenos=table"
 pygmentsCodefences = true
 pygmentsUseClasses = true
-relativeURLs = false
-canonifyURLs = true
+relativeURLs = true
+canonifyURLs = false
 pygmentsCodefencesGuessSyntax = true
 
 
