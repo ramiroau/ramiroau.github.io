@@ -19,8 +19,6 @@ canonifyURLs = false
 pygmentsCodefencesGuessSyntax = true
 
 
-publishDir = "docs"
-
 hasCJKLanguage = false     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文                                              # 首页每页显示的文章数
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X

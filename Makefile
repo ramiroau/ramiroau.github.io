@@ -7,4 +7,4 @@ serve:
 	hugo server
 
 deploy:
-	./deploy.sh
+	git push origin main
