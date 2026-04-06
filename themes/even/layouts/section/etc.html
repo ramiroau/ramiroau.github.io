@@ -19,7 +19,7 @@
 {{ range .Pages.ByDate.Reverse }}
 
 <p>{{ .Content | safeHTML }} 
-  <a href="{{ .Permalink }}"></a> 
+  <a href="{{ .RelPermalink }}"></a> 
 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>
@@ -35,9 +35,9 @@
 
 {{ range .Pages.ByDate.Reverse }}
 
-<div> 
+<div>
 <p class = "boxed" style="float: left; width = 50%; padding: 6px; margin: 4px">
-  <a  href="{{ .Permalink }}">{{ .Page.File.Dir | safeHTML }} </a> 
+  <a  href="{{ .RelPermalink }}">{{ .Page.File.Dir | safeHTML }} </a>
 </p>
 </div>
 
@@ -58,7 +58,7 @@
 {{ range .Pages.ByDate.Reverse }}
 
 <p>{{ .Content | safeHTML }} 
-  <a href="{{ .Permalink }}"></a> 
+  <a href="{{ .RelPermalink }}"></a> 
 
   {{ if isset .Params "file" }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>

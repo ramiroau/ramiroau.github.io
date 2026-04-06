@@ -21,7 +21,7 @@
               {{ if isset .Params "file" }}<a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> / PDF</a>{{ end }}
 {{ end }}</li>
 
-<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/mine.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/mine.css">
 
 </ul>  
 </section>
@@ -33,7 +33,7 @@
 
 <h1>(Cosas) recientes</h1>  
   {{ range first 5 ((where .Site.RegularPages.ByDate "Section" "blog").Reverse) }}
-  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3> <em>{{ .PublishDate.Format "2 Jan 2006" }} — </em>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3> <em>{{ .PublishDate.Format "2 Jan 2006" }} — </em>
   {{ if .Truncated }}
   {{ .Summary }}
   <p class="text-right"><a href="{{ .RelPermalink }}">Leer más…</a></p>

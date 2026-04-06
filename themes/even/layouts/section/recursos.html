@@ -20,10 +20,10 @@
 {{ range .Pages.ByDate.Reverse }}
 
 <p>{{ .Content | safeHTML }} 
-  <a href="{{ .Permalink }}"></a> 
+  <a href="{{ .RelPermalink }}"></a>
 
   {{ if isset .Params "file" }}
-  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>
+  <a href="{{ "files/papers/" | relURL }}{{ .Params.file }}"></a>
   {{ end }}
 </p>
 {{ end }}
@@ -36,11 +36,11 @@
 
 {{ range .Pages.ByDate.Reverse }}
 
-<p>{{ .Content | safeHTML }} 
-  <a href="{{ .Permalink }}"></a> 
+<p>{{ .Content | safeHTML }}
+  <a href="{{ .RelPermalink }}"></a>
 
   {{ if isset .Params "file" }}
-  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>
+  <a href="{{ "files/papers/" | relURL }}{{ .Params.file }}"></a>
   {{ end }}
 </p>
 {{ end }}
@@ -53,11 +53,11 @@
 
 {{ range .Pages.ByDate.Reverse }}
 
-<p>{{ .Content | safeHTML }} 
-  <a href="{{ .Permalink }}"></a> 
+<p>{{ .Content | safeHTML }}
+  <a href="{{ .RelPermalink }}"></a>
 
   {{ if isset .Params "file" }}
-  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>
+  <a href="{{ "files/papers/" | relURL }}{{ .Params.file }}"></a>
   {{ end }}
 </p>
 {{ end }}
@@ -70,11 +70,11 @@
 
 {{ range .Pages.ByDate.Reverse }}
 
-<p>{{ .Content | safeHTML }} 
-  <a href="{{ .Permalink }}"></a> 
+<p>{{ .Content | safeHTML }}
+  <a href="{{ .RelPermalink }}"></a>
 
   {{ if isset .Params "file" }}
-  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"></a>
+  <a href="{{ "files/papers/" | relURL }}{{ .Params.file }}"></a>
   {{ end }}
 </p>
 {{ end }}
