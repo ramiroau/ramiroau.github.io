@@ -30,6 +30,23 @@
 
 {{- end}}
 
+<h2 style="padding:0em;" class = "post post-title">Escritura académica →</h2>
+
+{{ range (where .Data.Pages "Type" "escritura").GroupByDate "2006" "desc" }}
+
+{{ range .Pages.ByDate.Reverse }}
+
+<p>{{ .Content | safeHTML }}
+  <a href="{{ .RelPermalink }}"></a>
+
+  {{ if isset .Params "file" }}
+  <a href="{{ "files/papers/" | relURL }}{{ .Params.file }}"></a>
+  {{ end }}
+</p>
+{{ end }}
+
+{{- end}}
+
 <h2 style="padding:0em;" class = "post post-title">Escritura en <em>plain text</em> →</h2>
 
 {{ range (where .Data.Pages "Type" "plain_text").GroupByDate "2006" "desc" }}

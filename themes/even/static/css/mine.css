@@ -56,6 +56,15 @@ img + em {
     max-width: 80%;
 }
 
+.post .post-content .mermaid {
+    max-width: 120%;
+    overflow-x: auto;
+}
+
+.post .post-content .mermaid svg {
+    max-width: none;
+}
+
 #main {
   margin-top: 2em;
   margin-bottom: 4em;
