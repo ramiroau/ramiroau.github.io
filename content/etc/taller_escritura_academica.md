@@ -20,12 +20,21 @@ number-sections: no
 linkcolor: black
 ---
 
+Este documento se puede descargar en PDF, [aquí](/files/taller_escritura_academica.pdf).
+
 Este documento presenta, de manera muy esquemática y sencilla, algunos
 recursos y herramientas que pueden hacer que la tarea de escribir
-trabajos académicos sea más divertida y eficiente. Las traduzco del
-inglés con cierta liberalidad.
+trabajos académicos sea más divertida y eficiente. Son apuntes
+estructurados rápidamente, sin mayor pretensión que compartir algunos
+*links* y consejos desperdigamos, con el fin de que orienten o inspiren
+una práctica. Se divide en dos secciones, porque la escritura académica
+implica dos cosas: *investigar* y *escribir*, en ambos casos con
+restricciones propias del campo o la disciplina en la que se desea
+intervenir.
 
 # Investigar
+
+## Ordenar la información
 
 No se puede investigar sin que la etapa de búsqueda y recopilación de
 información sea ordenada. Para eso, es conveniente empezar a usar lo
@@ -38,28 +47,34 @@ Las funciones principales de Zotero son:
 
 - *Captura automática de metadatos* desde navegadores web (con el
   *Zotero Connector*): un clic para guardar un artículo de JSTOR, SSRN,
-  Google Scholar, o un sitio web. *Tip*:
+  Google Scholar, o un sitio web. *Consejo* → es posible crear
+  conectores personalizados, tengo dos para Infoleg (leyes) y la página
+  de la Corte Suprema (fallos de la CSJN) — *ver abajo*.
 - *Organización* en colecciones y subcarpetas, con etiquetas (*tags*) y
   búsqueda avanzada.
 - *Almacenamiento de PDFs* adjuntos, con anotaciones integradas
-  (resaltado, notas). *Consejo*: almacenar los PDFs con *links
+  (resaltado, notas). *Consejo* → almacenar los PDFs con *links
   relativos* en una carpeta única sicronizada con algún servicio en “la
   nube”, con plugin *Attanger*.
 - *Generación automática de citas y bibliografías* en más de 10.000
   estilos (APA, Chicago, Bluebook, etc.) mediante CSL (ver sección 5).
+  *Consejo* → Armé algunos CSL diseñados para revistas argentinas (que
+  andan más o menos bien o al menos producen lindas primeras versiones)
+  — *ver abajo*.
 - *Plugins para procesadores de texto*: integración con Word,
   LibreOffice y Google Docs.
 - *Sincronización* entre dispositivos vía Zotero Sync (almacenamiento
-  gratuito limitado).
+  gratuito limitado, pero—*tip*—si los archivos se guardan en carpetas
+  en la nube, es suficiente para bibliotecas muy grandes).
 
 *Plugins* recomendados:
 
 - *[Better BibTeX](https://retorque.re/zotero-better-bibtex/)*:
   exportación a BibTeX/BibLaTeX para usuarios de LaTeX/Pandoc.
-- *[ZotFile](https://zotfile.com/)* (o funcionalidad nativa en Zotero
-  7): gestión avanzada de archivos adjuntos.
 - *[Attanger](https://github.com/MuiseDestiny/zotero-attanger)*, para
-  manejar los archivos.
+  manejar los archivos (funciona mejor, creo, que la función nativa).
+
+## Notas y fichas
 
 Investigar también supone tomar notas. Para ello recomiendo
 [Obsidian](https://obsidian.md/), una aplicación de notas basada en
@@ -71,16 +86,19 @@ potente y etiquetas, *plugins* comunitarios (Zotero integration, Pandoc
 export, Dataview, etc.). Y funciona offline: los datos son tuyos y viven
 en tu computadora [^1].
 
-La investigación académica genera un volumen enorme de lecturas, ideas y
+Una práctica sistemática de notas y fichas es importante porque la
+investigación académica genera un volumen enorme de lecturas, ideas y
 conexiones. Es difícil generar un sistema que funcione perfecto de
 entrada, y que sea sostenible en el tiempo. Siempre vamos cambiando
 nuestras rutinas, nuestras formas de trabajo, y el tiempo que le
-dedicamos a cada tarea. Pero tener la *intención*, al menos, de que ese
+dedicamos a cada tarea. Pero tener la *intención*—al menos—de que ese
 flujo de trabajo sea lo más eficiente posible siempre es valioso. En ese
 contexto, desde hace un tiempo diversos servicios se han desarrollado
 alrededor de la idea del *segundo cerebro*: un sistema externo y
 organizado donde se almacenan notas y documentos, se conectan entre sí,
-y se recuperan ideas.
+y se recuperan ideas. Adoptar algunos de estos sistemas es especialmente
+prometedor debido a la forma en que podemos hacer que la inteligencia
+artificial interactúe con ellos.
 
 Los principios clave son:
 
@@ -91,8 +109,7 @@ Los principios clave son:
     conexiones inesperadas producen ideas originales.
 4.  *Recuperar* fácilmente cuando se necesita escribir.
 
-{{< mermaid >}} 
-
+{{< mermaid >}}
 flowchart LR
     subgraph INVESTIGAR
         A["ENCONTRAR<br/><small><i><code>Google Scholar</code></i></small><br/><small><i><code>Biblioteca</code></i></small><br/><small><i><code>AI Agent</code></i></small><br/><small><i><code>Revistas jurídicas</code></i></small>"] --> |guardar| B("Zotero")
@@ -120,18 +137,24 @@ flowchart LR
     style C fill:#fff,stroke:#333
 
     F <-.-> B
-
 {{< /mermaid >}}
 
 # Escribir
 
-Escribir implica sentarse a pensar. La estructura y los consejos
-ofrecidos al comienzo deberían ordenar ese momento, que debería ser una
-experiencia placentera: es el momento en el que las ideas dispersas se
-ordenan para formar un argumento, producir un conocimiento nuevo que no
-existía, llamar la atención sobre un problema.
+Escribir implica sentarse a pensar, batallar con ideas e intuiciones,
+con otros autores, con hechos del mundo en un formato específico
+(escrito) y con una finalidad determinada, en general *argumentativa*.
+Escribir debería ser una experiencia placentera: es el momento en el que
+las ideas dispersas se ordenan para formar un argumento, producir un
+conocimiento nuevo que no existía, llamar la atención sobre un problema.
+Escribimos con un *objeto* o *fin*—una cierta intervención en el mundo.
+Para ello, con el tiempo, desarrollamos nuestra propia voz—con sus
+sesgos, sus giros, sus espacios de comodidad. Mi consejo es siempre
+luchar contra eso para renovarnos más o menos permanentemente. A
+continuación recopilo algunas herramientas que me han sido útiles para
+mejorar mi propia escritura.
 
-## Las seis reglas de Orwell para la escritura
+## Las seis reglas de Orwell
 
 Un escritor magnífico, famoso por su atención al lenguaje. En un texto
 fundamental de 1946 —*Politics and the English Language*— da una serie
@@ -175,10 +198,13 @@ sea evitablemente feo?*
 
 IRAC es el método estándar de análisis legal en Estados Unidos.
 Estructura el razonamiento jurídico de forma predecible y replicable. En
-ocasiones puede parecer una restricción arbitraria, excesiva: los
-mejores textos legales que *yo* he leído *jamás* siguieron esta
-estructura. Pero sirve para ganar claridad, especialmente en primeras
-versiones de un trabajo.
+ocasiones puede parecer una restricción excesiva: los mejores textos
+legales que *yo* he leído *jamás* siguieron esta estructura \[^fn3\].
+Pero sirve para ganar claridad, especialmente en primeras versiones de
+un trabajo. Y sirve también, especialmente, para pensar en artículos que
+aborden una cuestión *muy concreta*, un problema jurídico que no ha
+recibido atención suficiente y cuya solución puede ser útil para jueces
+y abogados.
 
 ### IRAC clásico
 
@@ -210,15 +236,14 @@ en un paper: *di lo que vas a dacir / dilo / di lo que dijiste*.
 Introducción, desarrollo, conclusión. Es un estándar de la filosofía
 analítica. Son movimientos repetitivos que ayudan a ordenar y precisar
 el argumento, con cierto minimalismo pero —también— con un objetivo
-claro: enfatizar los puntos principales.
+claro: enfatizar los puntos principales y ayudar al lector a mantener la
+atención en lo importante.
 
 ## Citas
 
 Las convenciones académicas exigen la atribución de las ideas a quienes
 las tuvieron y la identificación precisa de las fuentes. Para ello
-usamos diversos estilos de citas.
-
-Formatear citas a mano es:
+usamos diversos *estilos de citas*. Formatear citas a mano es:
 
 - *Tedioso*: cada estilo tiene reglas distintas (*supra*, *id.*, *op.
   cit.*; punto vs. coma; año entre paréntesis o al final).
@@ -226,18 +251,20 @@ Formatear citas a mano es:
 - *No escalable*: cambiar de revista implica reformatear toda la
   bibliografía.
 
-La solución es descansar en los formatos de CSL (Citation Style
-Language). Es un estándar abierto (basado en XML) que describe reglas de
-formato de citas. Zotero, Mendeley y otros gestores lo utilizan y —con
-herramientas de AI— ahora es fácil de customizar.
+La solución es descansar en los formatos CSL (Citation Style Language).
+Es un estándar abierto (basado en XML) que describe reglas de formato de
+citas. Zotero, Mendeley y otros gestores lo utilizan y —con herramientas
+de AI— ahora es fácil de customizar.
 
-- Más de *10.000 estilos* disponibles en el repositorio CSL:
-  <https://www.zotero.org/styles>
-- Incluye estilos para derecho: Bluebook, OSCOLA, Revista Española de
-  Derecho Internacional, etc.
-- Si tu revista no tiene estilo CSL, se puede crear o adaptar uno
-  existente con el *CSL Visual Editor*:
-  <https://editor.citationstyles.org>
+- Más de *10.000 estilos* disponibles en el [repositorio CSL de
+  Zotero](https://www.zotero.org/styles).
+- Incluye estilos para derecho: Bluebook (Estados Unidos), OSCOLA
+  (Inglaterra y países del *Commonwealth*), Revista Española de Derecho
+  Internacional, etc.
+- Si la revista en la que quieres publicar no tiene estilo CSL, se puede
+  crear o adaptar uno existente con el *[CSL Visual
+  Editor](https://editor.citationstyles.org)*. No lo he intentado pero
+  esto debe ser facilísimo con herramientas de inteligencia artificial.
 
 El flujo es automatizable:
 
@@ -261,23 +288,26 @@ text](https://ramiroau.github.io/recursos/) para usuarios avanzados.
 
 Esto permite escribir en Markdown puro con citas como
 `[@smith2020, p. 45]` y generar el documento final con bibliografía
-formateada automáticamente.
+formateada automáticamente. Un buen recurso para adentrarse en esta
+aventura es
+[este](https://kieranhealy.org/files/papers/plain-person-text.pdf).
 
 # Inteligencia artificial
 
 Tanto en la etapa de la *investigación* como en la de *escribir* podemos
 recurrir a herramientas de inteligencia artificial. Si bien son
-novedosas, son enormemente potentes y al día de hoy calculo que su uso
-será extendido dentro de pocos meses. Por ahora sugeriría abrazar estas
-herramientas con cuidado. Mis consejos arbitrarios, a abril de 2026, son
-los siguientes.
+novedosas, son enormemente potentes y calculo que su uso será extendido
+dentro de pocos meses. Por ahora sugeriría abrazar estas herramientas
+con cuidado. Mis consejos arbitrarios—a abril de 2026—son los
+siguientes.
 
-    ![](/pics/safety.jpg "Una referencia a la generación X.")
+![](/pics/safety.jpg "Una referencia a la generación X.")
 
 ## Usos más o menos seguros
 
 - *Lluvia de ideas y brainstorming*: generar ángulos, preguntas de
-  investigación, contraargumentos.
+  investigación, contraargumentos. Siempre recordar que estamos hablando
+  con una máquina predictiva y no una persona.
 - *Mejorar la claridad*: pedir que reformule un párrafo confuso. Pero,
   con cuidado: *tu voz es tu voz, que no te reemplacen*.
 - *Revisar gramática y estilo*: como un corrector ortográfico avanzado.
@@ -288,15 +318,15 @@ los siguientes.
   además del problema de las alucinaciones, las explicaciones pueden ser
   simplemente incorrectas. Imposible de usar así si no se leyeron de
   manera previa textos de calidad, y se contrastan las respuestas de la
-  AI contra ellos.
+  IA contra ellos.
 - *Generar esquemas (outlines)*: estructura inicial para un artículo o
-  capítulo. Pero, cuidado: las herramientas de AI tienen varios
+  capítulo. Pero, cuidado: las herramientas de IA tienen varios
   problemas, entre ellos el “sesgo de la pregunta” (siempre considerará
   que tu pregunta es buena, que la teoría aplica, que la hipótesis
   seguramente se sostiene, etcétera). Avanzar con mucho cuidado en ese
   uso.
 - *Depurar código y fórmulas*: LaTeX, R, Python, CSL. Todo lo que sea
-  código funciona básicamente bien en AI.
+  código funciona básicamente bien en con IA.
 - *Formatear bibliografía*: convertir citas de un formato a otro. Un
   paso innecesario si tenemos un buen uso de Zotero.
 
@@ -340,10 +370,9 @@ los siguientes.
 
 Texto actualizado a abril de 2026.
 
-[^1]: Algunas alternativas: *Logseq*: similar a Obsidian, orientado a
-    *outlining*, también usa Markdown; *Notion*: más colaborativo, pero
-    los datos viven en la nube (vendor lock-in); *Org-mode (Emacs)*:
-    extremadamente potente, curva de aprendizaje alta.
+[^1]: Cover, *Foreword: Nomos and Narrative* (1983); Hartog, *Pigs and
+    Positivism* (1985); Post & Siegel, *Roe Rage: Democratic
+    Constitutionalism and Backlash* (2007) — por nombrar tres.
 
 [^2]: *Pandoc* es un conversor universal de documentos, creado por John
     MacFarlane (filósofo y programador, UC Berkeley). Convierte entre
