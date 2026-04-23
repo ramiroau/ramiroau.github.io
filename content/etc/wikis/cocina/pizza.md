@@ -6,7 +6,25 @@ servings: two
 date: 2025-03-27
 ---
 
-Pietro aconseja 
+# Mi receta, la mía mía
+
+Salen cuatro bollos de 400 gramos cada uno. 
+
+- 400 gramos de masa madre
+- 400 de agua 
+- 800 gramos de harina de fuerza 
+- 20 gramos de sal 
+
+¿Sólo quieres dos pizzas? 
+
+- 200 gramos de masa madre
+- 200 de agua 
+- 400 de harina de fuerza
+- 12 gramos de sal 
+
+(no hay por qué). 
+
+# Pietro aconseja...
 
 # Ingredientes
 

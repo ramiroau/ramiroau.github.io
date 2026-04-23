@@ -18,7 +18,7 @@ date: 2020-04-03
 - 25 g de aceite de oliva- 
 - Ajo, cilantro y mantequilla fundida (Para pintar)
  
-# Proceso
+# Proceso
 
 - Disuelve la levadura junto con el agua tibia, la leche tibia y la miel.
 - Deja reposar en un espacio cálido 15 minutos. Pasado el tiempo debe verse espumoso. Si no es así, deberás repetir el proceso.
@@ -33,4 +33,13 @@ date: 2020-04-03
 - Pon una sartén a fuego medio, úntala con un poco de mantequilla y tuesta los panes por un lado y píntalos con aceite. Deben salir burbujas, dale tiempo de que se inflen y dales la vuelta. No los tuestes demasiado para que no queden muy resecos.
 - Pica 2 dientes de ajo y cilantro o machácalos en un mortero. Ponle aceite de oliva o mantequilla fundida y pinta tus tanes con la mezcla de estos 3 ingredientes.
 
+# Pero esperá
+
+Siguiendo la lógica de la pizza. 
+
+- 200 gramos de masa madre 
+- 100 de agua + 100 de leche (o 200 de leche, probar)
+- 400 gramos de harina de fuerza
+
+Se hace en la darto esto, después de 30 minutos de autolisis. ¿Saldrá? Cómo saber. 
 
