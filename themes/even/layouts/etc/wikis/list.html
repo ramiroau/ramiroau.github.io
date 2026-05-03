@@ -13,8 +13,8 @@
 
     <h2 class="post post-title" style="padding:0;">Notas →</h2>
 
-    {{/* List all .md files in this bundle except index.md */}}
-    {{ $pages := .RegularPages }}
+    {{/* List all .md files in this bundle except index.md, newest first by date */}}
+    {{ $pages := .RegularPages.ByDate.Reverse }}
     {{ if gt (len $pages) 0 }}
       {{ range $pages }}
         <p style="margin-top:-1em">

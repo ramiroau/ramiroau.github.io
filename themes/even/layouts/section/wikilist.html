@@ -13,8 +13,8 @@
 
     <h2 class="post post-title" style="padding:0;">Notas →</h2>
 
-    {{/* List child pages in this section */}}
-    {{ with .Pages }}
+    {{/* List child pages in this section, newest first by date */}}
+    {{ with .Pages.ByDate.Reverse }}
       {{ range . }}
         <p style="margin-top:-1em">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>

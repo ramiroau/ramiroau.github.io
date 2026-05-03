@@ -2,6 +2,6 @@
 title: Wikis
 description: Papers, etcétera
 layout: wikilist
-date: 2026-04-26
+date: 2024-05-24
 ---
 
