@@ -1,20 +1,91 @@
 [
   {
-    "id": "rau2023",
-    "type": "article-journal",
-    "abstract": "El trabajo discute las contribuciones publicadas en \"Social Rights and the Constitutional Moment. Learning from Chile and International Experiences\" (Casla, Sepúlveda, Silva and Contreras, 2022), desde el punto de vista del proceso constituyente chileno y a la luz del resultado del plebiscito del 4 de septiembre de 2022, en el que una abrumadora mayoría de ciudadanos chilenos rechazaron el proyecto de nueva Constitución. Subraya lo relevante de las contribuciones a pensar en procesos constituyentes desde el punto de vista de los derechos económicos, sociales,  y culturales (DESC) pero---a la vez---plantea los necesarios límites que ellos implican si no se abordan las causas profundas de las insatisfacciones democráticas de nuestros días.",
-    "container-title": "Revista Internacional de Derechos Humanos",
-    "ISSN": "2422-7188",
+    "id": "democrata",
+    "slug": "democrata",
+    "type_content": "en_prensa",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2026-06-05",
+    "title": "La crisis de los derechos: del conjuro a la trampa",
+    "status": "draft",
+    "citation": "<em>La crisis de los derechos: del conjuro a la trampa</em>, Demócrata, Vol. 2., No. 1 (papeles de trabajo del Proyecto de Unidad Ejecutora del Instituto de Investigaciones Políticas (IIP) de la Universidad Nacional de San Martín, Conicet, Junio de 2026.",
+    "abstract": "En diciembre de 2023, a pocos días de asumir la presidencia, Javier Milei eliminó el Ministerio de las Mujeres, Géneros y Diversidad. Meses después, el INADI fue disuelto por decreto. Avanzó ---por medio de decretos y luego por medio de una ley--- sobre los derechos laborales, adelantando una reforma significativa y regresiva. Estas medidas, ataques frontales sobre la arquitectura institucional de derechos fundamentales, generaron una reacción social más bien tibia. Este ensayo parte de una pregunta incómoda: ¿por qué el desmantelamiento de derechos e instituciones encargadas de protegerlos ocurrió sin una resistencia social masiva? La respuesta que propongo es que el discurso de los derechos ---el *rights-talk* como gramática política central y hegemónica--- atraviesa una crisis profunda, que no se explica sólo por la reacción conservadora sino también por los fracasos acumulados de los derechos como instrumentos de gobernanza. Este ensayo explora esta idea y ofrece, tentativamnete, evidencia sobre su plausibilidad."
+  },
+  {
+    "id": "regulatory_threats",
+    "slug": "regulatory_threats",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2026-02-09",
+    "title": "Ruling by bullying: Threats of regulation as an internet governance device",
+    "status": "published",
+    "citation": "<em>Ruling by bullying: Threats of regulation as an internet governance device</em>. Internet Policy Review, Vol. 15, No. 1 (2026)",
+    "doi": "10.14763/2026.1.2079",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "governance"
+    ],
+    "delivery_date": "2024-10-03",
+    "acceptance_date": "2025-08-23",
+    "abstract": "Government by regulation structures how constitutional democracies normally operate. Legislatures and executive agencies enact formal rules that govern conduct, embodying the ideal of government by laws rather than by individuals. Yet regulators also govern through threats of regulation. When public officials seek to alter private behavior, they may warn regulated actors that failure to comply will trigger new or stricter rules. These warnings can achieve regulatory goals without the adoption of formal rules. Because officials often issue such threats in informal, private communications, the practice escapes public scrutiny and challenges the dominant model of democratic rule-making, which assumes open deliberation by accountable institutions. This paper theorizes threats of regulation as a governance device that remains largely invisible to outsiders but offers significant advantages to regulators. Although United States courts attempt to distinguish unlawful coercion from permissible persuasion, they struggle to enforce these boundaries in practice. The paper argues that increasing transparency in routine communications between regulators and corporate actors would reduce the risk of abuse while preserving regulatory effectiveness."
+  },
+  {
+    "page": "1-28",
+    "author": [
+      {
+        "family": "Álvarez Ugarte",
+        "given": "Ramiro"
+      }
+    ],
+    "note": "publisher: Alexander von Humboldt Institute for Internet and Society gGmbH\nDOI: 10.14763/2026.1.2079",
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          2,
+          11
+        ]
+      ]
+    },
+    "URL": "https://policyreview.info/articles/analysis/threats-of-regulation",
+    "volume": "15",
+    "license": "Creative Commons Attribution 3.0 Germany",
     "issue": "1",
-    "language": "es",
-    "license": "Derechos de autor 2023 Revista Internacional de Derechos Humanos",
-    "note": "number: 1",
-    "page": "137-155",
-    "source": "ojs.austral.edu.ar",
-    "title": "Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences",
-    "title-short": "Esperanza y desilusión en el momento constitucional chileno",
-    "URL": "https://ojs.austral.edu.ar/index.php/ridh/article/view/966",
-    "volume": "13",
+    "container-title": "Internet Policy Review",
+    "abstract": "## Abstract\n\nGovernment by regulation structures how constitutional democracies normally operate. Legislatures and executive agencies enact formal rules that govern conduct, embodying the ideal of government by laws rather than by individuals. Yet regulators also govern through threats of regulation. When public officials seek to alter private behavior, they may warn regulated actors that failure to comply will trigger new or stricter rules. These warnings can achieve regulatory goals without the adoption of formal rules. Because officials often issue such threats in informal, private communications, the practice escapes public scrutiny and challenges the dominant model of democratic rule-making, which assumes open deliberation by accountable institutions. This paper theorizes threats of regulation as a governance device that remains largely invisible to outsiders but offers significant advantages to regulators. Although United States courts attempt to distinguish unlawful coercion from permissible persuasion, they struggle to enforce these boundaries in practice. The paper argues that increasing transparency in routine communications between regulators and corporate actors would reduce the risk of abuse while preserving regulatory effectiveness.",
+    "type": "article-journal",
+    "title-short": "Ruling by bullying",
+    "language": "eng",
+    "DOI": "10.14763/2026.1.2079",
+    "issued": {
+      "date-parts": [
+        [
+          "2026",
+          2,
+          9
+        ]
+      ]
+    },
+    "id": "rau2026",
+    "slug": "ruling-by-bullying",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2026-02-09",
+    "title": "Ruling by bullying: Threats of regulation as an internet governance device",
+    "status": "published",
+    "citation": "<em>Ruling by bullying: Threats of regulation as an internet governance device</em>, Internet Policy Review, Vol. 15, No. 1 (2026)",
+    "doi": "10.14763/2026.1.2079",
+    "uri": "https://policyreview.info/articles/analysis/threats-of-regulation",
+    "pages": "1-28",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "governance"
+    ]
+  },
+  {
+    "source": "www.tandfonline.com",
+    "page": "611-635",
     "author": [
       {
         "family": "Álvarez Ugarte",
@@ -24,12 +95,293 @@
     "accessed": {
       "date-parts": [
         [
+          "2026",
+          2,
+          11
+        ]
+      ]
+    },
+    "URL": "https://www.tandfonline.com/doi/full/10.1080/20414005.2025.2576430",
+    "volume": "16",
+    "issue": "4",
+    "container-title": "Transnational Legal Theory",
+    "abstract": "## Abstract\n\nThis article argues that human rights impact assessments (HRIAs) in the technological sector are inherently handicapped by the voluntary approach to business and human rights in which they are conceptually and genealogically embedded. It argues that they are—by themselves—incapable of addressing the problems of vagueness, disagreement, and paradoxes that affect human rights law and the limited knowledge we have regarding the effects technology has on society. The former is a legal problem; the latter is epistemological. While neither of these obstacles, properly understood, are insurmountable, meeting them presents a few challenges. This article explains why and offers possible strategies and a path forward, based on a critique of the voluntary framework and its implied denial of human rights as legal concepts and institutions.",
+    "type": "article-journal",
+    "title-short": "Bad cover versions of law",
+    "language": "en",
+    "DOI": "10.1080/20414005.2025.2576430",
+    "issued": {
+      "date-parts": [
+        [
+          "2025",
+          10,
+          26
+        ]
+      ]
+    },
+    "id": "rau2025",
+    "slug": "bad-cover-versions-of-law",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2025-10-26",
+    "title": "Bad cover versions of law: on the inherent limits of voluntary human rights obligations, as applied to internet companies doing content moderation : Vol 16 , No 4 - Get Access",
+    "status": "published",
+    "citation": "<em>Bad cover versions of law: on the inherent limits of voluntary human rights obligations, as applied to internet companies doing content moderation : Vol 16 , No 4 - Get Access</em>, Transnational Legal Theory, Vol. 16, No. 4 (2025)",
+    "doi": "10.1080/20414005.2025.2576430",
+    "uri": "https://www.tandfonline.com/doi/full/10.1080/20414005.2025.2576430",
+    "pages": "611-635",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "governance"
+    ]
+  },
+  {
+    "id": "two_challenges",
+    "slug": "two_challenges",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2025-10-26",
+    "title": "Bad Cover Versions of Law. (On the Inherent Limits of Voluntary Human Rights Obligations, As Applied to Internet Companies Doing Content Moderation)",
+    "status": "published",
+    "citation": "<em>Bad Cover Versions of Law. (On the Inherent Limits of Voluntary Human Rights Obligations, As Applied to Internet Companies Doing Content Moderation)</em>, Transantional Legal Theory Vol. 16, No. 4, pp. 611-635 (2025)",
+    "doi": "10.1080/20414005.2025.2576430",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "hrias, governance"
+    ],
+    "delivery_date": "2024-01-01",
+    "acceptance_date": "2025-08-06",
+    "abstract": "This paper argues that human rights impact assessments (HRIAs) in the technological sector are inherently handicapped by the voluntary approach to business and human rights in which they are conceptually and genealogically embedded. It argues that they are---by themselves---incapable of addressing the problems of vagueness, disagreement, and paradoxes that affect human rights law and the limited knowledge we have regarding the effects technology has on society. The former is a legal problem; the latter is epistemological. While neither of these obstacles, properly understood, are insurmountable, meeting them presents a few challenges. This paper explains why and offers possible strategies and a path forward, based on a critique of the voluntary framework and its implied denial of human rights as legal concepts and institutions."
+  },
+  {
+    "id": "risks",
+    "slug": "risks",
+    "type_content": "articulos",
+    "author_display": "Agustina Del Campo, Nicolás Zara, y Ramiro Álvarez Ugarte",
+    "date": "2025-09-04",
+    "title": "Are Risks the New Rights? The Perils of Risk-based Approaches to Speech Regulation",
+    "status": "published",
+    "citation": "<em>Are Risks the New Rights? The Perils of Risk-based Approaches to Speech Regulation</em>, Journal of Intellectual Property, Information Technology and Electronic Commerce, vol. 16, No. 2, págs. 238-251 (2025)",
+    "doi": "10.2139/ssrn.5161173",
+    "uri": "https://www.jipitec.eu/jipitec/article/view/439",
+    "file": "ssrn-5161173.pdf",
+    "ssrn": 5161173,
+    "subjects": "law",
+    "tag": [
+      "teoría regulatoria",
+      "Internet governance"
+    ],
+    "abstract": "This paper discusses the risk-based approach of the Digital Services Act (DSA) of the European Union. By embracing open-ended standards instead of rules and by imposing broad risk-identification and mitigation obligations on private parties, the DSA pushes forward a form of managerial co-regulation that is a paradigmatic shift in platform regulation, that has already influenced other regulatory proposals around the globe. This paper argues that the move is consequential from the perspective of the role of human rights in Internet governance. We posit that the approach pose unique problems when seen from the popular three-prong test used by apex courts around the world to assess restrictions on freedom of expression. Furthermore, we argue that it pushes rights out of the center stage of Internet governance and may create a logic of \"symbolic compliance\" where governance role of rights is further diminished. Finally, this paper identifies opportunities to address or mitigate the challenges identified, especially in an enforcement stage that remains quite open to these kinds of efforts."
+  },
+  {
+    "id": "legal_field",
+    "slug": "legal_field",
+    "type_content": "working_papers",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2025-08-27",
+    "title": "Law Schools as Places of Brokerage A Study on Hierarchy, Socialization, and the Buenos Aires Legal Field",
+    "status": "published",
+    "citation": "Law Schools as Places of Brokerage A Study on Hierarchy, Socialization, and the Buenos Aires Legal Field. Red de Estudios Empíricos en Derecho (REED), Instituto Gioja, Facultad de Derecho, Universidad de Buenos Aires, 4 de septiembre de 2025.",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "delivery_date": "2025-08-27",
+    "draft": true,
+    "abstract": "This paper studies who teaches law at the University of Buenos Aires Law School. It is based on an original dataset of individuals working in different organizations, built from different sources that make possible the representation of Law School trainers as a social network, to be subjected to social network analyses (SNA). This approach permits several structural calculations of the network that are significant from the point of view of the literature on legal academia in Argentina and in Latin America more generally, that has complained about its conservatism, its formalism, and---most importantly---its part-time nature. The analysis provisionally proves something the literature has already posited: that classrooms in Law Schools are places where lawyers and judges meet, raising a number of important normative questions. Furthermore, the network is an ideal site of power brokering, which may explain why legal education reform (that has made great progress in many Latin American countries) has not catched up in Argentina. This paper seeks to promote a deeper understanding of this phenomenon. It further hopes to open new avenues of research to better explain how social capital is construed and developed within the part-time legal training system."
+  },
+  {
+    "id": "trust",
+    "slug": "trust",
+    "type_content": "artículo",
+    "author_display": "Agustina Del Campo and Ramiro Álvarez Ugarte",
+    "date": "2025-07-17",
+    "title": "Trust and Safety's Blindspots: A Latin American Perspective. In Maia Levy Daniel, Amanda Menking, Marlyn Thomas Savio, & Jean Claffey, <em>Trust, Safety, and the Internet We Share: Multistakeholder Insights, Taylor and Francis</em> (forthcoming, late 2025)",
+    "status": "published",
+    "citation": "Trust and Safety's Blindspots. A Latin American Perspective. In Maia Levy Daniel, Amanda Menking, Marlyn Thomas Savio, & Jean Claffey, <em>Trust, Safety, and the Internet We Share: Multistakeholder Insights</em>, 175-184, Routledge, London, 2026",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoría regulatoria",
+      "Internet governance"
+    ],
+    "delivery_date": "2025-07-17",
+    "abstract": "Trust and safety is slowly but steadily emerging in the United States as an independent field of study and practice. Several initiatives—such as the recent Glossary of Trust and Safety Terms issued by the Digital Trust and Safety Partnership (DTSP)—are attempting to lay the groundwork for a common language among researchers, corporate officials, and practitioners who routinely take part in a set of practices designed to manage the way some internet services are used. A set of normative goals are embedded in the field itself. This paper critically analyzes these processes so far to pose a series of questions regarding the boundaries of trust and safety as a practice and a field of inquiry, particularly in Latin America. Our main argument is that trust and safety favors safety over competing normative goals and principles, potentially altering and shaping human rights online. This trend is problematic from a human rights perspective, a point that we develop by focusing on Latin American human rights standards. We conclude with a proposal to reshape trust and safety in ways that embrace human rights standards as a countervailing commitment that, while difficult to make from a business-centered perspective, may increase the legitimacy of the practice overall.\n\n«"
+  },
+  {
+    "id": "bring_rights_back_in",
+    "slug": "bring_rights_back_in",
+    "type_content": "articulos",
+    "author_display": "Agustina Del Campo, Nicolás Zara, y Ramiro Álvarez Ugarte",
+    "date": "2025-05-23",
+    "title": "Reclaiming Human Rights for Platform Governance: Proposals for Restoring Their Centrality in the Era of Risks, Artículo de investigación No. 66, Centro de Estudios en Libertad de Expresión (CELE), Buenos Aires (2025). Aceptado en Proceedings of the Fourth European Workshop on Algorithmic Fairness (EWAF'25). Proceedings of Machine Learning Research, 12 pages",
+    "status": "published",
+    "citation": "<em>Reclaiming Human Rights for Platform Governance: Proposals for Restoring Their Centrality in the Era of Risks</em>, Artículo de investigación No. 66, Centro de Estudios en Libertad de Expresión (CELE), Buenos Aires (2025). Aceptado en Proceedings of the Fourth European Workshop on Algorithmic Fairness (EWAF’25). Proceedings of Machine Learning Research, 12 pages.",
+    "file": "ssrn-5265938.pdf",
+    "ssrn": 5265938,
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoría regulatoria",
+      "Internet governance"
+    ],
+    "delivery_date": "2025-03-14",
+    "acceptance_date": "2025-05-05",
+    "abstract": "The Digital Services Act can potentially become a tool for change toward a more rights-abiding, competitive European digital platform ecosystem. However, as it currently stands, it is prone to be misused as a powerful tool for censorship as well as a tool to displace human rights as the backbone of the rule of law in modern democracies. Its risk-based and \"new governance\" approach to regulation puts rights on the back burner, and, while paying lip service to them, takes them off the center stage. This is problematic, for the incentives of the regulation and the oversight and enforcement mechanisms it establishes may channel the violation of fundamental rights. This paper proposes ways to correct this in the incipient enforcement and interpretative stage of the statute. In particular, we propose to adopt a working definition for \"systemic risks\", clarify and narrow the individual risks identified, interpret them in light of human rights standards; take the proportionality principle seriously and refine oversight; allow room for transparency and accountability for the oversight mechanisms, and bring back the State as a potential source of risks to human rights and other paramount values the DSA seeks to protect."
+  },
+  {
+    "id": "temporalidad",
+    "slug": "temporalidad",
+    "type_content": "en_prensa",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2025-03-18",
+    "title": "El problema económico de la temporalidad democrática. Respuestas institucionales",
+    "status": "published",
+    "citation": "<em>El problema económico de la temporalidad democrática. Respuestas institucionales</em> (Working paper). Facultad de Derecho, Universidad de Buenos Aires, 18 de marzo de 2025.",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoría jurídica, derecho constitucional"
+    ],
+    "abstract": "El presente trabajo aborda el desafío que la temporalidad democrática presenta para la política económica de una sociedad ordenada. Me refiero por ello a los incentivos que las elecciones periódicas crean en nuestros representantes, que los llevan---en ocasiones---a tomar decisiones equivocadas o postergar decisiones correctas. Si bien es un problema que existe en todo el mundo, en algunos países de América Latina perece especialmente agudo. Abordarlo supone mapear infraestructuras institucionales formales e informales que lidian con este problema en perspectiva comparada. También supone ejercitar la imaginación constitucional para ver cómo esas experiencias pueden ayudarnos a encontrar soluciones. El trabajo sigue una estrategia inductiva, partiendo de una serie de problemas sistémicos---especialmente agudos en algunos países de América Latina---que son causados en parte por dinámicas propias de la democracias. Luego se abordan soluciones de derecho comparado que suponen cierta *restricción* de la democracia desde puntos de vista constitucionalistas. La última sección imagina soluciones *expansivas* de la democracia, que parecen más prometedoras en un contexto de crisis de élites como el de los últimos años."
+  },
+  {
+    "id": "baldivieso",
+    "slug": "baldivieso",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2025-03-01",
+    "title": "El caso Baldivieso y el lento proceso de repolitización del aborto",
+    "status": "published",
+    "citation": "El caso Baldivieso y el lento proceso de repolitización del aborto, en María Luisa Piqué, Diego Zysman Quirós (eds.) Fallos de la CSJN. Análisis, historia e impacto de los precedentes que marcaron criterios fundamentales de la jurisprudencia en materia penal, vol. 2, Editorial Hammurabi, Buenos Aires, 2025.",
+    "file": "baldivieso.pdf",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoría jurídica, derecho constitucional"
+    ],
+    "abstract": "En el caso *Baldivieso*, la Corte Suprema decidió *volver* al criterio del plenario *Natividad Frías* de 1966 sobre la la legitimidad de las persecuciones penales basadas en reportes médicos, de personas que se atendieron por dolencias vinculadas a la comisión de ciertos delitos. La decisión, algo escueta, revocó el criterio que---en otra composición---el propio tribunal había sostenido en el caso *Zambrana Daza*. Este comentario, basado en un estudio empírico más extenso sobre la criminalización del aborto en la Argentina, argumenta que a los tres casos los unen distintos momentos del lento proceso de *repolitización* del aborto nuestro país. Si en *Natividad Frías* emergió, por primera vez, una objeción con base constitucional a los patrones fácticos que sólo arrojaban a las mujeres pobres bajo la mirada de la justicia, hacia 1997 y 2010---años de las decisiones contradictorias aquí analizadas---la criminalización del aborto estaba sometida a narrativas constitucionales diversas y contradictorias, que---sugiero---iluminan de manera especialmente clara a ambas decisiones."
+  },
+  {
+    "id": "modelización",
+    "slug": "modelización",
+    "type_content": "articulos",
+    "author_display": "Matías González Mama y Ramiro Álvarez Ugarte",
+    "date": "2025-01-22",
+    "title": "Modelización regulatoria. Palpitando la influencia de la Digital Services Act en América Latina, Artículo de investigación No. 63, Centro de Estudios en Libertad de Expresión (CELE), Buenos Aires (2025)",
+    "status": "published",
+    "citation": "<em>Modelización regulatoria. Palpitando la influencia de la Digital Services Act en América Latina</em>, Latin American Journal of European Studies, vol. 5, No. 1, págs. 400-433 (jan/jun 2025)",
+    "file": "revistacompleta_v5n1-017.pdf",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoría regulatoria",
+      "Internet governance"
+    ],
+    "delivery_date": "2025-04-16",
+    "acceptance_date": "2025-05-20",
+    "abstract": "Este artículo presenta a la Digital Services Act (DSA) de la Unión Europea como posible candidata a un proceso de *modelización regulatoria*, uno de los mecanismos a través de los cuales las leyes de un país o una región migran a otras latitudes. Se trata de un fenómeno global relativamente usual, que permite predecir ciertas dinámicas, como la prevalencia de países centrales o las ventajas de quienes actúan primero. En este trabajo partimos de la hipótesis de que la DSA se convertirá en un modelo regulatorio en América Latina, y recabamos evidencia parcial en ese sentido. Mediante el análisis comparativo de algunos proyectos de ley que se han presentado en distintos países de la región en los últimos años, mostramos que los mismos muestran huellas claras de la influencia de la DSA en la imaginación de los legisladores que los impulsaron. Consideramos demostrado, entonces, que el proceso de modelización que predecimos se encuentra en marcha, en una etapa temprana. Para concluir, advertimos sobre algunos problemas o desafíos que presentan este tipo de procesos: la necesidad de atender a la infraestructura institucional de los países receptores del proceso migratorio (que---en este caso---es, en cada país, notablemente diferente a las instituciones reguladoras europeas); la necesidad de dar cuenta de los estándares de protección de la libertad de expresión de América Latina (parcialmente diferentes a los estándares europeos); y---por último---la necesidad de ser prudentes ante una norma novedosa, de escaso recorrido, que puede aún tener problemas que la práctica no ha revelado."
+  },
+  {
+    "id": "pacto_de_olivos",
+    "slug": "pacto_de_olivos",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2024-12-14",
+    "title": "En defensa del Pacto de Olivos y del ejercicio (posible) del poder constituyente",
+    "citation": "En defensa del Pacto de Olivos y del ejercicio (posible) del poder constituyente, Lecciones y Ensayos, No. 113, (2024)",
+    "uri": "http://revistas.derecho.uba.ar/index.php/revistalye/article/view/2765",
+    "file": "pacto_olivos.pdf",
+    "subjects": "law",
+    "comments": false,
+    "tag": "teoría constitucional",
+    "delivery_date": "2024-12-14",
+    "acceptance_date": "2025-02-15",
+    "draft": false,
+    "abstract": "Este artículo ensaya una defensa del Pacto de Olivos, a treinta años de su gestación. Argumenta que el mismo representa, de una manera imperfecta, a una dimensión esencial de los procesos constituyentes *postsoberanistas*, que abandonan visiones ficticias sobre el pueblo soberano e ideas descabelladas sobre la posibilidad de su (perfecta) representación. Fue un acuerdo de cúpulas gestado al calor del último aliento de la representación política tradicional mediada por partidos políticos. Esta defensa contrasta dos visiones del poder constituyente: una *soberanista* que pide encontrar en él al soberano colectivo y una *postsoberanista* que se contenta con que él participe del proceso de manera imperfecta y a través de múltiples representaciones. El trabajo concluye con un análisis de los casos *Fayt* y *Schiffrin*, en los que estas visiones se pusieron en juego."
+  },
+  {
+    "id": "losing",
+    "slug": "losing",
+    "type_content": "working_papers",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2023-10-15",
+    "title": "The Case for Losing Rights",
+    "status": "published",
+    "citation": "<em>The Case for Losing Rights</em> (Working paper). Coloquio Nino, Facultad de Derecho, Universidad Torcuato Di Tella, 15 de octubre de 2023",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoría legal"
+    ],
+    "delivery_date": "2023-10-15",
+    "abstract": "This paper argues that under certain conditions, rights---understood as legalistic devices meant to affirm certain core political agreements---fail to preform their function. When this happens, we should revisit our initial decision to check whether we still want to have those rights, whether we need to enforce them more effectively, or whether we would be better off by scrapping them altogether. The paper discusses the conditions that should trigger this reponse from a theoretical standpoint, following the intuition that when rights fail in these ways it is because they are failing to perform the essential legalistic function we expect from them. Counterintuitively, the paper argues that in certain contexts of rights failure we should, indeed, strive to lose rights. The argument is deployed on the case of workers' rights in Argentina and makes a qualified argument for scrapping them for reasons of equality. It concludes by noting that losing failing legal rights might be the best way to create the political conditions necessary for recovering them, or even expanding them, in a not too distant future."
+  },
+  {
+    "id": "hrias_latam",
+    "slug": "hrias_latam",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2023-03-22",
+    "title": "The Place and Challenges of Human Rights Impact Assessments in Latin American Internet Regulatory Futures",
+    "status": "en_prensa",
+    "citation": "The Place and Challenges of Human Rights Impact Assessments in Latin American Internet Regulatory Futures, in Journal of Digital Media & Policy. Special Issue: 'Emerging Debates on Internet Platform Policy and Regulation in Latin America', Vol. 14 No. 2, 169-185 (2023)",
+    "file": "hria4_v9.pdf",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "delivery_date": "2022-11-02",
+    "acceptance_date": "2023-02-22",
+    "abstract": "Human Rights Impact Assessments (HRIA) have become an important tool of corporate governance in the field of business and human rights, and—thus—have been embraced by companies in the ICT sector. This was to an extent predictable: for quite some time now, Internet companies have been accused of violating human rights through action or omission. In this context, HRIAs appear as a procedural mechanism that may help them make better decisions and, at least, curb criticism. This paper seeks to contribute to inquiries into this development by highlighting the regulatory context in which HRIAs emerged within the ICT sector, the institutional history of the tool, its ambiguous genealogy, and the challenges and opportunities for its usage in Latin America."
+  },
+  {
+    "id": "chile",
+    "slug": "chile",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2023-03-14",
+    "title": "Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences",
+    "status": "published",
+    "citation": "<em>Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences</em>. Revista Internacional de Derechos Humanos, vol. 13 No. 1, 137-155 (2023).",
+    "file": "reseña.pdf",
+    "issn": "2422-7188",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "reforma constitucional"
+    ],
+    "abstract": "El presente trabajo aborda el desafío que la temporalidad democrática presenta para la política económica de una sociedad ordenada. Me refiero por ello a los incentivos que las elecciones periódicas crean en nuestros representantes, que los llevan---en ocasiones---a tomar decisiones equivocadas o postergar decisiones correctas. Si bien es un problema que existe en todo el mundo, en algunos países de América Latina perece especialmente agudo. Abordarlo supone mapear infraestructuras institucionales formales e informales que lidian con este problema en perspectiva comparada. También supone ejercitar la imaginación constitucional para ver cómo esas experiencias pueden ayudarnos a resolver el problema de fondo. El trabajo sigue una estrategia inductiva, partiendo de una serie de problemas sistémicos---especialmente agudos en algunos países de América Latina---que son causados por dinámicas propias de la democracias. Luego se abordan soluciones de derecho comparado que suponen cierta restricción de la democracia desde puntos de vista constitucionalistas. La última sección imagina soluciones expansivas de la demoracia, que parecen más prometedoras en un contexto de crisis de elites como el de los últimos años."
+  },
+  {
+    "source": "ojs.austral.edu.ar",
+    "page": "137-155",
+    "author": [
+      {
+        "family": "Álvarez Ugarte",
+        "given": "Ramiro"
+      }
+    ],
+    "note": "number: 1",
+    "accessed": {
+      "date-parts": [
+        [
           "2024",
           12,
           13
         ]
       ]
     },
+    "URL": "https://ojs.austral.edu.ar/index.php/ridh/article/view/966",
+    "volume": "13",
+    "license": "Derechos de autor 2023 Revista Internacional de Derechos Humanos",
+    "ISSN": "2422-7188",
+    "issue": "1",
+    "container-title": "Revista Internacional de Derechos Humanos",
+    "abstract": "## Abstract\n\nEl trabajo discute las contribuciones publicadas en \"Social Rights and the Constitutional Moment. Learning from Chile and International Experiences\" (Casla, Sepúlveda, Silva and Contreras, 2022), desde el punto de vista del proceso constituyente chileno y a la luz del resultado del plebiscito del 4 de septiembre de 2022, en el que una abrumadora mayoría de ciudadanos chilenos rechazaron el proyecto de nueva Constitución. Subraya lo relevante de las contribuciones a pensar en procesos constituyentes desde el punto de vista de los derechos económicos, sociales,  y culturales (DESC) pero---a la vez---plantea los necesarios límites que ellos implican si no se abordan las causas profundas de las insatisfacciones democráticas de nuestros días.",
+    "type": "article-journal",
+    "title-short": "Esperanza y desilusión en el momento constitucional chileno",
+    "language": "es",
     "issued": {
       "date-parts": [
         [
@@ -38,22 +390,251 @@
           14
         ]
       ]
-    }
+    },
+    "id": "rau2023",
+    "slug": "esperanza-y-desilusion-en-el-momento-constitucional-chileno",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2023-03-14",
+    "title": "Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences",
+    "status": "published",
+    "citation": "<em>Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences</em>, Revista Internacional de Derechos Humanos, Vol. 13, No. 1 (2023)",
+    "uri": "https://ojs.austral.edu.ar/index.php/ridh/article/view/966",
+    "issn": "2422-7188",
+    "pages": "137-155",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "governance"
+    ]
   },
   {
-    "id": "rau2020",
-    "type": "chapter",
-    "abstract": "In Argentina, COVID-19 arrived late and gave the government a chance to prepare. It took that chance: for now, the contagion curve seems to be under control and after the enforcement of a country-wide lockdown, the health system seems to be coping well with the slow rise of cases. The situation is not, however, sustainable. The lockdown is battering an already heavily battered economy, and it is predictably and disproportionately affecting those who are worse off. Something will have to give. Entering the lockdown was easy, but it is increasingly difficult to see how and when we will get out. In that context, the state has simply insisted on old practices regarding the use of technology for governance purposes. In this brief comment I highlight two features of the emergency. The first is related to the constitutional structure that was adopted to produce the state of emergency itself. The second is related to the role that technology has played until now in the crisis, and the role that it may play in the future. I will argue that both features are connected.",
-    "container-title": "Data Justice and COVID-19: Global Perspectives",
-    "edition": "1st",
-    "event-place": "London, UK",
-    "ISBN": "978-1-913824-01-3",
-    "language": "en",
-    "note": "Google-Books-ID: rGLQzQEACAAJ",
-    "publisher": "Meatspace Press",
-    "publisher-place": "London, UK",
+    "id": "modalities",
+    "slug": "modalities",
+    "type_content": "working_papers",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2023-02-23",
+    "title": "Modalities of Jurisgenesis: Some Lessons from Argentina's Abortion Legalization Struggle",
+    "status": "published",
+    "citation": "Modalities of Jurisgenesis: Some Lessons from Argentina's Abortion Legalization Struggle",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "abstract": "After Dobbs, part of the public conversation regarding the future of abortion in the United States was about the issue of fetal personhood. The ultimate goal for some, the ultimate fear for others. This paper tells the story of how fetal personhood was won---and then lost---by Argentina's anti abortion movement in the 1990s.  It shows how a certain constitutional narrative, born within civil society, managed to persuade public officials to elicit constitutional change. It also shows how that change left open room for contestation and how---eventually---the bastion implied in the successful constitutional argument fell, under the weight of a counter-narrative. The paper makes a contribution to the literature that studies the relationship between law and politics in the context of extended and pervasive disagreement."
+  },
+  {
+    "id": "uncomfortable_judges",
+    "slug": "uncomfortable_judges",
+    "type_content": "working_papers",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2023-02-23",
+    "title": "Uncomfortable Judges. The Underenforcement of Abortion Laws in Argentina During the 20th Century",
+    "status": "published",
+    "citation": "Uncomfortable Judges. The Underenforcement of Abortion Laws in Argentina During the 20th Century",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "abstract": "When criminalized, abortion has always and everywhere been an underenforced prohibition. Women throughout history who have found themselves pregnant and unwilling to carry the pregnancy to term have found ways of interrupting the process, under the protection of liberal legal frameworks or under the brutal conditions of illegal markets. In these all too normal scenarios, the gap between what the law said in the books and how it operated in practice has always been significant [@luna2000, 523]. This paper seeks to describe the mechanisms employed by Argentinean judges to deal with this undertheorized operation of legal systems in the context of prosecutions for criminal abortions. It is based on a systematic review of judicial decisions on abortion since 1918---the year the first law report was published---to the 1980s, when the legalization of abortion became a social movement demand. It proceeds in the following way. \n\nThe first section discusses the issue of lawful departures from legal rules by public officials and lawless judging [@kadish1973; @brand2010]. By considering that under certain conditions public officials (including judges) are justified to act contrary to clear legal commands, this narrow and borderline issue poses difficult challenges to strong ideologies of the rule law, to entrenched role moralities regarding judges, and to the proper locus of democratic law-making authority. But from an external point of view, the less-than-perfect enforcement of certain rules implied in the possibility of departure is not a bug but a feature of most modern legal systems. It is not far-fetched to argue that the underenforcement of criminal provision is the normal situation in any democratic society. This section discusses previous research on the topic with the purpose of identifying the special place of judges in the law-enforcement apparatus *vis-à-vis* this phenomenon, specially in criminal systems with professional judges in charge of assigning guilt and punishment. \n\nThe second section discusses the issue of nonenforcement and underenforcement of vice laws, under which abortion ciminal statutes have generally been filed. This issue is closely related to the rich literature on deviance, and on the use of criminal law for symbolic purposes [@becker1967; @gusfield1968]. This brief discussion frames criminal abortion statutes within a broader set of usages of criminal law. Thus, it sets the groundwork for the empirical inquiry that follows. \n\nThe third section discusses the way the data was gathered and how it was analyzed. It also discusses alternative methodological approaches that were considered but not followed. The systematic review of law journals followed for this inquiry produced a rather complete picture of what the legal field considered important in the period, while failing to reveal the full scope of actual judicial practices. However, the decisions gathered are informative of the factual patterns that systematically led some women (and not others) to be judged. It described how the law-enforcement apparatus worked (and how it failed to work). These decisions also reveal the shifting doctrinal reasons given by judges to limit the reach of criminal punishment, shifts that happened---I pose---at the pace of rapid social change. \n\nThe fourth section presents the findings and analyzes the data. Throughout the 20th century, Argentinean criminal judges built doctrinal walls around these crimes to prevent punishing women who interrupted their pregnancies, either too harshly or altogether. In a first stage, adhering to strict evidentiary thresholds, they simply considered that abortion was a crime that was impossible to prove beyond a reasonable doubt, for in most cases it was impossible to demonstrate that an indicted woman was indeed pregnant when abortion maneauvers were carried out. When technological change made identifying pregnancies slightly more certain, they insisted that the evidentiary threshold to produce a criminal conviction had not been met. But in the 1960s those reasons shifted from matters of evidence to matters of principle: a handful of judges from the city of Buenos Aires began to question the patterns that only led poor women to be criminalized for interrupting their pregnancies. In doing so, they implicitly questioned the validity of criminalization *tout court*, thus anticipating liberalization arguments that would be deployed by women's rigths advocates a decade later. These handufl of judges inaugurated a period of intense judicial disagreement that foreshadowed the process of repolitization the rule experienced through the 1980s, 1990s and 2000s [@post2010, 1343]. The fifth and final section offers a brief conclusion and discusses the theoretical significance of these findings."
+  },
+  {
+    "id": "reseña_chile",
+    "slug": "reseña_chile",
+    "type_content": "reviews",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2023",
+    "title": "Esperanza y desilusión en el momento constitucional chileno",
+    "status": "Published",
+    "citation": "Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences, Revista Internacional de Derechos Humanos, vol. 13, No. 1, 137-155 (2023)",
+    "uri": "https://riu.austral.edu.ar/handle/123456789/2227",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "abstract": "Llegó a mis manos una copia de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences el domingo 4 de septiembre de 2022, el mismo día en el que el pueblo chileno decía que no a la propuesta de Constitución a la que el volumen quiso aportar. La circunstancia, por demás anticlimática, marca en cierto sentido el tono de esta reseña, pero no quita mérito a los trabajos allí editados por Koldo Casla, Magdalena Sepúlveda, Vicente Silva y Valentina Contreras. Por el contrario, la intención de la compilación---aprender de Chile y otras experiencias comparadas---parece ser un objetivo especialmente urgente ante el resultado electoral. El dictamen de las urnas, sin embargo, es relevante y permite juzgar la contribución del libro a la luz de esa desilusión."
+  },
+  {
+    "id": "redes_de_jurisprudencia",
+    "slug": "redes_de_jurisprudencia",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte y Emiliano Vitaliani",
+    "date": "2022-12-31",
+    "title": "Redes de influencia: análisis de la jurisprudencia civil argentina en materia de responsabilidad de intermediarios",
+    "status": "published",
+    "citation": "Redes de influencia: análisis de la jurisprudencia civil argentina en materia de responsabilidad de intermediarios, Revista Chilena de Derecho y Tecnología, Vol. 11, No. 2, 147-182, doi 10.5354/0719-2584.2021.65368 (2022)",
+    "doi": "10.5354/0719-2584.2021.65368",
+    "file": "rcdyt_rau_ev.pdf",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law, sna",
+    "delivery_date": "2021-11-11",
+    "acceptance_date": "2022-06-28",
+    "abstract": "Este trabajo utiliza la metodología de análisis de redes sociales (ARS) para indagar sobre la jurisprudencia civil en materia de responsabilidad de intermediarios en la Argentina. Se trata de un fenómeno de litigiosidad relativamente reciente, que estuvo guiado por reclamos que seguían patrones fácticos similares y que presentaron a los jueces argentinos un problema novedoso. Como no había una regulación específica, debieron recurrir a viejos principios de derecho constitucional vinculados a la libertad de expresión y a principios generales del derecho civil. Con base en un análisis original sobre una base de datos construida alrededor de este universo de casos, este trabajo cuenta la historia de esa jurisprudencia, su evolución, los problemas que resolvió y los que dejó abiertos."
+  },
+  {
+    "id": "clough2021",
+    "slug": "clough2021",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte y Juan González Bertomeu",
+    "date": "2022-11-23",
+    "title": "The I·CONnect-Clough Center 2021 Global Review of Constitutional Law: Argentina Report",
+    "status": "published",
+    "citation": "The I·CONnect-Clough Center 2021 Global Review of Constitutional Law: Argentina Report. R Albert et al (eds), Clough Center for the Study of Constitutional Democracy. 2022",
+    "file": "Clough_2021_Argentina_review.pdf",
+    "ssrn": 4285035,
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "acceptance_date": "2022-02-02",
+    "abstract": "We devote our 2021 review to the Supreme Court, focusing on two developments. One concerns its internal convulsions and the attacks it once again received, not all of them unjustified. The other consists of an emerging trend in its decision making on federalism and regulatory issues, though we also review other areas."
+  },
+  {
+    "id": "constitucionalizacion",
+    "slug": "constitucionalizacion",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2022-11-02",
+    "title": "Sobre la incompleta constitucionalización del derecho civil y los límites de los precedentes judiciales",
+    "status": "published",
+    "citation": "Sobre la incompleta constitucionalización del derecho civil y los límites de los precedentes judiciales, Revista Jurídica Argentina La Ley, 2022-F (2022-11-02)",
+    "file": "marzol_v5.pdf",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law, intermediarios",
+    "delivery_date": "2022-10-20",
+    "acceptance_date": "2022-10-21",
+    "abstract": "En el caso *Marzol c. Google*, el juez Javier Pico Terrero, a cargo del juzgado en lo Civil y Comercial Federal No. 7 de la ciudad de Buenos Aires resolvió una acción preventiva a favor de una bailarina que cuestionó que su nombre fuera vinculado a páginas de contenido pornográfico en Google, que alojaban una grabación de una obra de teatro en la que ella había participado. El magistrado ordenó al buscador eliminar de su servicio ciertas páginas identificadas al efecto. La decisión parece una buena oportunidad para trazar un balance de una corriente de litigiosidad que ya lleva más de quince años, en la que la Corte Suprema intervino de manera decisiva para someter ciertas respuestas usuales del derecho civil a parámetros constitucionales. Esta línea jurisprudencial puede ser vista como parte del proceso de *constitucionalización* del derecho civil, porque implica someter respuestas usuales que se podrían dar dentro de esa rama del derecho a preocupaciones propias del derecho constitucional. En este comentario me gustaría analizar a *Marzol* dentro de este universo más amplio de litigiosidad, que revela dos fenómenos relevantes de nuestra práctica jurídica: el carácter incompleto y negociado del mencionado proceso de *constitucionalización* y las formas en que los precedentes de la Corte Suprema lo ordenan, sin controlarlo enteramente."
+  },
+  {
+    "id": "reglas_judiciales",
+    "slug": "reglas_judiciales",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2022-03-30",
+    "title": "Responsabilidad de intermediarios: reglas judiciales y futuros inciertos",
+    "status": "published",
+    "citation": "Responsabilidad de intermediarios: reglas judiciales y futuros inciertos (en coautoría con Emiliano Vitaliani), LL, 2022-B (2021-03-30)",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "abstract": "El año pasado llevamos adelante una investigación en el Centro de Estudios en Libertad de Expresión de la Universidad de Palermo sobre la jurisprudencia civil en materia de responsabilidad de intermediarios. El tema nos interesa, ya que en nuestro país el régimen legal de responsabilidad de empresas de Internet por contenidos publicados por terceros existe---en parte---como consecuencia de una serie de litigios que fueron resueltos judicialmente. La regla limitada de no responsabilidad que creó la Corte Suprema de Justicia en el caso *Belén Rodríguez* de 2014 es el único juego disponible: si bien hubo proyectos legislativos tendientes a regular este tipo de controversias, esos proyectos no lograron avanzar en el trámite legislativo. Por lo tanto, en la Argentina---a diferencia de muchos otros países---las reglas que regulan este tipo de conflictos y controversias fueron creadas por los jueces."
+  },
+  {
+    "id": "foe_populistpolitics",
+    "slug": "foe_populistpolitics",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2022-01-13",
+    "title": "Freedom of expression and populist politics in Latin America",
+    "status": "published",
+    "citation": "<em>Freedom of expression and populist politics in Latin America</em>, en C. H. Mendes & R. Gargarella (Eds.), The Oxford Handbook of Constitutional Law in Latin America. Oxford, New York: Oxford University Press, 2022",
+    "file": "lde_latam_v4.pdf",
+    "isbn": 9780198786900,
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "libertad de expresion"
+    ],
+    "abstract": "This chapter seeks to describe the normative underpinnings of the freedom of expression debate which engulfed Latin America in the last few years, specially around the push, led by some countries, to reform the Inter-American Human Rights System. Based on this analysis, the chapter argues for a conflicting relationship between populist politics and freedom of expression. With the dust settled over the Inter-American reform process, the analysis seems timely and relevant given the decline of left-wing populism in the region and the rise of right-wing populism worldwide."
+  },
+  {
+    "id": "foi",
+    "slug": "foi",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2022-01-13",
+    "title": "Freedom of information in Latin America",
+    "status": "published",
+    "citation": "<em>Freedom of information in Latin America</em>, en C. H. Mendes & R. Gargarella (Eds.), The Oxford Handbook of Constitutional Law in Latin America. Oxford, New York: Oxford University Press, 2022",
+    "isbn": 9780198786900,
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "libertad de expresion",
+      "acceso a la informacion"
+    ],
+    "abstract": "In the impossible quest for a kind of representation transparent enough to suppress the anxieties created by democracy, the moments between elections become crucial for sustaining the legitimacy of a political regime. This is where the issue of transparency in government and the right to information it ensues should be anchored: on the permanent, non-electoral mechanisms through which governments and public officials relate, and are accountable, to citizens. From this conceptual point of view, the right to information and government transparency policies are part of the social accountability mechanisms through which citizens keep their government in check. A transparent government by default is an accountable government, provided that the institutions of civil society which are supposed to take advantage of these mechanisms are capable to operate effectively (e.g., political parties, media outlets, civil society organizations, and so on). In this paper I describe the legal history of the right to information, the general principles adopted in Latin America as a region (as a result of some sort of jurisprudential dialogue between different jurisdictions) and map new trends in the freedom of information movement landscape, the challenges it still faces and the weaknesses which limit it as a path towards democratic accountability."
+  },
+  {
+    "id": "clough2020",
+    "slug": "clough2020",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte y Juan González Bertomeu",
+    "date": "2021-10-15",
+    "title": "The I·CONnect-Clough Center 2020 Global Review of Constitutional Law: Argentina Report",
+    "status": "published",
+    "citation": "The I·CONnect-Clough Center 2020 Global Review of Constitutional Law: Argentina Report. R Albert et al (eds), Clough Center for the Study of Constitutional Democracy. 2021",
+    "file": "Clough_2020_Argentina_review.pdf",
+    "ssrn": 3942876,
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "acceptance_date": "2021-02-02",
+    "abstract": "The most important development of 2020 peaked with the year's last breath. On December 30, Congress passed a statute decriminalizing abortion, culminating an extraordinary process of women’s mobilization. Other than this, the Supreme Court found itself pressed by opposing forces to settle politically intractable questions. The outcome was bad constitutional law---the kind only a country perpetually in crisis can produce. We devote most of this report to the existing dispute between the two main political factions regarding the legitimacy of judicial inquiries into previous administrations. The controversy has put extra strain on a flawed and manipulated judiciary."
+  },
+  {
+    "id": "pro_life",
+    "slug": "pro_life",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2021-02-26",
+    "title": "The Pro-Life Movement and the Fight for the Constitution in Argentina: Between Law and Transcendence",
+    "status": "Unpublished",
+    "citation": "The Pro-Life Movement and the Fight for the Constitution in Argentina: Between Law and Transcendence, in Latin American Law Review, No. 6 (2021): 125-149",
+    "doi": "10.29263/lar06.2021.06",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "delivery_date": "2020-05-18",
+    "acceptance_date": "2020-08-30",
+    "revision_date": "2020-10-01",
+    "abstract": "The constitutional history of abortion in Argentina is long and complex. This paper overviews a small part of it: the way in which Catholic legal academia developed, since the early 1980s, constitutional arguments to dispute with the feminist camp the meaning of the Constitution. This process has two dimensions. One is linked to the intellectual history of Catholic ideas over reproduction, and how they were adapted to the peculiarities of Argentinean law. The other is related to the way in which these arguments formed the framing of the \"pro life\" movement in Argentina. Exploring this normative world reveals the \"depth of field\" with which social movement seeking constitutional change work with (Cover, 1983), and what is at stake when the battle is disputed in that terrain. This article explores what this means for constitutional theory."
+  },
+  {
+    "id": "clough2019",
+    "slug": "clough2019",
+    "type_content": "capitulos",
+    "author_display": "Juan González Bertomeu y Ramiro Álvarez Ugarte",
+    "date": "2020-11-26",
+    "title": "The I·CONnect-Clough Center 2019 Global Review of Constitutional Law: Argentina Report",
+    "status": "published",
+    "citation": "The I·CONnect-Clough Center 2019 Global Review of Constitutional Law: Argentina Report. R Albert et al (eds), Clough Center for the Study of Constitutional Democracy. 2020",
+    "ssrn": 3736382,
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "acceptance_date": "2020-02-02",
+    "abstract": "In an election year, the Supreme Court was not at the forefront of public discussion. However, a\nhandful of important and politically charged decisions timidly evinced the emergence of a\nmajority inclined to check the government and protect some rights. Political change and\neconomic turbulence may alter this."
+  },
+  {
+    "id": "experiencias_deliberativas",
+    "slug": "experiencias_deliberativas",
+    "type_content": "retirados",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2020-04-10",
+    "title": "Controla tu entusiasmo. Algunos comentarios (críticos) a algunas experiencias deliberativas",
+    "status": "Unpublished",
+    "citation": "<em>Controla tu entusiasmo. Algunos comentarios (críticos) a algunas experiencias deliberativas</em>, en Igualdad, Autonomía y Derechos Sociales , No. ---, vol. --- (en prensa)",
+    "isbn": "978-987-03-3830-7",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoría democrática",
+      "teoría constitucional"
+    ],
+    "delivery_date": "2020-04-10",
+    "acceptance_date": "2020-04-10",
+    "abstract": "Este trabajo presenta un breve análisis de lo que Roberto Gargarella llama \"iniciativas políticas favorables a la democracia deliberativa\" (IPDD). El trabajo se pregunta por el tipo de problemas que ellas vienen a resolver, y propone una respuesta doble: problemas *representativos* y problemas *deliberativos*. Ambos son teóricamente distintos, pero se confunden en la práctica. Argumento que la distinción es relevante, ya que permite tomar de las IPDD distintas características dependiendo del problema que estemos abordando. La estrategia permitiría diseñar IPDDs más efectivas."
+  },
+  {
     "source": "Google Books",
-    "title": "Layers of crises: when pandemics meet institutional and economic havoc",
+    "edition": "1st",
+    "author": [
+      {
+        "family": "Álvarez Ugarte",
+        "given": "Ramiro"
+      }
+    ],
+    "note": "Google-Books-ID: rGLQzQEACAAJ",
+    "publisher-place": "London, UK",
     "container-author": [
       {
         "family": "Taylor",
@@ -72,97 +653,318 @@
         "given": "Shazade"
       }
     ],
-    "author": [
-      {
-        "family": "Álvarez Ugarte",
-        "given": "Ramiro"
-      }
-    ],
+    "publisher": "Meatspace Press",
+    "event-place": "London, UK",
+    "container-title": "Data Justice and COVID-19: Global Perspectives",
+    "abstract": "## Abstract\n\nIn Argentina, COVID-19 arrived late and gave the government a chance to prepare. It took that chance: for now, the contagion curve seems to be under control and after the enforcement of a country-wide lockdown, the health system seems to be coping well with the slow rise of cases. The situation is not, however, sustainable. The lockdown is battering an already heavily battered economy, and it is predictably and disproportionately affecting those who are worse off. Something will have to give. Entering the lockdown was easy, but it is increasingly difficult to see how and when we will get out. In that context, the state has simply insisted on old practices regarding the use of technology for governance purposes. In this brief comment I highlight two features of the emergency. The first is related to the constitutional structure that was adopted to produce the state of emergency itself. The second is related to the role that technology has played until now in the crisis, and the role that it may play in the future. I will argue that both features are connected.",
+    "type": "chapter",
+    "ISBN": "978-1-913824-01-3",
+    "language": "en",
     "issued": {
       "date-parts": [
         [
           "2020"
         ]
       ]
-    }
+    },
+    "id": "rau2020",
+    "slug": "layers-of-crises-when-pandemics-meet-institutional-and-economic-havoc",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2020-01-01",
+    "title": "Layers of crises: when pandemics meet institutional and economic havoc",
+    "status": "published",
+    "citation": "<em>Layers of crises: when pandemics meet institutional and economic havoc</em>, Data Justice and COVID-19: Global Perspectives (2020)",
+    "isbn": "978-1-913824-01-3",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "governance"
+    ]
   },
   {
-    "id": "rau2026",
-    "type": "article-journal",
-    "abstract": "Government by regulation structures how constitutional democracies normally operate. Legislatures and executive agencies enact formal rules that govern conduct, embodying the ideal of government by laws rather than by individuals. Yet regulators also govern through threats of regulation. When public officials seek to alter private behavior, they may warn regulated actors that failure to comply will trigger new or stricter rules. These warnings can achieve regulatory goals without the adoption of formal rules. Because officials often issue such threats in informal, private communications, the practice escapes public scrutiny and challenges the dominant model of democratic rule-making, which assumes open deliberation by accountable institutions. This paper theorizes threats of regulation as a governance device that remains largely invisible to outsiders but offers significant advantages to regulators. Although United States courts attempt to distinguish unlawful coercion from permissible persuasion, they struggle to enforce these boundaries in practice. The paper argues that increasing transparency in routine communications between regulators and corporate actors would reduce the risk of abuse while preserving regulatory effectiveness.",
-    "container-title": "Internet Policy Review",
-    "DOI": "10.14763/2026.1.2079",
-    "issue": "1",
-    "language": "eng",
-    "license": "Creative Commons Attribution 3.0 Germany",
-    "note": "publisher: Alexander von Humboldt Institute for Internet and Society gGmbH\nDOI: 10.14763/2026.1.2079",
-    "page": "1-28",
-    "title": "Ruling by bullying: Threats of regulation as an internet governance device",
-    "title-short": "Ruling by bullying",
-    "URL": "https://policyreview.info/articles/analysis/threats-of-regulation",
-    "volume": "15",
-    "author": [
-      {
-        "family": "Álvarez Ugarte",
-        "given": "Ramiro"
-      }
-    ],
-    "accessed": {
-      "date-parts": [
-        [
-          "2026",
-          2,
-          11
-        ]
-      ]
-    },
-    "issued": {
-      "date-parts": [
-        [
-          "2026",
-          2,
-          9
-        ]
-      ]
-    }
+    "id": "layers",
+    "slug": "layers",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2020",
+    "title": "Layers of crises: when pandemics meet institutional and economic havoc",
+    "status": "published",
+    "citation": "<em>Layers of crises: when pandemics meet institutional and economic havoc</em>, en Global Data Justice and COVID-19 (2020). Editors: Linnet Taylor, Gargi Sharma, Aaron Martin and Shazade Jameson; London: Meatspace Press.",
+    "isbn": "978-1-913824-00-6",
+    "subjects": "law",
+    "comments": false,
+    "tag": "privacy",
+    "delivery_date": "2020-05-01",
+    "acceptance_date": "2020-07-07",
+    "abstract": "In Argentina, COVID-19 arrived late and gave the government a chance to prepare. It took that chance: for now, the contagion curve seems to be under control and after the enforcement of a country-wide lockdown, the health system seems to be coping well with the slow rise of cases. The situation is not, however, sustainable. The lockdown is battering an already heavily battered economy, and it is predictably and disproportionately affecting those who are worse off. Something will have to give. Entering the lockdown was easy, but it is increasingly difficult to see how and when we will get out. In that context, the state has simply insisted on old practices regarding the use of technology for governance purposes. In this brief comment I highlight two features of the emergency. The first is related to the constitutional structure that was adopted to produce the state of emergency itself. The second is related to the role that technology has played until now in the crisis, and the role that it may play in the future. I will argue that both features are connected."
   },
   {
-    "id": "rau2025",
-    "type": "article-journal",
-    "abstract": "This article argues that human rights impact assessments (HRIAs) in the technological sector are inherently handicapped by the voluntary approach to business and human rights in which they are conceptually and genealogically embedded. It argues that they are—by themselves—incapable of addressing the problems of vagueness, disagreement, and paradoxes that affect human rights law and the limited knowledge we have regarding the effects technology has on society. The former is a legal problem; the latter is epistemological. While neither of these obstacles, properly understood, are insurmountable, meeting them presents a few challenges. This article explains why and offers possible strategies and a path forward, based on a critique of the voluntary framework and its implied denial of human rights as legal concepts and institutions.",
-    "container-title": "Transnational Legal Theory",
-    "DOI": "10.1080/20414005.2025.2576430",
-    "issue": "4",
-    "language": "en",
-    "page": "611-635",
-    "source": "www.tandfonline.com",
-    "title": "Bad cover versions of law: on the inherent limits of voluntary human rights obligations, as applied to internet companies doing content moderation : Vol 16 , No 4 - Get Access",
-    "title-short": "Bad cover versions of law",
-    "URL": "https://www.tandfonline.com/doi/full/10.1080/20414005.2025.2576430",
-    "volume": "16",
-    "author": [
-      {
-        "family": "Álvarez Ugarte",
-        "given": "Ramiro"
-      }
+    "id": "comentario14",
+    "slug": "comentario14",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2019-06-01",
+    "title": "Comentario al Artículo 14: Libertad de Expresión",
+    "status": "published",
+    "citation": "<em>Comentario al Artículo 14 de la Constitución Nacional</em>, en R. Gargarella y S. Guidi, (eds), Constitución de la Nación Argentina, Comentada, Thompson-Reuters: Buenos Aires, 2018, págs. 246-269",
+    "file": "lde_v1.pdf",
+    "isbn": "978-987-03-3830-7",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "libertad de expresión"
     ],
-    "accessed": {
-      "date-parts": [
-        [
-          "2026",
-          2,
-          11
-        ]
-      ]
-    },
-    "issued": {
-      "date-parts": [
-        [
-          "2025",
-          10,
-          26
-        ]
-      ]
-    }
+    "abstract": "La libertad de prensa, de imprenta o de expresión constituye uno de los derechos fundamentales en una sociedad democrática. En términos de Carlos Nino, es un derecho *a priori* --- sin una adecuada protección y un clima favorable para su desarrollo, el sistema democrático, que supone elecciones libres y competitivas entre personas que se disputan el voto ciudadano mediante el debate público, no puede funcionar (Nino, 1996). \n\nEn la Argentina, este derecho recibió tradicionalmente una protección generosa. La Corte Suprema de Justicia de la Nación desarrolló, especialmente desde el retorno de la democracia, diversos estándares de protección inspirados en la idea fuerza de promover más deliberación y discusión sobre asuntos de interés público, bajo la creencia de que una sociedad democrática necesita de un debate libre, robusto, abierto y deshinibido. Asimismo, el sistema interamericano de derechos humanos ha desarrollado estándares sumamente ricos y vigorosos en defensa de la libertad de expresión. Este comentario se estructurará alrededor de esos estándares y de distinciones que conforman el núcleo esencial de la protección de este derecho en el ordenamiento jurídico argentino."
+  },
+  {
+    "id": "comentario32",
+    "slug": "comentario32",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2019-06-01",
+    "title": "Comentario al Artículo 32 de la Constitución Nacional",
+    "status": "Published",
+    "citation": "<em>Comentario al Artículo 32 de la Constitución Nacional</em>. en R. Gargarella y S. Guidi, (eds), Constitución de la Nación Argentina, Comentada, Thompson-Reuters: Buenos Aires, 2019, págs. 1004-1016",
+    "file": "art32_v2.pdf",
+    "isbn": "978-987-03-3830-7",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "libertad de expresión",
+      "historia constitucional"
+    ],
+    "abstract": "El artículo 32 de la Constitución es un agregado de la provincia de Buenos Aires durante las reformas de 1860 que permitieron su incorporación a la Confederación Argentina. Es, a primera vista, un agregado extraño --- trivial en tanto ratifica la protección consagrada en el artículo 14 a la libertad de prensa y contradictorio con disposiciones como el actual artículo 75.12 que habilita al Congreso Nacional la sanción de los códigos \"de fondo\". Este comentario argumenta que el artículo 32 debe ser leído como una garantía \"de federalismo\" más que como una cláusula protectora de derechos. Sostiene que fue un intento de Buenos Aires por resguardar lo que Lettieri (1999) llamó la \"república de opinión\", que hasta ese momento (y especialmente en los años inmediatamente anteriores) Buenos Aires había logrado construir. Además, cuenta la historia de cómo ésta lectura fue aceptada por la Corte Suprema hasta 1932, cuando cambió radicalmente su interpretación. Este comentario argumenta que ese cambio se debió a la culminación de una etapa histórica en el largo proceso de organización nacional."
+  },
+  {
+    "id": "lobby",
+    "slug": "lobby",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2018-07-01",
+    "title": "Democracya y lobby: un marco teórico",
+    "status": "Published",
+    "citation": "<em>Democracia y lobby: un marco teórico</em>. Revista Nueva Sociedad, No. 276, julio-agosto 2018 (pp. 62-72)",
+    "file": "2.TC.Alvarez_Ugarte276.pdf",
+    "issn": "0251-3552",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoria constitucional",
+      "teoria política"
+    ],
+    "abstract": "En los estudios sobre representación política, las elecciones son sólo un momento de la vida democrática y tal vez no el más importante. Un número creciente de miradas teóricas se enfoca en la dinámica del poder en ejercicio. Consideran que es allí donde se construye la legitimidad democrática en una era de cambios profundos. Este trabajo ofrece un marco teórico donde ubicar distintas prácticas democráticas que operan por fuera de la lógica electoral, con un especial foco en el lobby o el cabildeo legislativo y en el contexto de desigualdad estructural y sistémica que afecta a América Latina."
+  },
+  {
+    "id": "tareas_pendientes",
+    "slug": "tareas_pendientes",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2016-08-27",
+    "title": "Tareas pendientes para un constitucionalismo popular latinoamericano",
+    "status": "published",
+    "citation": "<em>Tareas pendientes para un constitucionalismo popular latinoamericano</em>, Revista Jurídica de la Universidad de San Andrés No. 3, 2016",
+    "issn": "2545-8817",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoria constitucional",
+      "constitucionalismo popular"
+    ],
+    "abstract": "Este trabajo parte de una hipótesis: existe una distancia considerable entre el pensamiento y la realidad constitucionales en América Latina. Mientras en nuestros países se consolidan liderazgos fuertes más o menos populistas, gran parte de las reflexiones del llamado \"neoconstitucionalismo\" giran en torno a los derechos y las formas de implementarlos de manera efectiva a través de los tribunales. Se trata de dos alternativas --populismos y tecnocracias judiciales-- que relegan a los ciudadanos a un rol secundario y son, por lo tanto, muy poco atractivas. Algunos autores han buscado recorrer otro camino inspirándose en el llamado constitucionalismo popular desarrollado en los últimos años por académicos de los Estados Unidos. Estas teorías buscan rescatar el rol del \"pueblo\" en el auto gobierno colectivo. Este trabajo sugiere que ese camino es posible pero está plagado de dificultades. Recorrerlo exige comprender el núcleo duro de la teoría del constitucionalismo popular y democrático y liberarlo de sus aspectos más provinciales. En este sentido, existe una serie de tareas pendientes que es necesario abordar antes de poder utilizar las teorías del constitucionalismo popular de un modo efectivo para explicar nuestras propias realidades y contextos."
+  },
+  {
+    "id": "clough2017",
+    "slug": "clough2017",
+    "type_content": "capitulos",
+    "author_display": "Juan González Bertomeu y Ramiro Álvarez Ugarte",
+    "date": "2016-06-01",
+    "title": "The I·CONnect-Clough Center 2017 Global Review of Constitutional Law: Argentina Report",
+    "status": "Published",
+    "citation": "The I·CONnect-Clough Center 2017 Global Review of Constitutional Law: Argentina Report. R Albert et al (eds), Clough Center for the Study of Constitutional Democracy. 2018",
+    "doi": "10.2139/ssrn.3215613",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "abstract": "In this short contribution, we will address the issue of the state of liberal democracy in the country by studying a selection of cases announced by the Supreme Court during 2017 and the politics surrounding them. Two reasons explain this focus. First, the last constitutional amendment in Argentina---to the 1853 Constitution, still in force---took place in 1994 and a new one is not expected soon. The Court has a very important role in constitutional argument or dialogue in the country. Second, the Court has recently undergone a change in personnel in the context of broader political change. This event provides an exceptional opportunity to explore possible jurisprudentials shifts in the making. Though it is still early to provide a conclusive judgment, the new members of the Court seem willing to revise the commitment to international human rights law (which is part of the domestic constitutional system) expressed in previous years."
+  },
+  {
+    "id": "clough2018",
+    "slug": "clough2018",
+    "type_content": "capitulos",
+    "author_display": "Juan González Bertomeu y Ramiro Álvarez Ugarte",
+    "date": "2016-06-01",
+    "title": "The I·CONnect-Clough Center 2018 Global Review of Constitutional Law: Argentina Report",
+    "status": "Published",
+    "citation": "The I·CONnect-Clough Center 2018 Global Review of Constitutional Law: Argentina Report. R Albert et al (eds), Clough Center for the Study of Constitutional Democracy. 2019",
+    "doi": "10.2139/ssrn.3471638",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "abstract": "In our 2017 report, we described a Supreme Court in flux. Early in 2016, two new justices joined a five-member Court against the background of broader political change.  We therein hinted at possible jurisprudential shifts, involving a redefinition of both the Court’s role in general and its standards on human rights law in particular. In 2017, an ostensibly minor decision but with heavy implications regarding the policies of memory, truth, and justice concerning human rights violations during the last dictatorship had invited strong popular backlash. In 2018, and after a legislative intervention, the Supreme Court revisited its decision, this time amidst turmoil within the Court itself. After an eleven-year tenure, Justice Lorenzetti was replaced in September as Court President by Justice Rosenkrantz, the member perceived to be most closely aligned with the national Executive. The move seems to have left strangled relationships within the Court and was followed by another power reconfiguration, what may partly account for the relative paucity of significant cases decided during the year. The most important development in constitutional politics, concerning the legalization of abortion, took place outside the courts."
+  },
+  {
+    "id": "comentarioLDE",
+    "slug": "comentarioLDE",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2016-06-01",
+    "title": "La libertad de expresión en la Constitución Nacional: Pluralismo y diversidad",
+    "status": "Published",
+    "citation": "<em>La libertad de expresión en la Constitución Nacional: Pluralismo y diversidad</em>, en Comentarios de la Constitución Argentina. Roberto Gargarella y Sebastián Guidi (eds.), La Ley: Buenos Aires, 2016, págs. 689-710",
+    "file": "PyD_4_final.pdf",
+    "isbn": "978-987-03-3057-8",
+    "subjects": "law",
+    "comments": false,
+    "tag": "law",
+    "abstract": "Este comentario al artículo 14 de la Constitución se concentra en los valores de \"pluralismo y diversidad\" del derecho a la libertad de expresión. Discute tres cuestiones: la regulación del mercado audiovisual, el uso de publicidad oficial o estatal como mecanismo de \"censura indirecta\", y la cuestión de los medios públicos."
+  },
+  {
+    "id": "protest",
+    "slug": "protest",
+    "type_content": "capitulos",
+    "author_display": "Roberto Gargarella y Ramiro Álvarez Ugarte",
+    "date": "2016-01-01",
+    "title": "Freedom of expression and social protest",
+    "status": "published",
+    "citation": "<em>Freedom of expression and social protest</em>, en J. González Bertomeu y R. Gargarella (eds), Latin American Casebook: Courts, Rights and the constitution. Rutledge, 2016.",
+    "isbn": 9781409469698,
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "libertad de expresion"
+    ],
+    "abstract": "Social protest is not new to Latin America; the continent is reputed for its high levels of mass mobilization and political activism. However, there is a novelty to the type of social protest that arose in the region over the last few decades, particularly in the late '90s. In that time, many (previously nonexistent) factors were combined to give way to very peculiar forms of social conflict."
+  },
+  {
+    "id": "aporia",
+    "slug": "aporia",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2014-06-01",
+    "title": "La aporía en la adjudicación constitucional",
+    "status": "published",
+    "citation": "<em>La aporía y la adjudicación constitucional</em>, en R. Gargarella (editor.), Por una justicia dialógica. El Poder Judicial como promotor de la deliberación democrática. Siglo XXI: Buenos Aires, 2014, págs. 321-343",
+    "file": "2014LibroDialogoRAU.pdf",
+    "isbn": 9789876294270,
+    "subjects": [
+      "teoria_constitucional"
+    ],
+    "comments": false,
+    "tag": [
+      "teoria constitucional",
+      "law"
+    ],
+    "abstract": "En un trabajo anterior (Álvarez Ugarte, 2012) abordé una pregunta que me resultaba interesante desde el punto de vista teórico: ¿Puede la Corte Suprema tener la última palabra en materia de interpretación constitucional? Concluí que, en un sentido relevante, no puede tenerla. El hecho del desacuerdo genera que las controversias más profundas que ocupan a una comunidad en un momento determinado sólo desaparezcan a través de complejos procesos culturales, en los que los jueces pueden intervenir de un modo significativo pero nunca resolver ni definitiva ni automáticamente.\n\nPara arribar a esa conclusión recurrí a trabajos que buscan recuperar el lugar del pueblo en la tarea colectiva de interpretación constitucional: sólo si a este actor---difuso, relevante---se le reconoce una función que cumplir en relación a la determinación del alcance de su Constitución es posible responder a mi pregunta desde una mirada teóricamente atractiva. Negar la capacidad de resolver los desacuerdos constitucionales a los jueces en general y a la la Corte Suprema en particular abre un espacio para pensar y valorar las formas que tienen los ciudadanos de influir en el sentido que le damos a nuestra Constitución en un momento dado. La distinción de Cover entre derecho como significado y como herramienta de control social se vuelve imprescindible para esa tarea, ya que revela y ayuda a comprender la capacidad creadora de derecho que reside en la ciudadanía. Por otro lado, los trabajos recientes del constitucionalismo popular y democrático explican cómo estos procesos ocurren en contextos determinados y a través de prácticas específicas.\n\nEn este trabajo profundizo mi análisis sobre una conclusión que sugerí en el trabajo anterior. Allí sostuve que la mirada que propongo respecto de la actividad de interpretación constitucional sugiere que la decisión sobre casos difíciles debería reconocer, de manera explícita, la complejidad de la controversia. Y que esa aproximación humilde hacia el conflicto debería favorecer una adjudicación constitucional que promueva el diálogo democrático sobre la cuestión.\n\nProcedo de la siguiente manera. En la primera parte exploro los fundamentos teóricos que sostienen la necesidad de una aproximación aporística a los casos difíciles. Aquí preciso mi punto de vista ante críticas y comentarios recibidos que, en mi opinión, subrayan la radicalidad de la propuesta de Cover. En la segunda parte expando mi análisis sobre posibles soluciones dialógicas que, según argumento, deben alcanzar a las decisiones judiciales pero deben excederlas ampliamente."
+  },
+  {
+    "id": "acceso",
+    "slug": "acceso",
+    "type_content": "capitulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2014-01-01",
+    "title": "El acceso a la información y el derecho a tener derechos: la información como garantía de participación política y defensa de los derechos humanos",
+    "status": "published",
+    "citation": "<em>El acceso a la información y el derecho a tener derechos</em>, en J.S. Elías, L. Grosman, S. Legarre y J.C. Rivera (h) (eds), Tratado de los Derechos Constitucionales, Abeledo-Perrot: Buenos Aires, 2014, T. II, pags. 179-203",
+    "isbn": "978-950-20-2602-2",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "acceso a la información"
+    ],
+    "abstract": "No recuerdo muy bien de qué va éste capítulo, y el libro quedó en una biblioteca alejada e inaccesible."
+  },
+  {
+    "id": "mirada",
+    "slug": "mirada",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2014-01-01",
+    "title": "Una Mirada desde los Movimientos Sociales al Pasado, Presente y Futuro de la Ley de Servicios de Comunicación Audiovisual",
+    "status": "published",
+    "citation": "<em>Una Mirada desde los Movimientos Sociales al Pasado, Presente y Futuro de la Ley de Servicios de Comunicación Audiovisual</em>, en Revista Argentina de Teoría Jurídica, Vol. 14, No. 1, julio de 2013",
+    "uri": "http://repositorio.utdt.edu/handle/utdt/10632",
+    "file": "RATJ_V14N1_AlvarezUgarte.pdf",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoria constitucional",
+      "constitucionalismo popular"
+    ],
+    "abstract": "Una perspectiva constructivista del derecho entiende que él no es solamente el producto del debate legislativo o de razonamientos judiciales: es el resultado de procesos culturales complejos en los que intervienen distintos actores sociales e institucionales, desde diferentes posiciones de jerarquía y poder y con distintos recursos a su disposición. Esta mirada se vincula con la cuestión de la “sala de máquinas del poder” (Gargarella, 2011) que entiendo como los mecanismos a través de los cuales nuestro ordenamiento jurídico distribuye el ejercicio del poder y el acceso a los procesos de toma de decisiones. Ese vínculo existe porque una mirada constructivista revela que actores que se creían sin poder tienen cierta capacidad de incidencia en los procesos políticos a través de lo que Scheingold (2004) llamó la política de los derechos, es decir, los reclamos que la sociedad civil hace frente al Estado por fuera de las relaciones de representación establecidas a través de elecciones y partidos políticos. Estos procesos suelen ser ignorados por parte de la teoría constitucional contemporánea, que concentra la mayor parte de su atención en las estructuras formales del Estado sin tener suficientemente en cuenta su permeabilidad ante distintos actores sociales. Este trabajo busca analizar la Ley de Servicios de Comunicación Audiovisual (LSCA) desde ese punto de vista."
+  },
+  {
+    "id": "dinamicas",
+    "slug": "dinamicas",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2012-01-01",
+    "title": "Dinámicas de acción y reacción en la Corte Suprema: una mirada al caso FAL sobre aborto no punible",
+    "status": "Published",
+    "citation": "<em>Dinámicas de acción y reacción en la Corte Suprema: una mirada al caso FAL sobre aborto no punible</em>, en Jurisprudencia Argentina, 11/7/12, JA 2012-III, fascículo n. 2, pág. 83, año 2012",
+    "file": "2012_Dinámicas_de_accion_y_reaccion.pdf",
+    "isbn": "978-20-2262-8",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoria constitucional",
+      "constitucionalismo popular",
+      "aborto"
+    ],
+    "abstract": "El caso Fuentes sobre aborto no punible representa, desde mi punto de vista, uno de los casos más difíciles que podía resolver la Corte Suprema argentina. Dio lugar a una fuerte reacción en contra de los gobernadores de La Pampa, Mendoza y Salta. El último prácticamente dijo que planeaba desobedecerlo en aspectos muy relevantes. Estas reacciones, el caso en sí y la forma en que está construida la decisión de la Corte son elementos que en conjunto presentan una buena oportunidad para analizar las dinámicas constitucionales que se desarrollan en casos complejos donde existe un fuerte desacuerdo social o con otros poderes. Procedo de la siguiente manera.\n\nEn la primera parte explico a qué me refiero con casos fáciles o difíciles y ofrezco una breve tipología de los mismos. Sostengo que este caso es uno de los casos más difíciles que actualmente se pueden presentar para la resolución del tribunal, pero está lejos de ser el más difícil de todos. En la segunda planteo el caso pensándolo como el comienzo de un proceso constitucional de interacciones entre distintos actores, que tendrán distintas posibilidades de acción y estrategias disponibles de cara al futuro, algo que analizo en la tercera parte. Finalmente ofrezco una breve conclusión."
+  },
+  {
+    "id": "esforzado",
+    "slug": "esforzado",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte y Micaela Finoli",
+    "date": "2012-01-01",
+    "title": "El esforzado diálogo de la Sociedad Civil con el Estado. La experiencia de la ADC en torno al acceso a la información",
+    "status": "Published",
+    "citation": "<em>El esforzado diálogo de la Sociedad Civil con el Estado. La experiencia de la ADC en torno al acceso a la información</em>, en Cuestión de Derechos, No.2, 1er semestre de 2012 (en coautoría con Micaela Finoli).",
+    "issn": "1853-6565",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "acceso a la información"
+    ],
+    "abstract": "El artículo reflexiona sobre la experiencia de la Asociación por los Derechos Civiles en el uso del acceso a la información como herramienta de defensa y promoción de los derechos humanos."
+  },
+  {
+    "id": "ultimapalabra",
+    "slug": "ultimapalabra",
+    "type_content": "articulos",
+    "author_display": "Ramiro Álvarez Ugarte",
+    "date": "2012-01-01",
+    "title": "El constitucionalismo popular y los problemas de la última palabra: Apuntes para un contexto Latinoamericano",
+    "status": "Published",
+    "citation": "<em>El constitucionalismo popular y los problemas de la última palabra: Apuntes para un contexto Latinoamericano</em>, en Revista Jurídica de la Universidad de Palermo, Año 13, No. 1, noviembre de 2012, págs. 75-125",
+    "file": "RAU_ultimapalabra.pdf",
+    "issn": "0328-5642",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "teoria constitucional",
+      "constitucionalismo popular"
+    ],
+    "abstract": "¿Es la Corte Suprema la intérprete final de la Constitución? Este trabajo argumenta que, en un sentido significativo, no lo es y no puede serlo: los grandes desacuerdos sociales subsisten por más que la Corte Suprema los resuelva con pretensiones de finalidad. Ellos desaparecen sólo en el marco de complejos procesos culturales en los que los tribunales intervienen de un modo relevante y trascendente, pero no definitivo o automático. Si esta hipótesis se sostiene, entonces esos desacuerdos permanecen y se expresan por distintos caminos que han sido explorados por el constitucionalismo popular o democrático. El trabajo plantea una mirada crítica sobre esas teorías, que tienden a idealizar los procesos existentes y a invisibilizar las limitaciones que ellos presentan y que son especialmente relevantes en el contexto de las democracias de América Latina. Finalmente, concluye que pensar más y mejores caminos para la expresión de nuestros desacuerdos normativos debería ser una parte fundamental de nuestra agenda constitucional."
+  },
+  {
+    "id": "inteligencia",
+    "slug": "inteligencia",
+    "type_content": "articulos",
+    "author_display": "Alejandra Negrete Morayta y Ramiro Álvarez Ugarte",
+    "date": "2011-01-01",
+    "title": "Inteligencia, Democracia y Acceso a la Información, en La Ley 2011-E, pág. 398, año 2011",
+    "status": "Published",
+    "citation": "<em>Inteligencia, Democracia y Acceso a la Información</em>, en La Ley 2011-E, pág. 398, año 2011",
+    "file": "RAU_Inteligencia.pdf",
+    "subjects": "law",
+    "comments": false,
+    "tag": [
+      "acceso a la información",
+      "inteligencia"
+    ],
+    "abstract": "El trabajo analiza la sentencia de la Corte Interamericana de Derechos Humanos en el caso *Gomes Lund y otros (Guerrilha do Araguaia) vs. Brasil*, decidido el 24 de noviembre de 20101. La decisión de la Corte es relevante por varios motivos. Primero, porque pudo aplicó por primera vez a Brasil su asentada jurisprudencia sobre violaciones masivas de derechos humanos durante gobiernos autoritarios y declaró inválida la ley de amnistía dictada por el gobierno militar en 1979. En segundo lugar, la sentencia afronta la espinosa cuestión del acceso a la información de archivos militares, en especial, en relación a violaciones masivas de derechos humanos, y presenta importantes avances a este respecto3. Finalmente, la sentencia implica un gran avance para la lucha por la verdad y la justicia de las víctimas de la respresión ilegal en Brasil."
   }
 ]

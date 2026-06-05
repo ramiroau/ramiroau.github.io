@@ -3,7 +3,7 @@
 {{- define "content" }}
 
 {{ $baseurl := .Site.BaseURL }}
-{{ $pubpages := where .Data.Pages "File.Dir" "ne" "publicaciones/autonomous-items/" }}
+{{ $pubpages := .RegularPages }}
 
 <div class="content-wrapper">
   <div id="content" class="content">
@@ -26,7 +26,7 @@
 {{ range $working.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Resumen</a> 
-  {{ if isset .Params "file" }}
+  {{ if .Params.file }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
@@ -38,7 +38,7 @@
 {{ range $forthcoming.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Resumen</a> 
-  {{ if isset .Params "file" }}
+  {{ if .Params.file }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
@@ -51,7 +51,7 @@
 {{ range $articles.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Resumen</a> 
-  {{ if isset .Params "file" }}
+  {{ if .Params.file }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
@@ -65,7 +65,7 @@
 {{ if ne .Params.kind "book" }}
 <p>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Abstract</a> 
-  {{ if isset .Params "file" }}
+  {{ if .Params.file }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
@@ -79,7 +79,7 @@
 {{ range $reviews.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Resumen</a> 
-  {{ if isset .Params "file" }}
+  {{ if .Params.file }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>
@@ -91,7 +91,7 @@
 {{ range $retired.ByPublishDate.Reverse }}
 <p>{{ .Params.citation | safeHTML }} 
   <a href="{{ .RelPermalink }}">/ Resumen</a> 
-  {{ if isset .Params "file" }}
+  {{ if .Params.file }}
   <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}">/ PDF</a>
   {{ end }}
 </p>

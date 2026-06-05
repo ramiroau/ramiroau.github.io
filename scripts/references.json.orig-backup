@@ -1,0 +1,168 @@
+[
+  {
+    "id": "rau2023",
+    "type": "article-journal",
+    "abstract": "El trabajo discute las contribuciones publicadas en \"Social Rights and the Constitutional Moment. Learning from Chile and International Experiences\" (Casla, Sepúlveda, Silva and Contreras, 2022), desde el punto de vista del proceso constituyente chileno y a la luz del resultado del plebiscito del 4 de septiembre de 2022, en el que una abrumadora mayoría de ciudadanos chilenos rechazaron el proyecto de nueva Constitución. Subraya lo relevante de las contribuciones a pensar en procesos constituyentes desde el punto de vista de los derechos económicos, sociales,  y culturales (DESC) pero---a la vez---plantea los necesarios límites que ellos implican si no se abordan las causas profundas de las insatisfacciones democráticas de nuestros días.",
+    "container-title": "Revista Internacional de Derechos Humanos",
+    "ISSN": "2422-7188",
+    "issue": "1",
+    "language": "es",
+    "license": "Derechos de autor 2023 Revista Internacional de Derechos Humanos",
+    "note": "number: 1",
+    "page": "137-155",
+    "source": "ojs.austral.edu.ar",
+    "title": "Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences",
+    "title-short": "Esperanza y desilusión en el momento constitucional chileno",
+    "URL": "https://ojs.austral.edu.ar/index.php/ridh/article/view/966",
+    "volume": "13",
+    "author": [
+      {
+        "family": "Álvarez Ugarte",
+        "given": "Ramiro"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2024",
+          12,
+          13
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2023",
+          3,
+          14
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rau2020",
+    "type": "chapter",
+    "abstract": "In Argentina, COVID-19 arrived late and gave the government a chance to prepare. It took that chance: for now, the contagion curve seems to be under control and after the enforcement of a country-wide lockdown, the health system seems to be coping well with the slow rise of cases. The situation is not, however, sustainable. The lockdown is battering an already heavily battered economy, and it is predictably and disproportionately affecting those who are worse off. Something will have to give. Entering the lockdown was easy, but it is increasingly difficult to see how and when we will get out. In that context, the state has simply insisted on old practices regarding the use of technology for governance purposes. In this brief comment I highlight two features of the emergency. The first is related to the constitutional structure that was adopted to produce the state of emergency itself. The second is related to the role that technology has played until now in the crisis, and the role that it may play in the future. I will argue that both features are connected.",
+    "container-title": "Data Justice and COVID-19: Global Perspectives",
+    "edition": "1st",
+    "event-place": "London, UK",
+    "ISBN": "978-1-913824-01-3",
+    "language": "en",
+    "note": "Google-Books-ID: rGLQzQEACAAJ",
+    "publisher": "Meatspace Press",
+    "publisher-place": "London, UK",
+    "source": "Google Books",
+    "title": "Layers of crises: when pandemics meet institutional and economic havoc",
+    "container-author": [
+      {
+        "family": "Taylor",
+        "given": "Linnet"
+      },
+      {
+        "family": "Sharma",
+        "given": "Gargi"
+      },
+      {
+        "family": "Martin",
+        "given": "Aaron"
+      },
+      {
+        "family": "Jameson",
+        "given": "Shazade"
+      }
+    ],
+    "author": [
+      {
+        "family": "Álvarez Ugarte",
+        "given": "Ramiro"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2020"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rau2026",
+    "type": "article-journal",
+    "abstract": "Government by regulation structures how constitutional democracies normally operate. Legislatures and executive agencies enact formal rules that govern conduct, embodying the ideal of government by laws rather than by individuals. Yet regulators also govern through threats of regulation. When public officials seek to alter private behavior, they may warn regulated actors that failure to comply will trigger new or stricter rules. These warnings can achieve regulatory goals without the adoption of formal rules. Because officials often issue such threats in informal, private communications, the practice escapes public scrutiny and challenges the dominant model of democratic rule-making, which assumes open deliberation by accountable institutions. This paper theorizes threats of regulation as a governance device that remains largely invisible to outsiders but offers significant advantages to regulators. Although United States courts attempt to distinguish unlawful coercion from permissible persuasion, they struggle to enforce these boundaries in practice. The paper argues that increasing transparency in routine communications between regulators and corporate actors would reduce the risk of abuse while preserving regulatory effectiveness.",
+    "container-title": "Internet Policy Review",
+    "DOI": "10.14763/2026.1.2079",
+    "issue": "1",
+    "language": "eng",
+    "license": "Creative Commons Attribution 3.0 Germany",
+    "note": "publisher: Alexander von Humboldt Institute for Internet and Society gGmbH\nDOI: 10.14763/2026.1.2079",
+    "page": "1-28",
+    "title": "Ruling by bullying: Threats of regulation as an internet governance device",
+    "title-short": "Ruling by bullying",
+    "URL": "https://policyreview.info/articles/analysis/threats-of-regulation",
+    "volume": "15",
+    "author": [
+      {
+        "family": "Álvarez Ugarte",
+        "given": "Ramiro"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          2,
+          11
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2026",
+          2,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rau2025",
+    "type": "article-journal",
+    "abstract": "This article argues that human rights impact assessments (HRIAs) in the technological sector are inherently handicapped by the voluntary approach to business and human rights in which they are conceptually and genealogically embedded. It argues that they are—by themselves—incapable of addressing the problems of vagueness, disagreement, and paradoxes that affect human rights law and the limited knowledge we have regarding the effects technology has on society. The former is a legal problem; the latter is epistemological. While neither of these obstacles, properly understood, are insurmountable, meeting them presents a few challenges. This article explains why and offers possible strategies and a path forward, based on a critique of the voluntary framework and its implied denial of human rights as legal concepts and institutions.",
+    "container-title": "Transnational Legal Theory",
+    "DOI": "10.1080/20414005.2025.2576430",
+    "issue": "4",
+    "language": "en",
+    "page": "611-635",
+    "source": "www.tandfonline.com",
+    "title": "Bad cover versions of law: on the inherent limits of voluntary human rights obligations, as applied to internet companies doing content moderation : Vol 16 , No 4 - Get Access",
+    "title-short": "Bad cover versions of law",
+    "URL": "https://www.tandfonline.com/doi/full/10.1080/20414005.2025.2576430",
+    "volume": "16",
+    "author": [
+      {
+        "family": "Álvarez Ugarte",
+        "given": "Ramiro"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2026",
+          2,
+          11
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2025",
+          10,
+          26
+        ]
+      ]
+    }
+  }
+]

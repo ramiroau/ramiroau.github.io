@@ -1,0 +1,42 @@
+{{/*
+  Content adapter: generate one publicaciones page per references.json entry.
+  references.json is the single source of truth for this section (no per-item
+  .md files). Each entry's `slug` preserves the historical URL.
+*/}}
+{{ $refs := readFile "content/publicaciones/references.json" | transform.Unmarshal }}
+{{ range $refs }}
+  {{ $slug := .slug }}
+  {{ if $slug }}
+    {{ $params := dict
+        "citation" (default "" .citation)
+        "author"   (default "Ramiro Álvarez Ugarte" .author_display)
+        "doi"      (default "" .doi)
+        "ssrn"     (default "" .ssrn)
+        "file"     (default "" .file)
+        "uri"      (default "" .uri)
+        "subjects" (default "" .subjects)
+        "kind"     (default "" .kind)
+        "status"   (default "" .status)
+        "pages"    (default "" .pages)
+        "isbn"     (default "" .isbn)
+        "issn"     (default "" .issn)
+        "tag"      (default "" .tag)
+    }}
+    {{ $page := dict
+        "path"   $slug
+        "kind"   "page"
+        "type"   (default "articulos" .type_content)
+        "title"  (default $slug .title)
+        "params" $params
+    }}
+    {{ with .date }}
+      {{ $d := . }}
+      {{ if eq (len $d) 4 }}{{ $d = printf "%s-01-01" $d }}{{ else if eq (len $d) 7 }}{{ $d = printf "%s-01" $d }}{{ end }}
+      {{ $page = merge $page (dict "date" (time.AsTime $d)) }}
+    {{ end }}
+    {{ with .abstract }}
+      {{ $page = merge $page (dict "content" (dict "mediaType" "text/markdown" "value" .)) }}
+    {{ end }}
+    {{ $.AddPage $page }}
+  {{ end }}
+{{ end }}

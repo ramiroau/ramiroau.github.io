@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(xargs cat:*)",
+      "Bash(xargs ls:*)",
+      "Bash(chmod +x:*)",
+      "Bash(make build:*)",
+      "Bash(git add:*)",
+      "Bash(git reset:*)",
+      "Bash(git diff:*)",
+      "Bash(find:*)",
+      "Bash(xargs -I {} du -sh {})",
+      "Bash(gh api:*)",
+      "Bash(git rm:*)",
+      "Bash(xxd \"/Users/ramiroalvarezugarte/Library/CloudStorage/Dropbox/Site/blog/content/etc/taller_escritura_academica.md\")",
+      "Bash(xxd)",
+      "Bash(sed:*)",
+      "Bash(grep -E \"\\\\.md$\")",
+      "Read(//private/tmp/hugo-test-build/etc/wikis/**)",
+      "Read(//private/tmp/hugo-test-build/etc/wikis/cocina/**)",
+      "Bash(mdls *)",
+      "Bash(echo \"EXIT: $?\")"
+    ]
+  }
+}
