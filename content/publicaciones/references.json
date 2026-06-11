@@ -11,25 +11,6 @@
     "abstract": "En diciembre de 2023, a pocos días de asumir la presidencia, Javier Milei eliminó el Ministerio de las Mujeres, Géneros y Diversidad. Meses después, el INADI fue disuelto por decreto. Avanzó ---por medio de decretos y luego por medio de una ley--- sobre los derechos laborales, adelantando una reforma significativa y regresiva. Estas medidas, ataques frontales sobre la arquitectura institucional de derechos fundamentales, generaron una reacción social más bien tibia. Este ensayo parte de una pregunta incómoda: ¿por qué el desmantelamiento de derechos e instituciones encargadas de protegerlos ocurrió sin una resistencia social masiva? La respuesta que propongo es que el discurso de los derechos ---el *rights-talk* como gramática política central y hegemónica--- atraviesa una crisis profunda, que no se explica sólo por la reacción conservadora sino también por los fracasos acumulados de los derechos como instrumentos de gobernanza. Este ensayo explora esta idea y ofrece, tentativamnete, evidencia sobre su plausibilidad."
   },
   {
-    "id": "regulatory_threats",
-    "slug": "regulatory_threats",
-    "type_content": "articulos",
-    "author_display": "Ramiro Álvarez Ugarte",
-    "date": "2026-02-09",
-    "title": "Ruling by bullying: Threats of regulation as an internet governance device",
-    "status": "published",
-    "citation": "<em>Ruling by bullying: Threats of regulation as an internet governance device</em>. Internet Policy Review, Vol. 15, No. 1 (2026)",
-    "doi": "10.14763/2026.1.2079",
-    "subjects": "law",
-    "comments": false,
-    "tag": [
-      "governance"
-    ],
-    "delivery_date": "2024-10-03",
-    "acceptance_date": "2025-08-23",
-    "abstract": "Government by regulation structures how constitutional democracies normally operate. Legislatures and executive agencies enact formal rules that govern conduct, embodying the ideal of government by laws rather than by individuals. Yet regulators also govern through threats of regulation. When public officials seek to alter private behavior, they may warn regulated actors that failure to comply will trigger new or stricter rules. These warnings can achieve regulatory goals without the adoption of formal rules. Because officials often issue such threats in informal, private communications, the practice escapes public scrutiny and challenges the dominant model of democratic rule-making, which assumes open deliberation by accountable institutions. This paper theorizes threats of regulation as a governance device that remains largely invisible to outsiders but offers significant advantages to regulators. Although United States courts attempt to distinguish unlawful coercion from permissible persuasion, they struggle to enforce these boundaries in practice. The paper argues that increasing transparency in routine communications between regulators and corporate actors would reduce the risk of abuse while preserving regulatory effectiveness."
-  },
-  {
     "page": "1-28",
     "author": [
       {
@@ -77,59 +58,6 @@
     "doi": "10.14763/2026.1.2079",
     "uri": "https://policyreview.info/articles/analysis/threats-of-regulation",
     "pages": "1-28",
-    "subjects": "law",
-    "comments": false,
-    "tag": [
-      "governance"
-    ]
-  },
-  {
-    "source": "www.tandfonline.com",
-    "page": "611-635",
-    "author": [
-      {
-        "family": "Álvarez Ugarte",
-        "given": "Ramiro"
-      }
-    ],
-    "accessed": {
-      "date-parts": [
-        [
-          "2026",
-          2,
-          11
-        ]
-      ]
-    },
-    "URL": "https://www.tandfonline.com/doi/full/10.1080/20414005.2025.2576430",
-    "volume": "16",
-    "issue": "4",
-    "container-title": "Transnational Legal Theory",
-    "abstract": "## Abstract\n\nThis article argues that human rights impact assessments (HRIAs) in the technological sector are inherently handicapped by the voluntary approach to business and human rights in which they are conceptually and genealogically embedded. It argues that they are—by themselves—incapable of addressing the problems of vagueness, disagreement, and paradoxes that affect human rights law and the limited knowledge we have regarding the effects technology has on society. The former is a legal problem; the latter is epistemological. While neither of these obstacles, properly understood, are insurmountable, meeting them presents a few challenges. This article explains why and offers possible strategies and a path forward, based on a critique of the voluntary framework and its implied denial of human rights as legal concepts and institutions.",
-    "type": "article-journal",
-    "title-short": "Bad cover versions of law",
-    "language": "en",
-    "DOI": "10.1080/20414005.2025.2576430",
-    "issued": {
-      "date-parts": [
-        [
-          "2025",
-          10,
-          26
-        ]
-      ]
-    },
-    "id": "rau2025",
-    "slug": "bad-cover-versions-of-law",
-    "type_content": "articulos",
-    "author_display": "Ramiro Álvarez Ugarte",
-    "date": "2025-10-26",
-    "title": "Bad cover versions of law: on the inherent limits of voluntary human rights obligations, as applied to internet companies doing content moderation : Vol 16 , No 4 - Get Access",
-    "status": "published",
-    "citation": "<em>Bad cover versions of law: on the inherent limits of voluntary human rights obligations, as applied to internet companies doing content moderation : Vol 16 , No 4 - Get Access</em>, Transnational Legal Theory, Vol. 16, No. 4 (2025)",
-    "doi": "10.1080/20414005.2025.2576430",
-    "uri": "https://www.tandfonline.com/doi/full/10.1080/20414005.2025.2576430",
-    "pages": "611-635",
     "subjects": "law",
     "comments": false,
     "tag": [
