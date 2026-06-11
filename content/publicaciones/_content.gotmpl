@@ -32,7 +32,8 @@
     {{ with .date }}
       {{ $d := . }}
       {{ if eq (len $d) 4 }}{{ $d = printf "%s-01-01" $d }}{{ else if eq (len $d) 7 }}{{ $d = printf "%s-01" $d }}{{ end }}
-      {{ $page = merge $page (dict "date" (time.AsTime $d)) }}
+      {{ $t := time.AsTime $d }}
+      {{ $page = merge $page (dict "dates" (dict "date" $t "publishDate" $t "lastmod" $t)) }}
     {{ end }}
     {{ with .abstract }}
       {{ $page = merge $page (dict "content" (dict "mediaType" "text/markdown" "value" .)) }}

@@ -20,7 +20,9 @@
       "Read(//private/tmp/hugo-test-build/etc/wikis/**)",
       "Read(//private/tmp/hugo-test-build/etc/wikis/cocina/**)",
       "Bash(mdls *)",
-      "Bash(echo \"EXIT: $?\")"
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -)"
     ]
   }
 }
