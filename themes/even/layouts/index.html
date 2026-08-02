@@ -18,7 +18,7 @@
 
 
 <li>{{ .Params.citation | safeHTML }} <a href="{{ .RelPermalink }}"> / Resumen</a>
-              {{ if isset .Params "file" }}<a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}"> / PDF</a>{{ end }}
+              {{ with .Params.file }}<a href="{{ $.Site.BaseURL }}files/papers/{{ . }}"> / PDF</a>{{ end }}
 {{ end }}</li>
 
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/mine.css">

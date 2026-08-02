@@ -22,7 +22,13 @@
       "Bash(mdls *)",
       "Bash(echo \"EXIT: $?\")",
       "Bash(python3 -c ' *)",
-      "Bash(python3 -)"
+      "Bash(python3 -)",
+      "Bash(git mv *)",
+      "Bash(mv static/files/papers/rese*a.pdf static/files/papers/resena_chile.pdf)",
+      "Bash(cp content/publicaciones/references.json __TRACKED_VAR__/refs.bak.json)",
+      "Bash(cp content/publicaciones/references.json /private/tmp/claude-501/-Users-ramiroalvarezugarte-Library-CloudStorage-Dropbox-Site-blog/61efb683-f76c-4280-bd40-53f0b0710723/scratchpad/references.before-merge.json)",
+      "Bash(grep -Ei \"^chile|^layers$|resen\")",
+      "Bash(sed -n '/<h2>Reseñas<\\\\/h2>/,/<h2>/p' public/publicaciones/index.html)"
     ]
   }
 }

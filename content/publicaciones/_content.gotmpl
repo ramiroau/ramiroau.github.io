@@ -1,18 +1,42 @@
 {{/*
   Content adapter: generate one publicaciones page per references.json entry.
   references.json is the single source of truth for this section (no per-item
-  .md files). Each entry's `slug` preserves the historical URL.
+  .md files). Each entry's `slug` preserves the historical URL; when duplicate
+  entries are merged, the retired slugs go in `aliases` so their URLs redirect.
+
+  PDFs: an entry advertises a downloadable PDF with `"file": "nombre.pdf"`,
+  naming a file in static/files/papers/. Entries without that key — or naming a
+  file that isn't on disk — get no `file` param at all, so templates render no
+  PDF link. A named-but-missing file logs a build warning instead of silently
+  producing a dead link.
+
+  The name is matched byte-for-byte against the real directory listing rather
+  than with os.FileExists, which on macOS ignores Unicode normalization: a JSON
+  entry saying "reseña.pdf" (NFC) matched a file stored as NFD locally and then
+  404'd once deployed to Linux. Prefer plain-ASCII filenames.
 */}}
 {{ $refs := readFile "content/publicaciones/references.json" | transform.Unmarshal }}
+{{ $papers := slice }}
+{{ range os.ReadDir "static/files/papers" }}
+  {{ $papers = $papers | append .Name }}
+{{ end }}
 {{ range $refs }}
   {{ $slug := .slug }}
   {{ if $slug }}
+    {{ $file := "" }}
+    {{ with .file }}
+      {{ if in $papers . }}
+        {{ $file = . }}
+      {{ else }}
+        {{ warnf "publicaciones: %q declara file %q pero no existe en static/files/papers/ — no se renderiza el enlace al PDF" $slug . }}
+      {{ end }}
+    {{ end }}
     {{ $params := dict
         "citation" (default "" .citation)
         "author"   (default "Ramiro Álvarez Ugarte" .author_display)
         "doi"      (default "" .doi)
         "ssrn"     (default "" .ssrn)
-        "file"     (default "" .file)
+        "file"     $file
         "uri"      (default "" .uri)
         "subjects" (default "" .subjects)
         "kind"     (default "" .kind)
@@ -23,11 +47,12 @@
         "tag"      (default "" .tag)
     }}
     {{ $page := dict
-        "path"   $slug
-        "kind"   "page"
-        "type"   (default "articulos" .type_content)
-        "title"  (default $slug .title)
-        "params" $params
+        "path"    $slug
+        "kind"    "page"
+        "type"    (default "articulos" .type_content)
+        "title"   (default $slug .title)
+        "aliases" (default (slice) .aliases)
+        "params"  $params
     }}
     {{ with .date }}
       {{ $d := . }}

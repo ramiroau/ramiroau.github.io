@@ -2,9 +2,10 @@
   {
     "id": "democrata",
     "slug": "democrata",
-    "type_content": "en_prensa",
+    "type_content": "articulos",
     "author_display": "Ramiro Álvarez Ugarte",
     "date": "2026-06-05",
+    "file": "4.pdf",
     "title": "La crisis de los derechos: del conjuro a la trampa",
     "status": "draft",
     "citation": "<em>La crisis de los derechos: del conjuro a la trampa</em>, Demócrata, Vol. 2., No. 1 (papeles de trabajo del Proyecto de Unidad Ejecutora del Instituto de Investigaciones Políticas (IIP) de la Universidad Nacional de San Martín, Conicet, Junio de 2026.",
@@ -264,24 +265,6 @@
     "abstract": "Human Rights Impact Assessments (HRIA) have become an important tool of corporate governance in the field of business and human rights, and—thus—have been embraced by companies in the ICT sector. This was to an extent predictable: for quite some time now, Internet companies have been accused of violating human rights through action or omission. In this context, HRIAs appear as a procedural mechanism that may help them make better decisions and, at least, curb criticism. This paper seeks to contribute to inquiries into this development by highlighting the regulatory context in which HRIAs emerged within the ICT sector, the institutional history of the tool, its ambiguous genealogy, and the challenges and opportunities for its usage in Latin America."
   },
   {
-    "id": "chile",
-    "slug": "chile",
-    "type_content": "articulos",
-    "author_display": "Ramiro Álvarez Ugarte",
-    "date": "2023-03-14",
-    "title": "Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences",
-    "status": "published",
-    "citation": "<em>Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences</em>. Revista Internacional de Derechos Humanos, vol. 13 No. 1, 137-155 (2023).",
-    "file": "reseña.pdf",
-    "issn": "2422-7188",
-    "subjects": "law",
-    "comments": false,
-    "tag": [
-      "reforma constitucional"
-    ],
-    "abstract": "El presente trabajo aborda el desafío que la temporalidad democrática presenta para la política económica de una sociedad ordenada. Me refiero por ello a los incentivos que las elecciones periódicas crean en nuestros representantes, que los llevan---en ocasiones---a tomar decisiones equivocadas o postergar decisiones correctas. Si bien es un problema que existe en todo el mundo, en algunos países de América Latina perece especialmente agudo. Abordarlo supone mapear infraestructuras institucionales formales e informales que lidian con este problema en perspectiva comparada. También supone ejercitar la imaginación constitucional para ver cómo esas experiencias pueden ayudarnos a resolver el problema de fondo. El trabajo sigue una estrategia inductiva, partiendo de una serie de problemas sistémicos---especialmente agudos en algunos países de América Latina---que son causados por dinámicas propias de la democracias. Luego se abordan soluciones de derecho comparado que suponen cierta restricción de la democracia desde puntos de vista constitucionalistas. La última sección imagina soluciones expansivas de la demoracia, que parecen más prometedoras en un contexto de crisis de elites como el de los últimos años."
-  },
-  {
     "source": "ojs.austral.edu.ar",
     "page": "137-155",
     "author": [
@@ -306,7 +289,7 @@
     "ISSN": "2422-7188",
     "issue": "1",
     "container-title": "Revista Internacional de Derechos Humanos",
-    "abstract": "## Abstract\n\nEl trabajo discute las contribuciones publicadas en \"Social Rights and the Constitutional Moment. Learning from Chile and International Experiences\" (Casla, Sepúlveda, Silva and Contreras, 2022), desde el punto de vista del proceso constituyente chileno y a la luz del resultado del plebiscito del 4 de septiembre de 2022, en el que una abrumadora mayoría de ciudadanos chilenos rechazaron el proyecto de nueva Constitución. Subraya lo relevante de las contribuciones a pensar en procesos constituyentes desde el punto de vista de los derechos económicos, sociales,  y culturales (DESC) pero---a la vez---plantea los necesarios límites que ellos implican si no se abordan las causas profundas de las insatisfacciones democráticas de nuestros días.",
+    "abstract": "El presente trabajo aborda el desafío que la temporalidad democrática presenta para la política económica de una sociedad ordenada. Me refiero por ello a los incentivos que las elecciones periódicas crean en nuestros representantes, que los llevan---en ocasiones---a tomar decisiones equivocadas o postergar decisiones correctas. Si bien es un problema que existe en todo el mundo, en algunos países de América Latina perece especialmente agudo. Abordarlo supone mapear infraestructuras institucionales formales e informales que lidian con este problema en perspectiva comparada. También supone ejercitar la imaginación constitucional para ver cómo esas experiencias pueden ayudarnos a resolver el problema de fondo. El trabajo sigue una estrategia inductiva, partiendo de una serie de problemas sistémicos---especialmente agudos en algunos países de América Latina---que son causados por dinámicas propias de la democracias. Luego se abordan soluciones de derecho comparado que suponen cierta restricción de la democracia desde puntos de vista constitucionalistas. La última sección imagina soluciones expansivas de la demoracia, que parecen más prometedoras en un contexto de crisis de elites como el de los últimos años.",
     "type": "article-journal",
     "title-short": "Esperanza y desilusión en el momento constitucional chileno",
     "language": "es",
@@ -321,19 +304,26 @@
     },
     "id": "rau2023",
     "slug": "esperanza-y-desilusion-en-el-momento-constitucional-chileno",
-    "type_content": "articulos",
+    "type_content": "reviews",
     "author_display": "Ramiro Álvarez Ugarte",
     "date": "2023-03-14",
     "title": "Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences",
     "status": "published",
-    "citation": "<em>Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences</em>, Revista Internacional de Derechos Humanos, Vol. 13, No. 1 (2023)",
+    "citation": "<em>Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences</em>. Revista Internacional de Derechos Humanos, vol. 13 No. 1, 137-155 (2023).",
     "uri": "https://ojs.austral.edu.ar/index.php/ridh/article/view/966",
     "issn": "2422-7188",
     "pages": "137-155",
     "subjects": "law",
     "comments": false,
     "tag": [
-      "governance"
+      "governance",
+      "reforma constitucional",
+      "law"
+    ],
+    "file": "resena_chile.pdf",
+    "aliases": [
+      "chile",
+      "reseña_chile"
     ]
   },
   {
@@ -363,21 +353,6 @@
     "comments": false,
     "tag": "law",
     "abstract": "When criminalized, abortion has always and everywhere been an underenforced prohibition. Women throughout history who have found themselves pregnant and unwilling to carry the pregnancy to term have found ways of interrupting the process, under the protection of liberal legal frameworks or under the brutal conditions of illegal markets. In these all too normal scenarios, the gap between what the law said in the books and how it operated in practice has always been significant [@luna2000, 523]. This paper seeks to describe the mechanisms employed by Argentinean judges to deal with this undertheorized operation of legal systems in the context of prosecutions for criminal abortions. It is based on a systematic review of judicial decisions on abortion since 1918---the year the first law report was published---to the 1980s, when the legalization of abortion became a social movement demand. It proceeds in the following way. \n\nThe first section discusses the issue of lawful departures from legal rules by public officials and lawless judging [@kadish1973; @brand2010]. By considering that under certain conditions public officials (including judges) are justified to act contrary to clear legal commands, this narrow and borderline issue poses difficult challenges to strong ideologies of the rule law, to entrenched role moralities regarding judges, and to the proper locus of democratic law-making authority. But from an external point of view, the less-than-perfect enforcement of certain rules implied in the possibility of departure is not a bug but a feature of most modern legal systems. It is not far-fetched to argue that the underenforcement of criminal provision is the normal situation in any democratic society. This section discusses previous research on the topic with the purpose of identifying the special place of judges in the law-enforcement apparatus *vis-à-vis* this phenomenon, specially in criminal systems with professional judges in charge of assigning guilt and punishment. \n\nThe second section discusses the issue of nonenforcement and underenforcement of vice laws, under which abortion ciminal statutes have generally been filed. This issue is closely related to the rich literature on deviance, and on the use of criminal law for symbolic purposes [@becker1967; @gusfield1968]. This brief discussion frames criminal abortion statutes within a broader set of usages of criminal law. Thus, it sets the groundwork for the empirical inquiry that follows. \n\nThe third section discusses the way the data was gathered and how it was analyzed. It also discusses alternative methodological approaches that were considered but not followed. The systematic review of law journals followed for this inquiry produced a rather complete picture of what the legal field considered important in the period, while failing to reveal the full scope of actual judicial practices. However, the decisions gathered are informative of the factual patterns that systematically led some women (and not others) to be judged. It described how the law-enforcement apparatus worked (and how it failed to work). These decisions also reveal the shifting doctrinal reasons given by judges to limit the reach of criminal punishment, shifts that happened---I pose---at the pace of rapid social change. \n\nThe fourth section presents the findings and analyzes the data. Throughout the 20th century, Argentinean criminal judges built doctrinal walls around these crimes to prevent punishing women who interrupted their pregnancies, either too harshly or altogether. In a first stage, adhering to strict evidentiary thresholds, they simply considered that abortion was a crime that was impossible to prove beyond a reasonable doubt, for in most cases it was impossible to demonstrate that an indicted woman was indeed pregnant when abortion maneauvers were carried out. When technological change made identifying pregnancies slightly more certain, they insisted that the evidentiary threshold to produce a criminal conviction had not been met. But in the 1960s those reasons shifted from matters of evidence to matters of principle: a handful of judges from the city of Buenos Aires began to question the patterns that only led poor women to be criminalized for interrupting their pregnancies. In doing so, they implicitly questioned the validity of criminalization *tout court*, thus anticipating liberalization arguments that would be deployed by women's rigths advocates a decade later. These handufl of judges inaugurated a period of intense judicial disagreement that foreshadowed the process of repolitization the rule experienced through the 1980s, 1990s and 2000s [@post2010, 1343]. The fifth and final section offers a brief conclusion and discusses the theoretical significance of these findings."
-  },
-  {
-    "id": "reseña_chile",
-    "slug": "reseña_chile",
-    "type_content": "reviews",
-    "author_display": "Ramiro Álvarez Ugarte",
-    "date": "2023",
-    "title": "Esperanza y desilusión en el momento constitucional chileno",
-    "status": "Published",
-    "citation": "Esperanza y desilusión en el momento constitucional chileno: Reseña de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences, Revista Internacional de Derechos Humanos, vol. 13, No. 1, 137-155 (2023)",
-    "uri": "https://riu.austral.edu.ar/handle/123456789/2227",
-    "subjects": "law",
-    "comments": false,
-    "tag": "law",
-    "abstract": "Llegó a mis manos una copia de Social Rights and the Constitutional Moment. Learning from Chile and International Experiences el domingo 4 de septiembre de 2022, el mismo día en el que el pueblo chileno decía que no a la propuesta de Constitución a la que el volumen quiso aportar. La circunstancia, por demás anticlimática, marca en cierto sentido el tono de esta reseña, pero no quita mérito a los trabajos allí editados por Koldo Casla, Magdalena Sepúlveda, Vicente Silva y Valentina Contreras. Por el contrario, la intención de la compilación---aprender de Chile y otras experiencias comparadas---parece ser un objetivo especialmente urgente ante el resultado electoral. El dictamen de las urnas, sin embargo, es relevante y permite juzgar la contribución del libro a la luz de esa desilusión."
   },
   {
     "id": "redes_de_jurisprudencia",
@@ -597,35 +572,24 @@
     },
     "id": "rau2020",
     "slug": "layers-of-crises-when-pandemics-meet-institutional-and-economic-havoc",
-    "type_content": "articulos",
+    "type_content": "capitulos",
     "author_display": "Ramiro Álvarez Ugarte",
     "date": "2020-01-01",
     "title": "Layers of crises: when pandemics meet institutional and economic havoc",
     "status": "published",
-    "citation": "<em>Layers of crises: when pandemics meet institutional and economic havoc</em>, Data Justice and COVID-19: Global Perspectives (2020)",
+    "citation": "<em>Layers of crises: when pandemics meet institutional and economic havoc</em>, en Data Justice and COVID-19: Global Perspectives (2020). Editors: Linnet Taylor, Gargi Sharma, Aaron Martin and Shazade Jameson; London: Meatspace Press.",
     "isbn": "978-1-913824-01-3",
     "subjects": "law",
     "comments": false,
     "tag": [
-      "governance"
-    ]
-  },
-  {
-    "id": "layers",
-    "slug": "layers",
-    "type_content": "capitulos",
-    "author_display": "Ramiro Álvarez Ugarte",
-    "date": "2020",
-    "title": "Layers of crises: when pandemics meet institutional and economic havoc",
-    "status": "published",
-    "citation": "<em>Layers of crises: when pandemics meet institutional and economic havoc</em>, en Global Data Justice and COVID-19 (2020). Editors: Linnet Taylor, Gargi Sharma, Aaron Martin and Shazade Jameson; London: Meatspace Press.",
-    "isbn": "978-1-913824-00-6",
-    "subjects": "law",
-    "comments": false,
-    "tag": "privacy",
+      "governance",
+      "privacy"
+    ],
     "delivery_date": "2020-05-01",
     "acceptance_date": "2020-07-07",
-    "abstract": "In Argentina, COVID-19 arrived late and gave the government a chance to prepare. It took that chance: for now, the contagion curve seems to be under control and after the enforcement of a country-wide lockdown, the health system seems to be coping well with the slow rise of cases. The situation is not, however, sustainable. The lockdown is battering an already heavily battered economy, and it is predictably and disproportionately affecting those who are worse off. Something will have to give. Entering the lockdown was easy, but it is increasingly difficult to see how and when we will get out. In that context, the state has simply insisted on old practices regarding the use of technology for governance purposes. In this brief comment I highlight two features of the emergency. The first is related to the constitutional structure that was adopted to produce the state of emergency itself. The second is related to the role that technology has played until now in the crisis, and the role that it may play in the future. I will argue that both features are connected."
+    "aliases": [
+      "layers"
+    ]
   },
   {
     "id": "comentario14",
