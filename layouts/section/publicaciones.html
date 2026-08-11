@@ -1,0 +1,78 @@
+{{/*
+  Project-level override of themes/even/layouts/section/publicaciones.html.
+
+  Same listing as the theme's, with two differences:
+    - each row is rendered by partials/publicacion-item.html rather than by six
+      near-identical copies of the same markup;
+    - a publication carrying `micrositio` in references.json gets a
+      "/ Micrositio" link beside "/ Resumen".
+
+  Kept here rather than edited into the theme so a theme update cannot drop it.
+*/}}
+{{- define "title" }}{{ T "archive" }} - {{ .Site.Title }}{{ end -}}
+
+{{- define "content" }}
+
+{{ $pubpages := .RegularPages }}
+
+<div class="content-wrapper">
+  <div id="content" class="content">
+
+    <!-- post-header -->
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+
+    </header>
+
+<div>
+  <h6><a href="https://ramiroau.github.io/files/papers/rau-vita.pdf">→ CV en PDF (completo)</a></h6>
+</div>
+
+<h2>Trabajos en curso</h2>
+
+{{ $working := where $pubpages "Type" "working_papers" }}
+{{ range $working.ByDate.Reverse }}
+{{ partial "publicacion-item.html" (dict "page" . "label" "Resumen") }}
+{{ end }}
+
+<h2>En prensa</h2>
+
+{{ $forthcoming := where $pubpages "Type" "en_prensa" }}
+{{ range $forthcoming.ByDate.Reverse }}
+{{ partial "publicacion-item.html" (dict "page" . "label" "Resumen") }}
+{{ end }}
+
+
+<h2>Artículos</h2>
+
+{{ $articles := where $pubpages "Type" "articulos" }}
+{{ range $articles.ByDate.Reverse }}
+{{ partial "publicacion-item.html" (dict "page" . "label" "Resumen") }}
+{{ end }}
+
+
+<h2>Capítulos / Obras colectivas</h2>
+
+{{ $chapters := where (where $pubpages "Type" "capitulos") ".Params.kind" "!=" "book" }}
+{{ range $chapters.ByDate.Reverse }}
+{{ partial "publicacion-item.html" (dict "page" . "label" "Abstract") }}
+{{ end }}
+
+<h2>Reseñas</h2>
+
+{{ $reviews := where $pubpages "Type" "reviews" }}
+{{ range $reviews.ByDate.Reverse }}
+{{ partial "publicacion-item.html" (dict "page" . "label" "Resumen") }}
+{{ end }}
+
+<h2>Retirados</h2>
+
+{{ $retired := where $pubpages "Type" "retirados" }}
+{{ range $retired.ByDate.Reverse }}
+{{ partial "publicacion-item.html" (dict "page" . "label" "Resumen") }}
+{{ end }}
+
+  </div>
+</div>
+
+{{- end }}

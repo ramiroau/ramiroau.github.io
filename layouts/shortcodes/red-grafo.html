@@ -1,0 +1,89 @@
+{{- /*
+  red-grafo — red de co-afiliación (force-directed), con zoom y desplazamiento.
+
+  Uso:
+    {{< red-grafo data="organizaciones.json"
+                  titulo="Red de organizaciones"
+                  bajada="Pasá el mouse por un nodo para ver sus datos."
+                  alto="620" etiquetas="14" pesomax="20" >}}
+
+  data       obligatorio. Nombre del archivo en assets/data/redes/
+  titulo     encabezado de la figura. Por defecto, meta.title del JSON.
+  bajada     una línea con la instrucción de lectura.
+  alto       alto del viewBox del SVG. Por defecto 620.
+  etiquetas  cuántos de los nodos más grandes llevan etiqueta. Por defecto 14.
+  pesomax    tope del control "mínimo de personas compartidas".
+             Omitir o poner 0 para ocultar el control.
+*/ -}}
+
+{{- $file := .Get "data" | default (.Get 0) -}}
+{{- if not $file }}{{ errorf "red-grafo: falta data= (en %s)" .Page.File.Path }}{{ end -}}
+{{- $res := resources.Get (printf "data/redes/%s" $file) -}}
+{{- if not $res }}{{ errorf "red-grafo: no se encontró assets/data/redes/%s. Ejecutá scripts/export_network_json.R en el repositorio del paper." $file }}{{ end -}}
+{{- $json := $res.Content | transform.Unmarshal -}}
+{{- $meta := $json.meta -}}
+
+{{- $titulo := .Get "titulo" | default $meta.title -}}
+{{- $alto   := .Get "alto" | default "620" -}}
+{{- $etiq   := .Get "etiquetas" | default "14" -}}
+{{- $pesomax := int (.Get "pesomax" | default "0") -}}
+{{- $uid := printf "%s-%d" .Page.File.BaseFileName .Ordinal -}}
+
+{{ partial "red-assets.html" (dict "page" .Page "viz" "grafo") }}
+
+<div class="red-root" data-viz="grafo"
+     data-height="{{ $alto }}" data-labels="{{ $etiq }}" data-size-key="members">
+
+  <figure class="red-figure">
+    <div class="red-figure__head">
+      <h2 class="red-figure__title">{{ $titulo }}</h2>
+      {{- with .Get "bajada" }}<p class="red-figure__sub">{{ . }}</p>{{ end }}
+    </div>
+
+    <div class="red-controls">
+      {{- if gt $pesomax 0 }}
+      <div class="red-control">
+        <label for="mw-{{ $uid }}">Mínimo de personas compartidas</label>
+        <input class="red-minw" id="mw-{{ $uid }}"
+               type="range" min="1" max="{{ $pesomax }}" step="1" value="1">
+        <output class="red-minw-out">1</output>
+      </div>
+      {{- end }}
+      <span class="red-count"></span>
+      <div class="red-toggle" role="group" aria-label="Ver como">
+        <button type="button" data-view="chart" aria-pressed="true">Diagrama</button>
+        <button type="button" data-view="table" aria-pressed="false">Tabla</button>
+      </div>
+    </div>
+
+    <div class="red-plot">
+      <div class="red-canvas"></div>
+      <div class="red-tip" role="status" data-show="0"></div>
+    </div>
+    <div class="red-zoombar">
+      <span class="red-zoom-hint">Rueda para acercar · arrastrá para mover</span>
+      <div class="red-zoom">
+        <button type="button" data-zoom="out" aria-label="Alejar" title="Alejar">−</button>
+        <span class="red-zoom-level">100%</span>
+        <button type="button" data-zoom="in" aria-label="Acercar" title="Acercar">+</button>
+        <button type="button" data-zoom="reset" aria-label="Restablecer la vista" title="Restablecer" disabled>⤾</button>
+      </div>
+    </div>
+    <div class="red-table-wrap" hidden></div>
+
+    <div class="red-legend">
+      <span class="red-legend__item"><span class="red-legend__swatch" style="background:var(--red-academia)"></span>Academia</span>
+      <span class="red-legend__item"><span class="red-legend__swatch" style="background:var(--red-judicatura)"></span>Judicatura</span>
+      <span class="red-legend__item"><span class="red-legend__swatch" style="background:var(--red-abogacia)"></span>Abogacía</span>
+      <span class="red-legend__item" style="color:var(--red-muted)">Área del círculo ∝ miembros · grosor ∝ personas compartidas</span>
+    </div>
+
+    <figcaption class="red-note">
+      {{ $meta.note }}
+      Fuente: {{ $meta.source }}.
+      {{ $meta.n_nodes }} nodos, {{ $meta.n_links }} vínculos.
+    </figcaption>
+  </figure>
+
+  <script type="application/json">{{ $res.Content | safeJS }}</script>
+</div>

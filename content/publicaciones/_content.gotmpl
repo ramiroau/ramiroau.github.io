@@ -14,6 +14,10 @@
   than with os.FileExists, which on macOS ignores Unicode normalization: a JSON
   entry saying "reseña.pdf" (NFC) matched a file stored as NFD locally and then
   404'd once deployed to Linux. Prefer plain-ASCII filenames.
+
+  Micrositios: an entry may carry `"micrositio": "/redes/"` — a site-relative
+  path to a companion set of pages (interactive figures, data, appendices).
+  Entries without the key get an empty param, so templates render no link.
 */}}
 {{ $refs := readFile "content/publicaciones/references.json" | transform.Unmarshal }}
 {{ $papers := slice }}
@@ -38,6 +42,7 @@
         "ssrn"     (default "" .ssrn)
         "file"     $file
         "uri"      (default "" .uri)
+        "micrositio" (default "" .micrositio)
         "subjects" (default "" .subjects)
         "kind"     (default "" .kind)
         "status"   (default "" .status)

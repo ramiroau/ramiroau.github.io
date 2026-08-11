@@ -1,0 +1,94 @@
+{{- /*
+  red-flujo — diagrama de flujo de dos etapas (Sankey / aluvial), con zoom.
+
+  Uso:
+    {{< red-flujo data="departamentos-tribunales.json"
+                  bajada="El ancho de cada cinta es la cantidad de personas."
+                  color="unico" leyenda="campo" pesomax="40" >}}
+
+  data       obligatorio. Nombre del archivo en assets/data/redes/
+  titulo     encabezado de la figura. Por defecto, meta.title del JSON.
+  bajada     una línea con la instrucción de lectura.
+  color      "unico"   un solo tono (cuando el origen tiene muchas categorías)
+             "ordinal" rampa ordinal validada de 5 pasos, según el rango de origen
+  leyenda    "campo" (por defecto) o "rango"
+  pesomax    tope del control de umbral; omitir o 0 para ocultarlo.
+*/ -}}
+
+{{- $file := .Get "data" | default (.Get 0) -}}
+{{- if not $file }}{{ errorf "red-flujo: falta data= (en %s)" .Page.File.Path }}{{ end -}}
+{{- $res := resources.Get (printf "data/redes/%s" $file) -}}
+{{- if not $res }}{{ errorf "red-flujo: no se encontró assets/data/redes/%s. Ejecutá scripts/export_network_json.R en el repositorio del paper." $file }}{{ end -}}
+{{- $json := $res.Content | transform.Unmarshal -}}
+{{- $meta := $json.meta -}}
+
+{{- $titulo  := .Get "titulo" | default $meta.title -}}
+{{- $color   := .Get "color" | default "unico" -}}
+{{- $leyenda := .Get "leyenda" | default "campo" -}}
+{{- $pesomax := int (.Get "pesomax" | default "0") -}}
+{{- $uid := printf "%s-%d" .Page.File.BaseFileName .Ordinal -}}
+
+{{ partial "red-assets.html" (dict "page" .Page "viz" "flujo") }}
+
+<div class="red-root" data-viz="flujo" data-color="{{ cond (eq $color "ordinal") "ordinal" "single" }}">
+
+  <figure class="red-figure">
+    <div class="red-figure__head">
+      <h2 class="red-figure__title">{{ $titulo }}</h2>
+      {{- with .Get "bajada" }}<p class="red-figure__sub">{{ . }}</p>{{ end }}
+    </div>
+
+    <div class="red-controls">
+      {{- if gt $pesomax 0 }}
+      <div class="red-control">
+        <label for="fw-{{ $uid }}">Mínimo de personas compartidas</label>
+        <input class="red-minw" id="fw-{{ $uid }}"
+               type="range" min="1" max="{{ $pesomax }}" step="1" value="1">
+        <output class="red-minw-out">1</output>
+      </div>
+      {{- end }}
+      <span class="red-count"></span>
+      <div class="red-toggle" role="group" aria-label="Ver como">
+        <button type="button" data-view="chart" aria-pressed="true">Diagrama</button>
+        <button type="button" data-view="table" aria-pressed="false">Tabla</button>
+      </div>
+    </div>
+
+    <div class="red-plot">
+      <div class="red-canvas"></div>
+      <div class="red-tip" role="status" data-show="0"></div>
+    </div>
+    <div class="red-zoombar">
+      <span class="red-zoom-hint">Rueda para acercar · arrastrá para mover</span>
+      <div class="red-zoom">
+        <button type="button" data-zoom="out" aria-label="Alejar" title="Alejar">−</button>
+        <span class="red-zoom-level">100%</span>
+        <button type="button" data-zoom="in" aria-label="Acercar" title="Acercar">+</button>
+        <button type="button" data-zoom="reset" aria-label="Restablecer la vista" title="Restablecer" disabled>⤾</button>
+      </div>
+    </div>
+    <div class="red-table-wrap" hidden></div>
+
+    <div class="red-legend">
+      {{- if eq $leyenda "rango" }}
+      <span class="red-legend__item">Rango académico:</span>
+      <span class="red-legend__item"><span class="red-legend__swatch red-legend__swatch--sq" style="background:var(--red-rango-1)"></span>1 más alto</span>
+      <span class="red-legend__item"><span class="red-legend__swatch red-legend__swatch--sq" style="background:var(--red-rango-2)"></span>2</span>
+      <span class="red-legend__item"><span class="red-legend__swatch red-legend__swatch--sq" style="background:var(--red-rango-3)"></span>3</span>
+      <span class="red-legend__item"><span class="red-legend__swatch red-legend__swatch--sq" style="background:var(--red-rango-4)"></span>4</span>
+      <span class="red-legend__item"><span class="red-legend__swatch red-legend__swatch--sq" style="background:var(--red-rango-5)"></span>5 más bajo</span>
+      {{- else }}
+      <span class="red-legend__item"><span class="red-legend__swatch red-legend__swatch--sq" style="background:var(--red-academia)"></span>Academia</span>
+      <span class="red-legend__item"><span class="red-legend__swatch red-legend__swatch--sq" style="background:var(--red-judicatura)"></span>Judicatura</span>
+      <span class="red-legend__item" style="color:var(--red-muted)">Ancho de la cinta ∝ personas</span>
+      {{- end }}
+    </div>
+
+    <figcaption class="red-note">
+      {{ $meta.note }}
+      Fuente: {{ $meta.source }}.
+    </figcaption>
+  </figure>
+
+  <script type="application/json">{{ $res.Content | safeJS }}</script>
+</div>

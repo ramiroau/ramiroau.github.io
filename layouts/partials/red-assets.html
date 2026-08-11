@@ -1,0 +1,42 @@
+{{- /*
+  red-assets.html — inyecta la hoja de estilos del micrositio y el visor pedido.
+
+  Todo va en línea, no enlazado. El sitio usa relativeURLs = true, con lo cual
+  la URL de un asset depende de la profundidad de la página; incrustarlo evita
+  ese problema y cuesta poco, porque los visores pesan pocos KB.
+
+  Uso: {{ partial "red-assets.html" (dict "page" . "viz" "grafo") }}
+  Sin "viz" emite solo los estilos — el índice de sección necesita los roles de
+  color para sus tarjetas, pero no carga ningún visor.
+
+  SOBRE LA DE-DUPLICACIÓN. Una versión anterior usaba .Page.Store para emitir
+  cada asset una sola vez por página. No es seguro: el índice de sección llama
+  a .Summary, que renderiza el contenido antes que la página misma, así que la
+  bandera ya estaba puesta cuando se generaba la salida real y los assets
+  desaparecían en silencio. Se emiten sin condición; los visores se protegen
+  solos en tiempo de ejecución (window.__netViewer) y un <style> repetido es
+  inocuo.
+*/ -}}
+{{- $viz := .viz | default "" -}}
+
+{{- with resources.Get "css/red.css" -}}
+  <style>{{ .Content | safeCSS }}</style>
+{{- else -}}
+  {{- errorf "red-assets: falta assets/css/red.css" -}}
+{{- end -}}
+
+{{- if ne $viz "" -}}
+  {{- /* El módulo de zoom es compartido por los dos visores. */ -}}
+  {{- with resources.Get "js/red-zoom.js" -}}
+    <script>{{ .Content | safeJS }}</script>
+  {{- else -}}
+    {{- errorf "red-assets: falta assets/js/red-zoom.js" -}}
+  {{- end -}}
+
+  {{- $path := printf "js/red-%s.js" $viz -}}
+  {{- with resources.Get $path -}}
+    <script>{{ .Content | safeJS }}</script>
+  {{- else -}}
+    {{- errorf "red-assets: falta el asset %q" $path -}}
+  {{- end -}}
+{{- end -}}

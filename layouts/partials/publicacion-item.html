@@ -1,0 +1,25 @@
+{{- /*
+  publicacion-item.html — one row of the /publicaciones/ listing.
+
+  The section template repeated this markup once per publication type, which
+  meant any new link had to be pasted six times. It lives here instead, so the
+  micrositio link (and anything added later) is defined once.
+
+  Call with:
+    {{ partial "publicacion-item.html" (dict "page" . "label" "Resumen") }}
+
+  page   the publication page
+  label  text of the link to the detail page. "Resumen" everywhere except
+         Capítulos / Obras colectivas, which has always said "Abstract".
+*/ -}}
+{{- $p := .page -}}
+{{- $label := .label | default "Resumen" -}}
+<p>{{ $p.Params.citation | safeHTML }}
+  <a href="{{ $p.RelPermalink }}">/ {{ $label }}</a>
+  {{ if $p.Params.file }}
+  <a href="{{ $p.Site.BaseURL }}files/papers/{{ $p.Params.file }}">/ PDF</a>
+  {{ end }}
+  {{ with $p.Params.micrositio }}
+  <a href="{{ . | relURL }}">/ Micrositio</a>
+  {{ end }}
+</p>
